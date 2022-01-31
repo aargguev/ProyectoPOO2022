@@ -9,6 +9,6 @@ package Data;
  *
  * @author Hollouss
  */
-public class Visita {
-    
+public enum Visita {
+    VISITADO, NO_VISITADO
 }

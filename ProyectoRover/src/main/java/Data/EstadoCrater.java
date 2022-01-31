@@ -5,10 +5,12 @@
  */
 package Data;
 
+import java.io.Serializable;
+
 /**
  *
  * @author Hollouss
  */
-public class EstadoCrater {
-    
+public enum EstadoCrater implements Serializable {
+    EXPLORADO, NO_EXPLORADO
 }

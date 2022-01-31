@@ -1,0 +1,7881 @@
+Carbonato,0,0
+Carbonato,0,10
+Esmectita,0,20
+Goethita,0,30
+Goethita,0,40
+Esmectita,0,50
+Sílice Opalina,0,60
+Hematita,0,70
+Jarosita,0,80
+Yeso,0,90
+Carbonato,0,100
+Hematita,0,110
+Sulfato de Hierro,0,120
+Sílice Opalina,0,130
+Carbonato,0,140
+Goethita,0,150
+Carbonato,0,160
+Hematita,0,170
+Filosilicatos,0,180
+Esmectita,0,190
+Esmectita,0,200
+Esmectita,0,210
+Sílice Opalina,0,220
+Hematita,0,230
+Sulfato de Hierro,0,240
+Jarosita,0,250
+Hematita,0,260
+Esmectita,0,270
+Jarosita,0,280
+Yeso,0,290
+Sílice Opalina,0,300
+Carbonato,0,310
+Yeso,0,320
+Sulfato de Hierro,0,330
+Sulfato de Hierro,0,340
+Jarosita,0,350
+Jarosita,0,360
+Jarosita,0,370
+Filosilicatos,0,380
+Filosilicatos,0,390
+Esmectita,0,400
+Goethita,0,410
+Yeso,0,420
+Yeso,0,430
+Yeso,0,440
+Carbonato,0,450
+Hematita,0,460
+Goethita,0,470
+Esmectita,0,480
+Jarosita,0,490
+Carbonato,0,500
+Sulfato de Hierro,0,510
+Yeso,0,520
+Esmectita,0,530
+Sílice Opalina,0,540
+Yeso,0,550
+Yeso,0,560
+Goethita,0,570
+Goethita,0,580
+Carbonato,0,590
+Goethita,0,600
+Goethita,0,610
+Carbonato,0,620
+Sílice Opalina,0,630
+Goethita,0,640
+Yeso,0,650
+Filosilicatos,0,660
+Hematita,0,670
+Hematita,0,680
+Yeso,0,690
+Goethita,0,700
+Jarosita,10,0
+Sílice Opalina,10,10
+Hematita,10,20
+Jarosita,10,30
+Jarosita,10,40
+Carbonato,10,50
+Hematita,10,60
+Hematita,10,70
+Sílice Opalina,10,80
+Sulfato de Hierro,10,90
+Carbonato,10,100
+Hematita,10,110
+Yeso,10,120
+Jarosita,10,130
+Filosilicatos,10,140
+Goethita,10,150
+Yeso,10,160
+Hematita,10,170
+Jarosita,10,180
+Yeso,10,190
+Filosilicatos,10,200
+Carbonato,10,210
+Jarosita,10,220
+Carbonato,10,230
+Goethita,10,240
+Goethita,10,250
+Filosilicatos,10,260
+Yeso,10,270
+Sulfato de Hierro,10,280
+Jarosita,10,290
+Sulfato de Hierro,10,300
+Yeso,10,310
+Goethita,10,320
+Sulfato de Hierro,10,330
+Filosilicatos,10,340
+Hematita,10,350
+Yeso,10,360
+Jarosita,10,370
+Goethita,10,380
+Sulfato de Hierro,10,390
+Jarosita,10,400
+Esmectita,10,410
+Sílice Opalina,10,420
+Sílice Opalina,10,430
+Sulfato de Hierro,10,440
+Filosilicatos,10,450
+Sulfato de Hierro,10,460
+Hematita,10,470
+Sílice Opalina,10,480
+Goethita,10,490
+Goethita,10,500
+Filosilicatos,10,510
+Filosilicatos,10,520
+Yeso,10,530
+Esmectita,10,540
+Jarosita,10,550
+Filosilicatos,10,560
+Carbonato,10,570
+Goethita,10,580
+Yeso,10,590
+Sulfato de Hierro,10,600
+Sulfato de Hierro,10,610
+Esmectita,10,620
+Sílice Opalina,10,630
+Filosilicatos,10,640
+Carbonato,10,650
+Hematita,10,660
+Esmectita,10,670
+Jarosita,10,680
+Filosilicatos,10,690
+Goethita,10,700
+Sulfato de Hierro,20,0
+Esmectita,20,10
+Esmectita,20,20
+Esmectita,20,30
+Jarosita,20,40
+Goethita,20,50
+Goethita,20,60
+Goethita,20,70
+Carbonato,20,80
+Sulfato de Hierro,20,90
+Sílice Opalina,20,100
+Jarosita,20,110
+Sulfato de Hierro,20,120
+Yeso,20,130
+Carbonato,20,140
+Goethita,20,150
+Yeso,20,160
+Sílice Opalina,20,170
+Esmectita,20,180
+Yeso,20,190
+Hematita,20,200
+Yeso,20,210
+Jarosita,20,220
+Hematita,20,230
+Filosilicatos,20,240
+Hematita,20,250
+Yeso,20,260
+Sulfato de Hierro,20,270
+Jarosita,20,280
+Hematita,20,290
+Hematita,20,300
+Hematita,20,310
+Esmectita,20,320
+Jarosita,20,330
+Jarosita,20,340
+Yeso,20,350
+Filosilicatos,20,360
+Carbonato,20,370
+Goethita,20,380
+Sílice Opalina,20,390
+Jarosita,20,400
+Sílice Opalina,20,410
+Sílice Opalina,20,420
+Filosilicatos,20,430
+Carbonato,20,440
+Sílice Opalina,20,450
+Jarosita,20,460
+Filosilicatos,20,470
+Yeso,20,480
+Jarosita,20,490
+Hematita,20,500
+Jarosita,20,510
+Yeso,20,520
+Goethita,20,530
+Esmectita,20,540
+Carbonato,20,550
+Sulfato de Hierro,20,560
+Hematita,20,570
+Carbonato,20,580
+Goethita,20,590
+Jarosita,20,600
+Jarosita,20,610
+Sulfato de Hierro,20,620
+Yeso,20,630
+Sílice Opalina,20,640
+Hematita,20,650
+Hematita,20,660
+Goethita,20,670
+Yeso,20,680
+Jarosita,20,690
+Hematita,20,700
+Goethita,30,0
+Yeso,30,10
+Carbonato,30,20
+Yeso,30,30
+Goethita,30,40
+Yeso,30,50
+Sulfato de Hierro,30,60
+Carbonato,30,70
+Sulfato de Hierro,30,80
+Hematita,30,90
+Carbonato,30,100
+Carbonato,30,110
+Esmectita,30,120
+Sílice Opalina,30,130
+Goethita,30,140
+Sulfato de Hierro,30,150
+Jarosita,30,160
+Yeso,30,170
+Carbonato,30,180
+Filosilicatos,30,190
+Filosilicatos,30,200
+Sulfato de Hierro,30,210
+Goethita,30,220
+Goethita,30,230
+Esmectita,30,240
+Filosilicatos,30,250
+Esmectita,30,260
+Jarosita,30,270
+Sílice Opalina,30,280
+Carbonato,30,290
+Goethita,30,300
+Sulfato de Hierro,30,310
+Carbonato,30,320
+Jarosita,30,330
+Esmectita,30,340
+Carbonato,30,350
+Sulfato de Hierro,30,360
+Hematita,30,370
+Goethita,30,380
+Sulfato de Hierro,30,390
+Esmectita,30,400
+Goethita,30,410
+Sulfato de Hierro,30,420
+Jarosita,30,430
+Jarosita,30,440
+Yeso,30,450
+Jarosita,30,460
+Yeso,30,470
+Jarosita,30,480
+Filosilicatos,30,490
+Filosilicatos,30,500
+Esmectita,30,510
+Goethita,30,520
+Esmectita,30,530
+Esmectita,30,540
+Esmectita,30,550
+Filosilicatos,30,560
+Sulfato de Hierro,30,570
+Esmectita,30,580
+Hematita,30,590
+Goethita,30,600
+Sílice Opalina,30,610
+Carbonato,30,620
+Sulfato de Hierro,30,630
+Sulfato de Hierro,30,640
+Esmectita,30,650
+Filosilicatos,30,660
+Jarosita,30,670
+Filosilicatos,30,680
+Jarosita,30,690
+Hematita,30,700
+Jarosita,40,0
+Sílice Opalina,40,10
+Esmectita,40,20
+Goethita,40,30
+Carbonato,40,40
+Carbonato,40,50
+Jarosita,40,60
+Esmectita,40,70
+Yeso,40,80
+Yeso,40,90
+Sulfato de Hierro,40,100
+Sílice Opalina,40,110
+Sílice Opalina,40,120
+Goethita,40,130
+Carbonato,40,140
+Goethita,40,150
+Goethita,40,160
+Sulfato de Hierro,40,170
+Filosilicatos,40,180
+Esmectita,40,190
+Yeso,40,200
+Esmectita,40,210
+Esmectita,40,220
+Jarosita,40,230
+Sulfato de Hierro,40,240
+Hematita,40,250
+Goethita,40,260
+Sílice Opalina,40,270
+Sulfato de Hierro,40,280
+Hematita,40,290
+Sulfato de Hierro,40,300
+Esmectita,40,310
+Goethita,40,320
+Hematita,40,330
+Jarosita,40,340
+Yeso,40,350
+Filosilicatos,40,360
+Hematita,40,370
+Sulfato de Hierro,40,380
+Carbonato,40,390
+Yeso,40,400
+Goethita,40,410
+Goethita,40,420
+Goethita,40,430
+Goethita,40,440
+Carbonato,40,450
+Hematita,40,460
+Filosilicatos,40,470
+Goethita,40,480
+Carbonato,40,490
+Sílice Opalina,40,500
+Sulfato de Hierro,40,510
+Jarosita,40,520
+Hematita,40,530
+Yeso,40,540
+Sulfato de Hierro,40,550
+Sulfato de Hierro,40,560
+Sulfato de Hierro,40,570
+Hematita,40,580
+Yeso,40,590
+Jarosita,40,600
+Yeso,40,610
+Hematita,40,620
+Sílice Opalina,40,630
+Goethita,40,640
+Yeso,40,650
+Jarosita,40,660
+Carbonato,40,670
+Sílice Opalina,40,680
+Goethita,40,690
+Sílice Opalina,40,700
+Sulfato de Hierro,50,0
+Filosilicatos,50,10
+Esmectita,50,20
+Yeso,50,30
+Sílice Opalina,50,40
+Filosilicatos,50,50
+Yeso,50,60
+Carbonato,50,70
+Hematita,50,80
+Filosilicatos,50,90
+Goethita,50,100
+Esmectita,50,110
+Jarosita,50,120
+Sílice Opalina,50,130
+Sílice Opalina,50,140
+Carbonato,50,150
+Carbonato,50,160
+Yeso,50,170
+Yeso,50,180
+Carbonato,50,190
+Carbonato,50,200
+Esmectita,50,210
+Sulfato de Hierro,50,220
+Goethita,50,230
+Sílice Opalina,50,240
+Esmectita,50,250
+Esmectita,50,260
+Filosilicatos,50,270
+Jarosita,50,280
+Yeso,50,290
+Carbonato,50,300
+Hematita,50,310
+Carbonato,50,320
+Yeso,50,330
+Sulfato de Hierro,50,340
+Carbonato,50,350
+Goethita,50,360
+Sulfato de Hierro,50,370
+Jarosita,50,380
+Sulfato de Hierro,50,390
+Jarosita,50,400
+Yeso,50,410
+Carbonato,50,420
+Hematita,50,430
+Carbonato,50,440
+Sílice Opalina,50,450
+Goethita,50,460
+Carbonato,50,470
+Filosilicatos,50,480
+Carbonato,50,490
+Sílice Opalina,50,500
+Sílice Opalina,50,510
+Sílice Opalina,50,520
+Goethita,50,530
+Yeso,50,540
+Goethita,50,550
+Yeso,50,560
+Yeso,50,570
+Carbonato,50,580
+Hematita,50,590
+Sulfato de Hierro,50,600
+Sílice Opalina,50,610
+Filosilicatos,50,620
+Filosilicatos,50,630
+Jarosita,50,640
+Filosilicatos,50,650
+Carbonato,50,660
+Yeso,50,670
+Sílice Opalina,50,680
+Sulfato de Hierro,50,690
+Carbonato,50,700
+Esmectita,60,0
+Carbonato,60,10
+Filosilicatos,60,20
+Filosilicatos,60,30
+Hematita,60,40
+Filosilicatos,60,50
+Carbonato,60,60
+Filosilicatos,60,70
+Jarosita,60,80
+Goethita,60,90
+Carbonato,60,100
+Filosilicatos,60,110
+Filosilicatos,60,120
+Jarosita,60,130
+Esmectita,60,140
+Hematita,60,150
+Esmectita,60,160
+Yeso,60,170
+Jarosita,60,180
+Yeso,60,190
+Yeso,60,200
+Carbonato,60,210
+Hematita,60,220
+Esmectita,60,230
+Hematita,60,240
+Carbonato,60,250
+Sulfato de Hierro,60,260
+Sulfato de Hierro,60,270
+Sílice Opalina,60,280
+Filosilicatos,60,290
+Jarosita,60,300
+Yeso,60,310
+Filosilicatos,60,320
+Yeso,60,330
+Hematita,60,340
+Sulfato de Hierro,60,350
+Carbonato,60,360
+Goethita,60,370
+Jarosita,60,380
+Goethita,60,390
+Jarosita,60,400
+Filosilicatos,60,410
+Sulfato de Hierro,60,420
+Hematita,60,430
+Goethita,60,440
+Hematita,60,450
+Goethita,60,460
+Sulfato de Hierro,60,470
+Sulfato de Hierro,60,480
+Sílice Opalina,60,490
+Hematita,60,500
+Carbonato,60,510
+Sulfato de Hierro,60,520
+Goethita,60,530
+Goethita,60,540
+Sulfato de Hierro,60,550
+Yeso,60,560
+Yeso,60,570
+Esmectita,60,580
+Goethita,60,590
+Carbonato,60,600
+Sulfato de Hierro,60,610
+Filosilicatos,60,620
+Sulfato de Hierro,60,630
+Carbonato,60,640
+Carbonato,60,650
+Esmectita,60,660
+Sulfato de Hierro,60,670
+Hematita,60,680
+Carbonato,60,690
+Esmectita,60,700
+Goethita,70,0
+Jarosita,70,10
+Yeso,70,20
+Carbonato,70,30
+Yeso,70,40
+Jarosita,70,50
+Jarosita,70,60
+Jarosita,70,70
+Jarosita,70,80
+Goethita,70,90
+Sílice Opalina,70,100
+Esmectita,70,110
+Carbonato,70,120
+Esmectita,70,130
+Sílice Opalina,70,140
+Esmectita,70,150
+Carbonato,70,160
+Filosilicatos,70,170
+Hematita,70,180
+Yeso,70,190
+Hematita,70,200
+Filosilicatos,70,210
+Filosilicatos,70,220
+Sulfato de Hierro,70,230
+Sílice Opalina,70,240
+Esmectita,70,250
+Carbonato,70,260
+Hematita,70,270
+Carbonato,70,280
+Filosilicatos,70,290
+Sílice Opalina,70,300
+Sulfato de Hierro,70,310
+Filosilicatos,70,320
+Yeso,70,330
+Yeso,70,340
+Carbonato,70,350
+Sulfato de Hierro,70,360
+Sílice Opalina,70,370
+Sulfato de Hierro,70,380
+Jarosita,70,390
+Sílice Opalina,70,400
+Goethita,70,410
+Filosilicatos,70,420
+Sulfato de Hierro,70,430
+Sílice Opalina,70,440
+Goethita,70,450
+Yeso,70,460
+Sulfato de Hierro,70,470
+Sílice Opalina,70,480
+Jarosita,70,490
+Hematita,70,500
+Sulfato de Hierro,70,510
+Hematita,70,520
+Hematita,70,530
+Filosilicatos,70,540
+Esmectita,70,550
+Goethita,70,560
+Filosilicatos,70,570
+Filosilicatos,70,580
+Goethita,70,590
+Jarosita,70,600
+Filosilicatos,70,610
+Sulfato de Hierro,70,620
+Hematita,70,630
+Jarosita,70,640
+Filosilicatos,70,650
+Hematita,70,660
+Jarosita,70,670
+Goethita,70,680
+Goethita,70,690
+Carbonato,70,700
+Esmectita,80,0
+Sulfato de Hierro,80,10
+Yeso,80,20
+Hematita,80,30
+Jarosita,80,40
+Sílice Opalina,80,50
+Filosilicatos,80,60
+Carbonato,80,70
+Goethita,80,80
+Carbonato,80,90
+Sílice Opalina,80,100
+Sulfato de Hierro,80,110
+Goethita,80,120
+Yeso,80,130
+Sulfato de Hierro,80,140
+Goethita,80,150
+Sulfato de Hierro,80,160
+Goethita,80,170
+Sulfato de Hierro,80,180
+Sulfato de Hierro,80,190
+Esmectita,80,200
+Filosilicatos,80,210
+Goethita,80,220
+Jarosita,80,230
+Hematita,80,240
+Carbonato,80,250
+Filosilicatos,80,260
+Hematita,80,270
+Sulfato de Hierro,80,280
+Jarosita,80,290
+Goethita,80,300
+Hematita,80,310
+Filosilicatos,80,320
+Hematita,80,330
+Goethita,80,340
+Goethita,80,350
+Goethita,80,360
+Hematita,80,370
+Sulfato de Hierro,80,380
+Hematita,80,390
+Sulfato de Hierro,80,400
+Sílice Opalina,80,410
+Hematita,80,420
+Sílice Opalina,80,430
+Sílice Opalina,80,440
+Yeso,80,450
+Carbonato,80,460
+Esmectita,80,470
+Carbonato,80,480
+Sulfato de Hierro,80,490
+Jarosita,80,500
+Jarosita,80,510
+Carbonato,80,520
+Jarosita,80,530
+Goethita,80,540
+Sulfato de Hierro,80,550
+Carbonato,80,560
+Filosilicatos,80,570
+Carbonato,80,580
+Yeso,80,590
+Filosilicatos,80,600
+Goethita,80,610
+Yeso,80,620
+Goethita,80,630
+Yeso,80,640
+Jarosita,80,650
+Sulfato de Hierro,80,660
+Goethita,80,670
+Hematita,80,680
+Sulfato de Hierro,80,690
+Yeso,80,700
+Sílice Opalina,90,0
+Esmectita,90,10
+Filosilicatos,90,20
+Sulfato de Hierro,90,30
+Filosilicatos,90,40
+Carbonato,90,50
+Filosilicatos,90,60
+Carbonato,90,70
+Goethita,90,80
+Sílice Opalina,90,90
+Sulfato de Hierro,90,100
+Filosilicatos,90,110
+Carbonato,90,120
+Sílice Opalina,90,130
+Sulfato de Hierro,90,140
+Filosilicatos,90,150
+Jarosita,90,160
+Sílice Opalina,90,170
+Carbonato,90,180
+Sulfato de Hierro,90,190
+Filosilicatos,90,200
+Hematita,90,210
+Yeso,90,220
+Goethita,90,230
+Esmectita,90,240
+Hematita,90,250
+Sulfato de Hierro,90,260
+Yeso,90,270
+Jarosita,90,280
+Hematita,90,290
+Filosilicatos,90,300
+Carbonato,90,310
+Sílice Opalina,90,320
+Goethita,90,330
+Sílice Opalina,90,340
+Yeso,90,350
+Yeso,90,360
+Sílice Opalina,90,370
+Jarosita,90,380
+Jarosita,90,390
+Filosilicatos,90,400
+Carbonato,90,410
+Carbonato,90,420
+Sulfato de Hierro,90,430
+Goethita,90,440
+Sulfato de Hierro,90,450
+Goethita,90,460
+Yeso,90,470
+Hematita,90,480
+Filosilicatos,90,490
+Sílice Opalina,90,500
+Hematita,90,510
+Hematita,90,520
+Esmectita,90,530
+Jarosita,90,540
+Sílice Opalina,90,550
+Filosilicatos,90,560
+Jarosita,90,570
+Jarosita,90,580
+Carbonato,90,590
+Yeso,90,600
+Carbonato,90,610
+Esmectita,90,620
+Filosilicatos,90,630
+Jarosita,90,640
+Sulfato de Hierro,90,650
+Yeso,90,660
+Hematita,90,670
+Yeso,90,680
+Sílice Opalina,90,690
+Esmectita,90,700
+Jarosita,100,0
+Sílice Opalina,100,10
+Esmectita,100,20
+Sílice Opalina,100,30
+Esmectita,100,40
+Jarosita,100,50
+Hematita,100,60
+Hematita,100,70
+Jarosita,100,80
+Jarosita,100,90
+Filosilicatos,100,100
+Yeso,100,110
+Carbonato,100,120
+Filosilicatos,100,130
+Esmectita,100,140
+Jarosita,100,150
+Carbonato,100,160
+Esmectita,100,170
+Sílice Opalina,100,180
+Filosilicatos,100,190
+Esmectita,100,200
+Filosilicatos,100,210
+Jarosita,100,220
+Esmectita,100,230
+Carbonato,100,240
+Filosilicatos,100,250
+Goethita,100,260
+Jarosita,100,270
+Hematita,100,280
+Sílice Opalina,100,290
+Hematita,100,300
+Yeso,100,310
+Goethita,100,320
+Esmectita,100,330
+Filosilicatos,100,340
+Esmectita,100,350
+Yeso,100,360
+Carbonato,100,370
+Carbonato,100,380
+Jarosita,100,390
+Carbonato,100,400
+Hematita,100,410
+Goethita,100,420
+Yeso,100,430
+Hematita,100,440
+Sulfato de Hierro,100,450
+Sílice Opalina,100,460
+Carbonato,100,470
+Esmectita,100,480
+Hematita,100,490
+Sílice Opalina,100,500
+Goethita,100,510
+Jarosita,100,520
+Sulfato de Hierro,100,530
+Carbonato,100,540
+Yeso,100,550
+Goethita,100,560
+Goethita,100,570
+Hematita,100,580
+Goethita,100,590
+Sulfato de Hierro,100,600
+Hematita,100,610
+Yeso,100,620
+Hematita,100,630
+Sulfato de Hierro,100,640
+Filosilicatos,100,650
+Goethita,100,660
+Hematita,100,670
+Sílice Opalina,100,680
+Filosilicatos,100,690
+Hematita,100,700
+Yeso,110,0
+Filosilicatos,110,10
+Goethita,110,20
+Yeso,110,30
+Hematita,110,40
+Yeso,110,50
+Esmectita,110,60
+Sulfato de Hierro,110,70
+Carbonato,110,80
+Sílice Opalina,110,90
+Hematita,110,100
+Esmectita,110,110
+Sílice Opalina,110,120
+Carbonato,110,130
+Sulfato de Hierro,110,140
+Sulfato de Hierro,110,150
+Yeso,110,160
+Jarosita,110,170
+Sulfato de Hierro,110,180
+Filosilicatos,110,190
+Esmectita,110,200
+Carbonato,110,210
+Filosilicatos,110,220
+Goethita,110,230
+Esmectita,110,240
+Sulfato de Hierro,110,250
+Sílice Opalina,110,260
+Jarosita,110,270
+Sulfato de Hierro,110,280
+Goethita,110,290
+Sílice Opalina,110,300
+Jarosita,110,310
+Sílice Opalina,110,320
+Hematita,110,330
+Goethita,110,340
+Filosilicatos,110,350
+Goethita,110,360
+Sílice Opalina,110,370
+Filosilicatos,110,380
+Hematita,110,390
+Hematita,110,400
+Filosilicatos,110,410
+Hematita,110,420
+Yeso,110,430
+Sulfato de Hierro,110,440
+Sulfato de Hierro,110,450
+Carbonato,110,460
+Esmectita,110,470
+Sulfato de Hierro,110,480
+Hematita,110,490
+Carbonato,110,500
+Goethita,110,510
+Jarosita,110,520
+Sulfato de Hierro,110,530
+Yeso,110,540
+Carbonato,110,550
+Sílice Opalina,110,560
+Hematita,110,570
+Carbonato,110,580
+Yeso,110,590
+Filosilicatos,110,600
+Sílice Opalina,110,610
+Yeso,110,620
+Goethita,110,630
+Goethita,110,640
+Yeso,110,650
+Filosilicatos,110,660
+Sílice Opalina,110,670
+Sílice Opalina,110,680
+Esmectita,110,690
+Esmectita,110,700
+Goethita,120,0
+Sílice Opalina,120,10
+Sulfato de Hierro,120,20
+Sulfato de Hierro,120,30
+Esmectita,120,40
+Filosilicatos,120,50
+Yeso,120,60
+Yeso,120,70
+Carbonato,120,80
+Goethita,120,90
+Esmectita,120,100
+Yeso,120,110
+Hematita,120,120
+Sílice Opalina,120,130
+Esmectita,120,140
+Filosilicatos,120,150
+Hematita,120,160
+Sílice Opalina,120,170
+Sulfato de Hierro,120,180
+Sulfato de Hierro,120,190
+Goethita,120,200
+Hematita,120,210
+Hematita,120,220
+Esmectita,120,230
+Jarosita,120,240
+Filosilicatos,120,250
+Hematita,120,260
+Carbonato,120,270
+Filosilicatos,120,280
+Hematita,120,290
+Esmectita,120,300
+Sulfato de Hierro,120,310
+Esmectita,120,320
+Esmectita,120,330
+Sílice Opalina,120,340
+Carbonato,120,350
+Sulfato de Hierro,120,360
+Hematita,120,370
+Sulfato de Hierro,120,380
+Filosilicatos,120,390
+Jarosita,120,400
+Sulfato de Hierro,120,410
+Goethita,120,420
+Sílice Opalina,120,430
+Esmectita,120,440
+Carbonato,120,450
+Jarosita,120,460
+Carbonato,120,470
+Jarosita,120,480
+Hematita,120,490
+Hematita,120,500
+Sílice Opalina,120,510
+Sulfato de Hierro,120,520
+Yeso,120,530
+Yeso,120,540
+Carbonato,120,550
+Sílice Opalina,120,560
+Jarosita,120,570
+Goethita,120,580
+Sílice Opalina,120,590
+Sílice Opalina,120,600
+Esmectita,120,610
+Hematita,120,620
+Filosilicatos,120,630
+Hematita,120,640
+Jarosita,120,650
+Sulfato de Hierro,120,660
+Yeso,120,670
+Jarosita,120,680
+Esmectita,120,690
+Hematita,120,700
+Jarosita,130,0
+Sílice Opalina,130,10
+Hematita,130,20
+Carbonato,130,30
+Hematita,130,40
+Jarosita,130,50
+Esmectita,130,60
+Goethita,130,70
+Filosilicatos,130,80
+Goethita,130,90
+Carbonato,130,100
+Carbonato,130,110
+Goethita,130,120
+Yeso,130,130
+Sílice Opalina,130,140
+Jarosita,130,150
+Carbonato,130,160
+Carbonato,130,170
+Sílice Opalina,130,180
+Sulfato de Hierro,130,190
+Goethita,130,200
+Yeso,130,210
+Hematita,130,220
+Sulfato de Hierro,130,230
+Jarosita,130,240
+Carbonato,130,250
+Carbonato,130,260
+Goethita,130,270
+Jarosita,130,280
+Filosilicatos,130,290
+Carbonato,130,300
+Hematita,130,310
+Esmectita,130,320
+Esmectita,130,330
+Hematita,130,340
+Yeso,130,350
+Goethita,130,360
+Carbonato,130,370
+Filosilicatos,130,380
+Jarosita,130,390
+Filosilicatos,130,400
+Esmectita,130,410
+Sulfato de Hierro,130,420
+Sulfato de Hierro,130,430
+Goethita,130,440
+Yeso,130,450
+Filosilicatos,130,460
+Jarosita,130,470
+Goethita,130,480
+Yeso,130,490
+Yeso,130,500
+Sulfato de Hierro,130,510
+Carbonato,130,520
+Yeso,130,530
+Sílice Opalina,130,540
+Hematita,130,550
+Sílice Opalina,130,560
+Carbonato,130,570
+Sulfato de Hierro,130,580
+Filosilicatos,130,590
+Filosilicatos,130,600
+Sulfato de Hierro,130,610
+Esmectita,130,620
+Yeso,130,630
+Esmectita,130,640
+Esmectita,130,650
+Sulfato de Hierro,130,660
+Esmectita,130,670
+Hematita,130,680
+Filosilicatos,130,690
+Yeso,130,700
+Carbonato,140,0
+Filosilicatos,140,10
+Yeso,140,20
+Sílice Opalina,140,30
+Filosilicatos,140,40
+Esmectita,140,50
+Yeso,140,60
+Jarosita,140,70
+Sílice Opalina,140,80
+Filosilicatos,140,90
+Esmectita,140,100
+Jarosita,140,110
+Yeso,140,120
+Filosilicatos,140,130
+Sílice Opalina,140,140
+Hematita,140,150
+Yeso,140,160
+Sulfato de Hierro,140,170
+Yeso,140,180
+Filosilicatos,140,190
+Jarosita,140,200
+Sulfato de Hierro,140,210
+Sulfato de Hierro,140,220
+Esmectita,140,230
+Yeso,140,240
+Hematita,140,250
+Goethita,140,260
+Yeso,140,270
+Jarosita,140,280
+Hematita,140,290
+Filosilicatos,140,300
+Sulfato de Hierro,140,310
+Yeso,140,320
+Goethita,140,330
+Jarosita,140,340
+Sílice Opalina,140,350
+Sílice Opalina,140,360
+Hematita,140,370
+Filosilicatos,140,380
+Carbonato,140,390
+Yeso,140,400
+Sulfato de Hierro,140,410
+Goethita,140,420
+Carbonato,140,430
+Hematita,140,440
+Filosilicatos,140,450
+Sulfato de Hierro,140,460
+Esmectita,140,470
+Carbonato,140,480
+Jarosita,140,490
+Sulfato de Hierro,140,500
+Filosilicatos,140,510
+Carbonato,140,520
+Hematita,140,530
+Carbonato,140,540
+Filosilicatos,140,550
+Goethita,140,560
+Esmectita,140,570
+Goethita,140,580
+Sílice Opalina,140,590
+Sílice Opalina,140,600
+Goethita,140,610
+Carbonato,140,620
+Jarosita,140,630
+Hematita,140,640
+Goethita,140,650
+Hematita,140,660
+Goethita,140,670
+Sulfato de Hierro,140,680
+Carbonato,140,690
+Jarosita,140,700
+Yeso,150,0
+Jarosita,150,10
+Yeso,150,20
+Hematita,150,30
+Carbonato,150,40
+Filosilicatos,150,50
+Filosilicatos,150,60
+Carbonato,150,70
+Carbonato,150,80
+Yeso,150,90
+Jarosita,150,100
+Carbonato,150,110
+Yeso,150,120
+Esmectita,150,130
+Goethita,150,140
+Carbonato,150,150
+Goethita,150,160
+Jarosita,150,170
+Goethita,150,180
+Goethita,150,190
+Hematita,150,200
+Sulfato de Hierro,150,210
+Carbonato,150,220
+Yeso,150,230
+Goethita,150,240
+Filosilicatos,150,250
+Esmectita,150,260
+Sulfato de Hierro,150,270
+Filosilicatos,150,280
+Carbonato,150,290
+Carbonato,150,300
+Esmectita,150,310
+Carbonato,150,320
+Filosilicatos,150,330
+Filosilicatos,150,340
+Filosilicatos,150,350
+Sílice Opalina,150,360
+Filosilicatos,150,370
+Esmectita,150,380
+Sílice Opalina,150,390
+Carbonato,150,400
+Yeso,150,410
+Yeso,150,420
+Filosilicatos,150,430
+Hematita,150,440
+Carbonato,150,450
+Jarosita,150,460
+Filosilicatos,150,470
+Yeso,150,480
+Goethita,150,490
+Esmectita,150,500
+Sulfato de Hierro,150,510
+Goethita,150,520
+Carbonato,150,530
+Carbonato,150,540
+Sílice Opalina,150,550
+Esmectita,150,560
+Sílice Opalina,150,570
+Sulfato de Hierro,150,580
+Esmectita,150,590
+Goethita,150,600
+Goethita,150,610
+Esmectita,150,620
+Hematita,150,630
+Sulfato de Hierro,150,640
+Filosilicatos,150,650
+Yeso,150,660
+Yeso,150,670
+Goethita,150,680
+Sílice Opalina,150,690
+Esmectita,150,700
+Jarosita,160,0
+Goethita,160,10
+Sulfato de Hierro,160,20
+Carbonato,160,30
+Hematita,160,40
+Sulfato de Hierro,160,50
+Hematita,160,60
+Filosilicatos,160,70
+Yeso,160,80
+Carbonato,160,90
+Sulfato de Hierro,160,100
+Jarosita,160,110
+Carbonato,160,120
+Goethita,160,130
+Goethita,160,140
+Sílice Opalina,160,150
+Hematita,160,160
+Goethita,160,170
+Esmectita,160,180
+Sílice Opalina,160,190
+Sulfato de Hierro,160,200
+Carbonato,160,210
+Goethita,160,220
+Sulfato de Hierro,160,230
+Jarosita,160,240
+Yeso,160,250
+Esmectita,160,260
+Sulfato de Hierro,160,270
+Carbonato,160,280
+Yeso,160,290
+Goethita,160,300
+Goethita,160,310
+Hematita,160,320
+Jarosita,160,330
+Goethita,160,340
+Esmectita,160,350
+Sulfato de Hierro,160,360
+Carbonato,160,370
+Goethita,160,380
+Goethita,160,390
+Hematita,160,400
+Esmectita,160,410
+Goethita,160,420
+Sulfato de Hierro,160,430
+Jarosita,160,440
+Esmectita,160,450
+Sílice Opalina,160,460
+Hematita,160,470
+Filosilicatos,160,480
+Yeso,160,490
+Sulfato de Hierro,160,500
+Yeso,160,510
+Carbonato,160,520
+Hematita,160,530
+Sílice Opalina,160,540
+Hematita,160,550
+Carbonato,160,560
+Hematita,160,570
+Esmectita,160,580
+Yeso,160,590
+Filosilicatos,160,600
+Yeso,160,610
+Filosilicatos,160,620
+Esmectita,160,630
+Yeso,160,640
+Carbonato,160,650
+Hematita,160,660
+Sílice Opalina,160,670
+Goethita,160,680
+Hematita,160,690
+Sílice Opalina,160,700
+Filosilicatos,170,0
+Jarosita,170,10
+Goethita,170,20
+Goethita,170,30
+Filosilicatos,170,40
+Sulfato de Hierro,170,50
+Esmectita,170,60
+Jarosita,170,70
+Carbonato,170,80
+Jarosita,170,90
+Filosilicatos,170,100
+Yeso,170,110
+Sílice Opalina,170,120
+Filosilicatos,170,130
+Hematita,170,140
+Yeso,170,150
+Jarosita,170,160
+Carbonato,170,170
+Hematita,170,180
+Sílice Opalina,170,190
+Esmectita,170,200
+Goethita,170,210
+Carbonato,170,220
+Carbonato,170,230
+Sílice Opalina,170,240
+Carbonato,170,250
+Hematita,170,260
+Sílice Opalina,170,270
+Hematita,170,280
+Esmectita,170,290
+Sílice Opalina,170,300
+Carbonato,170,310
+Jarosita,170,320
+Jarosita,170,330
+Goethita,170,340
+Goethita,170,350
+Yeso,170,360
+Jarosita,170,370
+Jarosita,170,380
+Yeso,170,390
+Sílice Opalina,170,400
+Filosilicatos,170,410
+Hematita,170,420
+Goethita,170,430
+Jarosita,170,440
+Yeso,170,450
+Goethita,170,460
+Esmectita,170,470
+Hematita,170,480
+Esmectita,170,490
+Esmectita,170,500
+Sulfato de Hierro,170,510
+Sílice Opalina,170,520
+Hematita,170,530
+Esmectita,170,540
+Goethita,170,550
+Carbonato,170,560
+Hematita,170,570
+Esmectita,170,580
+Goethita,170,590
+Yeso,170,600
+Sílice Opalina,170,610
+Esmectita,170,620
+Esmectita,170,630
+Sulfato de Hierro,170,640
+Goethita,170,650
+Goethita,170,660
+Jarosita,170,670
+Carbonato,170,680
+Sulfato de Hierro,170,690
+Sílice Opalina,170,700
+Filosilicatos,180,0
+Yeso,180,10
+Sílice Opalina,180,20
+Goethita,180,30
+Filosilicatos,180,40
+Carbonato,180,50
+Goethita,180,60
+Sulfato de Hierro,180,70
+Esmectita,180,80
+Carbonato,180,90
+Carbonato,180,100
+Goethita,180,110
+Esmectita,180,120
+Sulfato de Hierro,180,130
+Carbonato,180,140
+Jarosita,180,150
+Carbonato,180,160
+Sulfato de Hierro,180,170
+Carbonato,180,180
+Goethita,180,190
+Esmectita,180,200
+Esmectita,180,210
+Goethita,180,220
+Yeso,180,230
+Filosilicatos,180,240
+Sílice Opalina,180,250
+Jarosita,180,260
+Hematita,180,270
+Jarosita,180,280
+Esmectita,180,290
+Sulfato de Hierro,180,300
+Sílice Opalina,180,310
+Carbonato,180,320
+Filosilicatos,180,330
+Carbonato,180,340
+Yeso,180,350
+Carbonato,180,360
+Jarosita,180,370
+Filosilicatos,180,380
+Sílice Opalina,180,390
+Sílice Opalina,180,400
+Yeso,180,410
+Esmectita,180,420
+Goethita,180,430
+Yeso,180,440
+Sulfato de Hierro,180,450
+Sílice Opalina,180,460
+Goethita,180,470
+Carbonato,180,480
+Esmectita,180,490
+Esmectita,180,500
+Esmectita,180,510
+Filosilicatos,180,520
+Sílice Opalina,180,530
+Sílice Opalina,180,540
+Yeso,180,550
+Sílice Opalina,180,560
+Filosilicatos,180,570
+Yeso,180,580
+Hematita,180,590
+Filosilicatos,180,600
+Esmectita,180,610
+Hematita,180,620
+Filosilicatos,180,630
+Carbonato,180,640
+Sulfato de Hierro,180,650
+Esmectita,180,660
+Filosilicatos,180,670
+Carbonato,180,680
+Jarosita,180,690
+Sílice Opalina,180,700
+Carbonato,190,0
+Carbonato,190,10
+Filosilicatos,190,20
+Goethita,190,30
+Jarosita,190,40
+Jarosita,190,50
+Jarosita,190,60
+Hematita,190,70
+Sílice Opalina,190,80
+Sílice Opalina,190,90
+Carbonato,190,100
+Jarosita,190,110
+Filosilicatos,190,120
+Goethita,190,130
+Yeso,190,140
+Sílice Opalina,190,150
+Goethita,190,160
+Filosilicatos,190,170
+Jarosita,190,180
+Esmectita,190,190
+Carbonato,190,200
+Hematita,190,210
+Goethita,190,220
+Sílice Opalina,190,230
+Goethita,190,240
+Sulfato de Hierro,190,250
+Filosilicatos,190,260
+Jarosita,190,270
+Carbonato,190,280
+Yeso,190,290
+Carbonato,190,300
+Sulfato de Hierro,190,310
+Sulfato de Hierro,190,320
+Filosilicatos,190,330
+Sulfato de Hierro,190,340
+Filosilicatos,190,350
+Filosilicatos,190,360
+Filosilicatos,190,370
+Jarosita,190,380
+Esmectita,190,390
+Hematita,190,400
+Goethita,190,410
+Filosilicatos,190,420
+Goethita,190,430
+Sulfato de Hierro,190,440
+Hematita,190,450
+Goethita,190,460
+Goethita,190,470
+Yeso,190,480
+Carbonato,190,490
+Sulfato de Hierro,190,500
+Carbonato,190,510
+Filosilicatos,190,520
+Esmectita,190,530
+Jarosita,190,540
+Sílice Opalina,190,550
+Goethita,190,560
+Jarosita,190,570
+Yeso,190,580
+Goethita,190,590
+Filosilicatos,190,600
+Carbonato,190,610
+Goethita,190,620
+Sulfato de Hierro,190,630
+Esmectita,190,640
+Filosilicatos,190,650
+Hematita,190,660
+Sílice Opalina,190,670
+Carbonato,190,680
+Sílice Opalina,190,690
+Yeso,190,700
+Jarosita,200,0
+Goethita,200,10
+Sílice Opalina,200,20
+Jarosita,200,30
+Sulfato de Hierro,200,40
+Hematita,200,50
+Hematita,200,60
+Hematita,200,70
+Hematita,200,80
+Goethita,200,90
+Esmectita,200,100
+Carbonato,200,110
+Filosilicatos,200,120
+Hematita,200,130
+Sulfato de Hierro,200,140
+Sílice Opalina,200,150
+Sílice Opalina,200,160
+Hematita,200,170
+Hematita,200,180
+Yeso,200,190
+Jarosita,200,200
+Esmectita,200,210
+Carbonato,200,220
+Jarosita,200,230
+Carbonato,200,240
+Goethita,200,250
+Esmectita,200,260
+Hematita,200,270
+Hematita,200,280
+Sulfato de Hierro,200,290
+Sulfato de Hierro,200,300
+Yeso,200,310
+Goethita,200,320
+Filosilicatos,200,330
+Jarosita,200,340
+Hematita,200,350
+Filosilicatos,200,360
+Goethita,200,370
+Esmectita,200,380
+Esmectita,200,390
+Filosilicatos,200,400
+Yeso,200,410
+Hematita,200,420
+Sílice Opalina,200,430
+Sílice Opalina,200,440
+Hematita,200,450
+Goethita,200,460
+Sulfato de Hierro,200,470
+Goethita,200,480
+Goethita,200,490
+Goethita,200,500
+Sulfato de Hierro,200,510
+Sílice Opalina,200,520
+Sílice Opalina,200,530
+Yeso,200,540
+Sulfato de Hierro,200,550
+Goethita,200,560
+Sílice Opalina,200,570
+Jarosita,200,580
+Esmectita,200,590
+Filosilicatos,200,600
+Sulfato de Hierro,200,610
+Jarosita,200,620
+Goethita,200,630
+Yeso,200,640
+Sulfato de Hierro,200,650
+Yeso,200,660
+Hematita,200,670
+Yeso,200,680
+Yeso,200,690
+Sílice Opalina,200,700
+Sílice Opalina,210,0
+Yeso,210,10
+Yeso,210,20
+Hematita,210,30
+Sílice Opalina,210,40
+Jarosita,210,50
+Goethita,210,60
+Yeso,210,70
+Filosilicatos,210,80
+Sulfato de Hierro,210,90
+Goethita,210,100
+Sílice Opalina,210,110
+Sílice Opalina,210,120
+Sulfato de Hierro,210,130
+Filosilicatos,210,140
+Yeso,210,150
+Esmectita,210,160
+Jarosita,210,170
+Carbonato,210,180
+Esmectita,210,190
+Esmectita,210,200
+Sulfato de Hierro,210,210
+Yeso,210,220
+Jarosita,210,230
+Esmectita,210,240
+Hematita,210,250
+Carbonato,210,260
+Goethita,210,270
+Jarosita,210,280
+Sílice Opalina,210,290
+Esmectita,210,300
+Filosilicatos,210,310
+Goethita,210,320
+Jarosita,210,330
+Hematita,210,340
+Jarosita,210,350
+Sulfato de Hierro,210,360
+Sílice Opalina,210,370
+Jarosita,210,380
+Goethita,210,390
+Hematita,210,400
+Sílice Opalina,210,410
+Esmectita,210,420
+Jarosita,210,430
+Goethita,210,440
+Jarosita,210,450
+Jarosita,210,460
+Carbonato,210,470
+Hematita,210,480
+Filosilicatos,210,490
+Filosilicatos,210,500
+Carbonato,210,510
+Filosilicatos,210,520
+Esmectita,210,530
+Jarosita,210,540
+Jarosita,210,550
+Sílice Opalina,210,560
+Filosilicatos,210,570
+Sílice Opalina,210,580
+Sulfato de Hierro,210,590
+Hematita,210,600
+Hematita,210,610
+Carbonato,210,620
+Hematita,210,630
+Sulfato de Hierro,210,640
+Carbonato,210,650
+Sílice Opalina,210,660
+Yeso,210,670
+Filosilicatos,210,680
+Carbonato,210,690
+Goethita,210,700
+Jarosita,220,0
+Esmectita,220,10
+Jarosita,220,20
+Sílice Opalina,220,30
+Goethita,220,40
+Filosilicatos,220,50
+Goethita,220,60
+Goethita,220,70
+Carbonato,220,80
+Carbonato,220,90
+Filosilicatos,220,100
+Esmectita,220,110
+Esmectita,220,120
+Filosilicatos,220,130
+Goethita,220,140
+Carbonato,220,150
+Esmectita,220,160
+Sílice Opalina,220,170
+Jarosita,220,180
+Hematita,220,190
+Filosilicatos,220,200
+Carbonato,220,210
+Hematita,220,220
+Hematita,220,230
+Filosilicatos,220,240
+Jarosita,220,250
+Jarosita,220,260
+Sulfato de Hierro,220,270
+Sulfato de Hierro,220,280
+Sulfato de Hierro,220,290
+Jarosita,220,300
+Carbonato,220,310
+Filosilicatos,220,320
+Filosilicatos,220,330
+Goethita,220,340
+Sulfato de Hierro,220,350
+Hematita,220,360
+Hematita,220,370
+Goethita,220,380
+Carbonato,220,390
+Esmectita,220,400
+Goethita,220,410
+Esmectita,220,420
+Sílice Opalina,220,430
+Sulfato de Hierro,220,440
+Goethita,220,450
+Esmectita,220,460
+Jarosita,220,470
+Sílice Opalina,220,480
+Jarosita,220,490
+Carbonato,220,500
+Sulfato de Hierro,220,510
+Filosilicatos,220,520
+Sulfato de Hierro,220,530
+Esmectita,220,540
+Yeso,220,550
+Filosilicatos,220,560
+Goethita,220,570
+Sulfato de Hierro,220,580
+Carbonato,220,590
+Filosilicatos,220,600
+Sílice Opalina,220,610
+Carbonato,220,620
+Hematita,220,630
+Yeso,220,640
+Yeso,220,650
+Yeso,220,660
+Jarosita,220,670
+Carbonato,220,680
+Goethita,220,690
+Sílice Opalina,220,700
+Esmectita,230,0
+Sílice Opalina,230,10
+Esmectita,230,20
+Esmectita,230,30
+Carbonato,230,40
+Sílice Opalina,230,50
+Jarosita,230,60
+Yeso,230,70
+Esmectita,230,80
+Hematita,230,90
+Esmectita,230,100
+Yeso,230,110
+Yeso,230,120
+Hematita,230,130
+Filosilicatos,230,140
+Carbonato,230,150
+Hematita,230,160
+Sulfato de Hierro,230,170
+Esmectita,230,180
+Carbonato,230,190
+Jarosita,230,200
+Esmectita,230,210
+Filosilicatos,230,220
+Hematita,230,230
+Hematita,230,240
+Hematita,230,250
+Sulfato de Hierro,230,260
+Filosilicatos,230,270
+Hematita,230,280
+Sílice Opalina,230,290
+Goethita,230,300
+Esmectita,230,310
+Yeso,230,320
+Hematita,230,330
+Carbonato,230,340
+Sulfato de Hierro,230,350
+Esmectita,230,360
+Filosilicatos,230,370
+Sílice Opalina,230,380
+Sílice Opalina,230,390
+Hematita,230,400
+Jarosita,230,410
+Esmectita,230,420
+Carbonato,230,430
+Jarosita,230,440
+Goethita,230,450
+Esmectita,230,460
+Filosilicatos,230,470
+Carbonato,230,480
+Carbonato,230,490
+Jarosita,230,500
+Yeso,230,510
+Jarosita,230,520
+Yeso,230,530
+Sílice Opalina,230,540
+Hematita,230,550
+Sulfato de Hierro,230,560
+Filosilicatos,230,570
+Filosilicatos,230,580
+Filosilicatos,230,590
+Hematita,230,600
+Filosilicatos,230,610
+Sulfato de Hierro,230,620
+Hematita,230,630
+Filosilicatos,230,640
+Carbonato,230,650
+Jarosita,230,660
+Yeso,230,670
+Jarosita,230,680
+Sulfato de Hierro,230,690
+Sulfato de Hierro,230,700
+Yeso,240,0
+Filosilicatos,240,10
+Filosilicatos,240,20
+Esmectita,240,30
+Esmectita,240,40
+Esmectita,240,50
+Hematita,240,60
+Filosilicatos,240,70
+Esmectita,240,80
+Sulfato de Hierro,240,90
+Yeso,240,100
+Carbonato,240,110
+Esmectita,240,120
+Esmectita,240,130
+Hematita,240,140
+Jarosita,240,150
+Sulfato de Hierro,240,160
+Yeso,240,170
+Carbonato,240,180
+Esmectita,240,190
+Sulfato de Hierro,240,200
+Sílice Opalina,240,210
+Yeso,240,220
+Sulfato de Hierro,240,230
+Hematita,240,240
+Goethita,240,250
+Sulfato de Hierro,240,260
+Sílice Opalina,240,270
+Hematita,240,280
+Hematita,240,290
+Yeso,240,300
+Yeso,240,310
+Jarosita,240,320
+Yeso,240,330
+Esmectita,240,340
+Yeso,240,350
+Esmectita,240,360
+Jarosita,240,370
+Hematita,240,380
+Filosilicatos,240,390
+Hematita,240,400
+Esmectita,240,410
+Filosilicatos,240,420
+Sulfato de Hierro,240,430
+Carbonato,240,440
+Esmectita,240,450
+Carbonato,240,460
+Goethita,240,470
+Goethita,240,480
+Carbonato,240,490
+Carbonato,240,500
+Filosilicatos,240,510
+Carbonato,240,520
+Goethita,240,530
+Hematita,240,540
+Goethita,240,550
+Goethita,240,560
+Filosilicatos,240,570
+Sulfato de Hierro,240,580
+Jarosita,240,590
+Hematita,240,600
+Yeso,240,610
+Goethita,240,620
+Esmectita,240,630
+Carbonato,240,640
+Esmectita,240,650
+Filosilicatos,240,660
+Hematita,240,670
+Yeso,240,680
+Yeso,240,690
+Yeso,240,700
+Filosilicatos,250,0
+Filosilicatos,250,10
+Hematita,250,20
+Sílice Opalina,250,30
+Esmectita,250,40
+Jarosita,250,50
+Hematita,250,60
+Sílice Opalina,250,70
+Filosilicatos,250,80
+Filosilicatos,250,90
+Esmectita,250,100
+Goethita,250,110
+Sílice Opalina,250,120
+Sílice Opalina,250,130
+Hematita,250,140
+Goethita,250,150
+Filosilicatos,250,160
+Carbonato,250,170
+Carbonato,250,180
+Sulfato de Hierro,250,190
+Filosilicatos,250,200
+Carbonato,250,210
+Esmectita,250,220
+Hematita,250,230
+Hematita,250,240
+Goethita,250,250
+Sílice Opalina,250,260
+Carbonato,250,270
+Sulfato de Hierro,250,280
+Yeso,250,290
+Esmectita,250,300
+Carbonato,250,310
+Jarosita,250,320
+Hematita,250,330
+Jarosita,250,340
+Filosilicatos,250,350
+Yeso,250,360
+Sulfato de Hierro,250,370
+Carbonato,250,380
+Sílice Opalina,250,390
+Carbonato,250,400
+Filosilicatos,250,410
+Jarosita,250,420
+Sulfato de Hierro,250,430
+Carbonato,250,440
+Sílice Opalina,250,450
+Esmectita,250,460
+Esmectita,250,470
+Carbonato,250,480
+Sílice Opalina,250,490
+Hematita,250,500
+Esmectita,250,510
+Goethita,250,520
+Sílice Opalina,250,530
+Goethita,250,540
+Hematita,250,550
+Filosilicatos,250,560
+Hematita,250,570
+Esmectita,250,580
+Carbonato,250,590
+Jarosita,250,600
+Sílice Opalina,250,610
+Filosilicatos,250,620
+Goethita,250,630
+Filosilicatos,250,640
+Sulfato de Hierro,250,650
+Sílice Opalina,250,660
+Jarosita,250,670
+Sílice Opalina,250,680
+Jarosita,250,690
+Goethita,250,700
+Sulfato de Hierro,260,0
+Goethita,260,10
+Goethita,260,20
+Carbonato,260,30
+Esmectita,260,40
+Esmectita,260,50
+Esmectita,260,60
+Goethita,260,70
+Sílice Opalina,260,80
+Esmectita,260,90
+Hematita,260,100
+Filosilicatos,260,110
+Jarosita,260,120
+Goethita,260,130
+Esmectita,260,140
+Esmectita,260,150
+Yeso,260,160
+Esmectita,260,170
+Hematita,260,180
+Filosilicatos,260,190
+Jarosita,260,200
+Esmectita,260,210
+Yeso,260,220
+Jarosita,260,230
+Sílice Opalina,260,240
+Sulfato de Hierro,260,250
+Yeso,260,260
+Yeso,260,270
+Jarosita,260,280
+Esmectita,260,290
+Hematita,260,300
+Jarosita,260,310
+Sulfato de Hierro,260,320
+Sulfato de Hierro,260,330
+Hematita,260,340
+Filosilicatos,260,350
+Sulfato de Hierro,260,360
+Esmectita,260,370
+Filosilicatos,260,380
+Hematita,260,390
+Jarosita,260,400
+Hematita,260,410
+Carbonato,260,420
+Esmectita,260,430
+Sílice Opalina,260,440
+Carbonato,260,450
+Carbonato,260,460
+Goethita,260,470
+Yeso,260,480
+Carbonato,260,490
+Esmectita,260,500
+Sulfato de Hierro,260,510
+Esmectita,260,520
+Filosilicatos,260,530
+Yeso,260,540
+Carbonato,260,550
+Hematita,260,560
+Carbonato,260,570
+Yeso,260,580
+Carbonato,260,590
+Esmectita,260,600
+Esmectita,260,610
+Hematita,260,620
+Sulfato de Hierro,260,630
+Jarosita,260,640
+Hematita,260,650
+Goethita,260,660
+Goethita,260,670
+Jarosita,260,680
+Carbonato,260,690
+Jarosita,260,700
+Hematita,270,0
+Sílice Opalina,270,10
+Sulfato de Hierro,270,20
+Carbonato,270,30
+Goethita,270,40
+Goethita,270,50
+Goethita,270,60
+Carbonato,270,70
+Filosilicatos,270,80
+Yeso,270,90
+Hematita,270,100
+Goethita,270,110
+Esmectita,270,120
+Carbonato,270,130
+Sílice Opalina,270,140
+Yeso,270,150
+Esmectita,270,160
+Esmectita,270,170
+Sulfato de Hierro,270,180
+Sulfato de Hierro,270,190
+Goethita,270,200
+Yeso,270,210
+Sílice Opalina,270,220
+Filosilicatos,270,230
+Esmectita,270,240
+Hematita,270,250
+Yeso,270,260
+Esmectita,270,270
+Goethita,270,280
+Sílice Opalina,270,290
+Yeso,270,300
+Carbonato,270,310
+Esmectita,270,320
+Jarosita,270,330
+Jarosita,270,340
+Sílice Opalina,270,350
+Goethita,270,360
+Hematita,270,370
+Sílice Opalina,270,380
+Filosilicatos,270,390
+Yeso,270,400
+Jarosita,270,410
+Hematita,270,420
+Esmectita,270,430
+Goethita,270,440
+Carbonato,270,450
+Esmectita,270,460
+Sulfato de Hierro,270,470
+Jarosita,270,480
+Sulfato de Hierro,270,490
+Filosilicatos,270,500
+Hematita,270,510
+Hematita,270,520
+Filosilicatos,270,530
+Hematita,270,540
+Yeso,270,550
+Yeso,270,560
+Yeso,270,570
+Goethita,270,580
+Esmectita,270,590
+Sílice Opalina,270,600
+Filosilicatos,270,610
+Jarosita,270,620
+Yeso,270,630
+Esmectita,270,640
+Sílice Opalina,270,650
+Jarosita,270,660
+Goethita,270,670
+Goethita,270,680
+Goethita,270,690
+Filosilicatos,270,700
+Sílice Opalina,280,0
+Yeso,280,10
+Sílice Opalina,280,20
+Filosilicatos,280,30
+Carbonato,280,40
+Jarosita,280,50
+Sílice Opalina,280,60
+Sílice Opalina,280,70
+Carbonato,280,80
+Carbonato,280,90
+Goethita,280,100
+Filosilicatos,280,110
+Hematita,280,120
+Sulfato de Hierro,280,130
+Hematita,280,140
+Filosilicatos,280,150
+Carbonato,280,160
+Sílice Opalina,280,170
+Filosilicatos,280,180
+Goethita,280,190
+Goethita,280,200
+Sílice Opalina,280,210
+Filosilicatos,280,220
+Jarosita,280,230
+Filosilicatos,280,240
+Sulfato de Hierro,280,250
+Jarosita,280,260
+Hematita,280,270
+Goethita,280,280
+Esmectita,280,290
+Sulfato de Hierro,280,300
+Jarosita,280,310
+Esmectita,280,320
+Yeso,280,330
+Sílice Opalina,280,340
+Sílice Opalina,280,350
+Filosilicatos,280,360
+Carbonato,280,370
+Goethita,280,380
+Yeso,280,390
+Filosilicatos,280,400
+Yeso,280,410
+Carbonato,280,420
+Esmectita,280,430
+Hematita,280,440
+Sulfato de Hierro,280,450
+Sílice Opalina,280,460
+Yeso,280,470
+Yeso,280,480
+Sulfato de Hierro,280,490
+Goethita,280,500
+Yeso,280,510
+Sulfato de Hierro,280,520
+Hematita,280,530
+Hematita,280,540
+Carbonato,280,550
+Hematita,280,560
+Goethita,280,570
+Sulfato de Hierro,280,580
+Filosilicatos,280,590
+Goethita,280,600
+Esmectita,280,610
+Filosilicatos,280,620
+Yeso,280,630
+Carbonato,280,640
+Jarosita,280,650
+Yeso,280,660
+Jarosita,280,670
+Carbonato,280,680
+Yeso,280,690
+Sílice Opalina,280,700
+Carbonato,290,0
+Sulfato de Hierro,290,10
+Filosilicatos,290,20
+Filosilicatos,290,30
+Sílice Opalina,290,40
+Esmectita,290,50
+Yeso,290,60
+Goethita,290,70
+Esmectita,290,80
+Yeso,290,90
+Sílice Opalina,290,100
+Esmectita,290,110
+Goethita,290,120
+Esmectita,290,130
+Sulfato de Hierro,290,140
+Carbonato,290,150
+Jarosita,290,160
+Esmectita,290,170
+Filosilicatos,290,180
+Sulfato de Hierro,290,190
+Sílice Opalina,290,200
+Esmectita,290,210
+Carbonato,290,220
+Carbonato,290,230
+Yeso,290,240
+Filosilicatos,290,250
+Sulfato de Hierro,290,260
+Yeso,290,270
+Hematita,290,280
+Sílice Opalina,290,290
+Hematita,290,300
+Hematita,290,310
+Filosilicatos,290,320
+Filosilicatos,290,330
+Filosilicatos,290,340
+Hematita,290,350
+Filosilicatos,290,360
+Yeso,290,370
+Sulfato de Hierro,290,380
+Yeso,290,390
+Yeso,290,400
+Hematita,290,410
+Sílice Opalina,290,420
+Hematita,290,430
+Sílice Opalina,290,440
+Goethita,290,450
+Carbonato,290,460
+Yeso,290,470
+Filosilicatos,290,480
+Filosilicatos,290,490
+Jarosita,290,500
+Sulfato de Hierro,290,510
+Yeso,290,520
+Jarosita,290,530
+Sílice Opalina,290,540
+Yeso,290,550
+Filosilicatos,290,560
+Carbonato,290,570
+Hematita,290,580
+Jarosita,290,590
+Filosilicatos,290,600
+Filosilicatos,290,610
+Yeso,290,620
+Filosilicatos,290,630
+Hematita,290,640
+Goethita,290,650
+Esmectita,290,660
+Goethita,290,670
+Carbonato,290,680
+Goethita,290,690
+Esmectita,290,700
+Sulfato de Hierro,300,0
+Yeso,300,10
+Carbonato,300,20
+Jarosita,300,30
+Carbonato,300,40
+Jarosita,300,50
+Carbonato,300,60
+Filosilicatos,300,70
+Jarosita,300,80
+Yeso,300,90
+Goethita,300,100
+Yeso,300,110
+Sílice Opalina,300,120
+Yeso,300,130
+Sulfato de Hierro,300,140
+Hematita,300,150
+Filosilicatos,300,160
+Jarosita,300,170
+Sílice Opalina,300,180
+Jarosita,300,190
+Carbonato,300,200
+Yeso,300,210
+Sílice Opalina,300,220
+Jarosita,300,230
+Sulfato de Hierro,300,240
+Sulfato de Hierro,300,250
+Hematita,300,260
+Carbonato,300,270
+Filosilicatos,300,280
+Yeso,300,290
+Sílice Opalina,300,300
+Yeso,300,310
+Carbonato,300,320
+Sílice Opalina,300,330
+Sulfato de Hierro,300,340
+Jarosita,300,350
+Goethita,300,360
+Esmectita,300,370
+Goethita,300,380
+Sulfato de Hierro,300,390
+Sulfato de Hierro,300,400
+Esmectita,300,410
+Sulfato de Hierro,300,420
+Sulfato de Hierro,300,430
+Filosilicatos,300,440
+Jarosita,300,450
+Goethita,300,460
+Esmectita,300,470
+Hematita,300,480
+Goethita,300,490
+Jarosita,300,500
+Sílice Opalina,300,510
+Sulfato de Hierro,300,520
+Hematita,300,530
+Jarosita,300,540
+Yeso,300,550
+Jarosita,300,560
+Esmectita,300,570
+Jarosita,300,580
+Filosilicatos,300,590
+Hematita,300,600
+Hematita,300,610
+Jarosita,300,620
+Carbonato,300,630
+Filosilicatos,300,640
+Sílice Opalina,300,650
+Esmectita,300,660
+Jarosita,300,670
+Carbonato,300,680
+Sílice Opalina,300,690
+Carbonato,300,700
+Filosilicatos,310,0
+Sulfato de Hierro,310,10
+Yeso,310,20
+Yeso,310,30
+Hematita,310,40
+Filosilicatos,310,50
+Carbonato,310,60
+Sulfato de Hierro,310,70
+Sulfato de Hierro,310,80
+Carbonato,310,90
+Filosilicatos,310,100
+Sulfato de Hierro,310,110
+Goethita,310,120
+Sílice Opalina,310,130
+Sulfato de Hierro,310,140
+Sulfato de Hierro,310,150
+Esmectita,310,160
+Sulfato de Hierro,310,170
+Filosilicatos,310,180
+Filosilicatos,310,190
+Sulfato de Hierro,310,200
+Sulfato de Hierro,310,210
+Filosilicatos,310,220
+Jarosita,310,230
+Sílice Opalina,310,240
+Goethita,310,250
+Yeso,310,260
+Yeso,310,270
+Carbonato,310,280
+Hematita,310,290
+Yeso,310,300
+Hematita,310,310
+Goethita,310,320
+Goethita,310,330
+Goethita,310,340
+Goethita,310,350
+Sulfato de Hierro,310,360
+Yeso,310,370
+Yeso,310,380
+Carbonato,310,390
+Sulfato de Hierro,310,400
+Jarosita,310,410
+Hematita,310,420
+Jarosita,310,430
+Jarosita,310,440
+Sulfato de Hierro,310,450
+Goethita,310,460
+Jarosita,310,470
+Carbonato,310,480
+Sulfato de Hierro,310,490
+Goethita,310,500
+Goethita,310,510
+Hematita,310,520
+Filosilicatos,310,530
+Filosilicatos,310,540
+Hematita,310,550
+Yeso,310,560
+Sulfato de Hierro,310,570
+Hematita,310,580
+Sulfato de Hierro,310,590
+Esmectita,310,600
+Filosilicatos,310,610
+Esmectita,310,620
+Sulfato de Hierro,310,630
+Sulfato de Hierro,310,640
+Filosilicatos,310,650
+Esmectita,310,660
+Filosilicatos,310,670
+Goethita,310,680
+Jarosita,310,690
+Jarosita,310,700
+Filosilicatos,320,0
+Goethita,320,10
+Jarosita,320,20
+Jarosita,320,30
+Hematita,320,40
+Sulfato de Hierro,320,50
+Jarosita,320,60
+Sílice Opalina,320,70
+Esmectita,320,80
+Hematita,320,90
+Goethita,320,100
+Carbonato,320,110
+Jarosita,320,120
+Yeso,320,130
+Goethita,320,140
+Sulfato de Hierro,320,150
+Jarosita,320,160
+Yeso,320,170
+Filosilicatos,320,180
+Sulfato de Hierro,320,190
+Jarosita,320,200
+Hematita,320,210
+Jarosita,320,220
+Sulfato de Hierro,320,230
+Sílice Opalina,320,240
+Hematita,320,250
+Goethita,320,260
+Sulfato de Hierro,320,270
+Sílice Opalina,320,280
+Yeso,320,290
+Yeso,320,300
+Sulfato de Hierro,320,310
+Hematita,320,320
+Goethita,320,330
+Sulfato de Hierro,320,340
+Filosilicatos,320,350
+Jarosita,320,360
+Filosilicatos,320,370
+Filosilicatos,320,380
+Esmectita,320,390
+Goethita,320,400
+Hematita,320,410
+Hematita,320,420
+Jarosita,320,430
+Sílice Opalina,320,440
+Filosilicatos,320,450
+Goethita,320,460
+Sílice Opalina,320,470
+Sulfato de Hierro,320,480
+Jarosita,320,490
+Carbonato,320,500
+Hematita,320,510
+Esmectita,320,520
+Filosilicatos,320,530
+Sílice Opalina,320,540
+Yeso,320,550
+Yeso,320,560
+Esmectita,320,570
+Jarosita,320,580
+Esmectita,320,590
+Goethita,320,600
+Jarosita,320,610
+Jarosita,320,620
+Esmectita,320,630
+Sulfato de Hierro,320,640
+Jarosita,320,650
+Sílice Opalina,320,660
+Carbonato,320,670
+Esmectita,320,680
+Carbonato,320,690
+Yeso,320,700
+Goethita,330,0
+Sílice Opalina,330,10
+Hematita,330,20
+Jarosita,330,30
+Yeso,330,40
+Esmectita,330,50
+Sulfato de Hierro,330,60
+Esmectita,330,70
+Sulfato de Hierro,330,80
+Sílice Opalina,330,90
+Carbonato,330,100
+Yeso,330,110
+Filosilicatos,330,120
+Hematita,330,130
+Esmectita,330,140
+Sílice Opalina,330,150
+Esmectita,330,160
+Carbonato,330,170
+Filosilicatos,330,180
+Sulfato de Hierro,330,190
+Jarosita,330,200
+Esmectita,330,210
+Filosilicatos,330,220
+Yeso,330,230
+Sulfato de Hierro,330,240
+Sílice Opalina,330,250
+Sílice Opalina,330,260
+Esmectita,330,270
+Yeso,330,280
+Yeso,330,290
+Carbonato,330,300
+Esmectita,330,310
+Hematita,330,320
+Sulfato de Hierro,330,330
+Sulfato de Hierro,330,340
+Jarosita,330,350
+Carbonato,330,360
+Hematita,330,370
+Sulfato de Hierro,330,380
+Sulfato de Hierro,330,390
+Yeso,330,400
+Carbonato,330,410
+Jarosita,330,420
+Esmectita,330,430
+Sulfato de Hierro,330,440
+Filosilicatos,330,450
+Jarosita,330,460
+Sílice Opalina,330,470
+Goethita,330,480
+Sílice Opalina,330,490
+Esmectita,330,500
+Filosilicatos,330,510
+Jarosita,330,520
+Sulfato de Hierro,330,530
+Goethita,330,540
+Esmectita,330,550
+Yeso,330,560
+Esmectita,330,570
+Yeso,330,580
+Carbonato,330,590
+Carbonato,330,600
+Esmectita,330,610
+Hematita,330,620
+Filosilicatos,330,630
+Carbonato,330,640
+Sílice Opalina,330,650
+Carbonato,330,660
+Esmectita,330,670
+Yeso,330,680
+Carbonato,330,690
+Sílice Opalina,330,700
+Esmectita,340,0
+Carbonato,340,10
+Esmectita,340,20
+Filosilicatos,340,30
+Sulfato de Hierro,340,40
+Jarosita,340,50
+Jarosita,340,60
+Sulfato de Hierro,340,70
+Goethita,340,80
+Sílice Opalina,340,90
+Filosilicatos,340,100
+Filosilicatos,340,110
+Sílice Opalina,340,120
+Hematita,340,130
+Esmectita,340,140
+Sílice Opalina,340,150
+Carbonato,340,160
+Sulfato de Hierro,340,170
+Carbonato,340,180
+Carbonato,340,190
+Yeso,340,200
+Yeso,340,210
+Jarosita,340,220
+Sulfato de Hierro,340,230
+Filosilicatos,340,240
+Jarosita,340,250
+Sílice Opalina,340,260
+Esmectita,340,270
+Esmectita,340,280
+Carbonato,340,290
+Goethita,340,300
+Hematita,340,310
+Goethita,340,320
+Jarosita,340,330
+Carbonato,340,340
+Filosilicatos,340,350
+Hematita,340,360
+Yeso,340,370
+Goethita,340,380
+Sílice Opalina,340,390
+Goethita,340,400
+Sulfato de Hierro,340,410
+Jarosita,340,420
+Yeso,340,430
+Hematita,340,440
+Esmectita,340,450
+Carbonato,340,460
+Yeso,340,470
+Sulfato de Hierro,340,480
+Sulfato de Hierro,340,490
+Sulfato de Hierro,340,500
+Carbonato,340,510
+Hematita,340,520
+Hematita,340,530
+Esmectita,340,540
+Sílice Opalina,340,550
+Esmectita,340,560
+Jarosita,340,570
+Carbonato,340,580
+Carbonato,340,590
+Esmectita,340,600
+Hematita,340,610
+Yeso,340,620
+Sulfato de Hierro,340,630
+Hematita,340,640
+Jarosita,340,650
+Hematita,340,660
+Hematita,340,670
+Yeso,340,680
+Sílice Opalina,340,690
+Esmectita,340,700
+Sulfato de Hierro,350,0
+Jarosita,350,10
+Goethita,350,20
+Carbonato,350,30
+Sílice Opalina,350,40
+Sulfato de Hierro,350,50
+Carbonato,350,60
+Esmectita,350,70
+Jarosita,350,80
+Sulfato de Hierro,350,90
+Esmectita,350,100
+Filosilicatos,350,110
+Sulfato de Hierro,350,120
+Esmectita,350,130
+Carbonato,350,140
+Sílice Opalina,350,150
+Sulfato de Hierro,350,160
+Jarosita,350,170
+Sílice Opalina,350,180
+Carbonato,350,190
+Yeso,350,200
+Filosilicatos,350,210
+Filosilicatos,350,220
+Sulfato de Hierro,350,230
+Carbonato,350,240
+Sulfato de Hierro,350,250
+Sulfato de Hierro,350,260
+Yeso,350,270
+Carbonato,350,280
+Esmectita,350,290
+Yeso,350,300
+Sulfato de Hierro,350,310
+Goethita,350,320
+Jarosita,350,330
+Sulfato de Hierro,350,340
+Esmectita,350,350
+Goethita,350,360
+Goethita,350,370
+Sulfato de Hierro,350,380
+Goethita,350,390
+Jarosita,350,400
+Filosilicatos,350,410
+Sílice Opalina,350,420
+Esmectita,350,430
+Hematita,350,440
+Hematita,350,450
+Yeso,350,460
+Carbonato,350,470
+Goethita,350,480
+Jarosita,350,490
+Sílice Opalina,350,500
+Sílice Opalina,350,510
+Goethita,350,520
+Yeso,350,530
+Goethita,350,540
+Yeso,350,550
+Yeso,350,560
+Hematita,350,570
+Esmectita,350,580
+Carbonato,350,590
+Yeso,350,600
+Filosilicatos,350,610
+Esmectita,350,620
+Esmectita,350,630
+Hematita,350,640
+Carbonato,350,650
+Jarosita,350,660
+Sílice Opalina,350,670
+Jarosita,350,680
+Filosilicatos,350,690
+Hematita,350,700
+Yeso,360,0
+Filosilicatos,360,10
+Jarosita,360,20
+Sílice Opalina,360,30
+Jarosita,360,40
+Sulfato de Hierro,360,50
+Carbonato,360,60
+Esmectita,360,70
+Sulfato de Hierro,360,80
+Sílice Opalina,360,90
+Goethita,360,100
+Yeso,360,110
+Sulfato de Hierro,360,120
+Filosilicatos,360,130
+Sílice Opalina,360,140
+Goethita,360,150
+Jarosita,360,160
+Goethita,360,170
+Goethita,360,180
+Esmectita,360,190
+Carbonato,360,200
+Hematita,360,210
+Esmectita,360,220
+Sílice Opalina,360,230
+Carbonato,360,240
+Yeso,360,250
+Jarosita,360,260
+Sulfato de Hierro,360,270
+Filosilicatos,360,280
+Goethita,360,290
+Esmectita,360,300
+Filosilicatos,360,310
+Carbonato,360,320
+Carbonato,360,330
+Goethita,360,340
+Jarosita,360,350
+Sílice Opalina,360,360
+Goethita,360,370
+Hematita,360,380
+Jarosita,360,390
+Yeso,360,400
+Hematita,360,410
+Esmectita,360,420
+Goethita,360,430
+Yeso,360,440
+Yeso,360,450
+Filosilicatos,360,460
+Carbonato,360,470
+Goethita,360,480
+Carbonato,360,490
+Carbonato,360,500
+Hematita,360,510
+Hematita,360,520
+Carbonato,360,530
+Carbonato,360,540
+Goethita,360,550
+Goethita,360,560
+Goethita,360,570
+Sulfato de Hierro,360,580
+Sulfato de Hierro,360,590
+Jarosita,360,600
+Carbonato,360,610
+Sílice Opalina,360,620
+Carbonato,360,630
+Carbonato,360,640
+Sulfato de Hierro,360,650
+Sulfato de Hierro,360,660
+Hematita,360,670
+Yeso,360,680
+Sulfato de Hierro,360,690
+Goethita,360,700
+Esmectita,370,0
+Goethita,370,10
+Esmectita,370,20
+Yeso,370,30
+Filosilicatos,370,40
+Filosilicatos,370,50
+Filosilicatos,370,60
+Filosilicatos,370,70
+Filosilicatos,370,80
+Carbonato,370,90
+Goethita,370,100
+Esmectita,370,110
+Goethita,370,120
+Sílice Opalina,370,130
+Filosilicatos,370,140
+Jarosita,370,150
+Carbonato,370,160
+Filosilicatos,370,170
+Jarosita,370,180
+Filosilicatos,370,190
+Goethita,370,200
+Sulfato de Hierro,370,210
+Jarosita,370,220
+Filosilicatos,370,230
+Esmectita,370,240
+Goethita,370,250
+Carbonato,370,260
+Hematita,370,270
+Jarosita,370,280
+Filosilicatos,370,290
+Sulfato de Hierro,370,300
+Jarosita,370,310
+Sílice Opalina,370,320
+Filosilicatos,370,330
+Filosilicatos,370,340
+Hematita,370,350
+Sílice Opalina,370,360
+Carbonato,370,370
+Sulfato de Hierro,370,380
+Yeso,370,390
+Goethita,370,400
+Goethita,370,410
+Carbonato,370,420
+Jarosita,370,430
+Sulfato de Hierro,370,440
+Goethita,370,450
+Carbonato,370,460
+Filosilicatos,370,470
+Jarosita,370,480
+Sílice Opalina,370,490
+Carbonato,370,500
+Sílice Opalina,370,510
+Sílice Opalina,370,520
+Carbonato,370,530
+Jarosita,370,540
+Yeso,370,550
+Jarosita,370,560
+Jarosita,370,570
+Esmectita,370,580
+Jarosita,370,590
+Carbonato,370,600
+Esmectita,370,610
+Hematita,370,620
+Filosilicatos,370,630
+Sílice Opalina,370,640
+Sulfato de Hierro,370,650
+Esmectita,370,660
+Esmectita,370,670
+Esmectita,370,680
+Sulfato de Hierro,370,690
+Hematita,370,700
+Esmectita,380,0
+Hematita,380,10
+Sulfato de Hierro,380,20
+Sulfato de Hierro,380,30
+Yeso,380,40
+Sulfato de Hierro,380,50
+Esmectita,380,60
+Hematita,380,70
+Yeso,380,80
+Filosilicatos,380,90
+Yeso,380,100
+Filosilicatos,380,110
+Sulfato de Hierro,380,120
+Yeso,380,130
+Sílice Opalina,380,140
+Sulfato de Hierro,380,150
+Filosilicatos,380,160
+Sulfato de Hierro,380,170
+Filosilicatos,380,180
+Sílice Opalina,380,190
+Sulfato de Hierro,380,200
+Jarosita,380,210
+Jarosita,380,220
+Carbonato,380,230
+Goethita,380,240
+Jarosita,380,250
+Goethita,380,260
+Esmectita,380,270
+Goethita,380,280
+Goethita,380,290
+Hematita,380,300
+Esmectita,380,310
+Esmectita,380,320
+Carbonato,380,330
+Sulfato de Hierro,380,340
+Hematita,380,350
+Hematita,380,360
+Hematita,380,370
+Hematita,380,380
+Hematita,380,390
+Jarosita,380,400
+Yeso,380,410
+Sulfato de Hierro,380,420
+Jarosita,380,430
+Esmectita,380,440
+Carbonato,380,450
+Filosilicatos,380,460
+Hematita,380,470
+Sílice Opalina,380,480
+Carbonato,380,490
+Jarosita,380,500
+Esmectita,380,510
+Carbonato,380,520
+Hematita,380,530
+Sílice Opalina,380,540
+Sílice Opalina,380,550
+Hematita,380,560
+Yeso,380,570
+Sílice Opalina,380,580
+Jarosita,380,590
+Esmectita,380,600
+Jarosita,380,610
+Sulfato de Hierro,380,620
+Hematita,380,630
+Esmectita,380,640
+Filosilicatos,380,650
+Yeso,380,660
+Goethita,380,670
+Filosilicatos,380,680
+Sulfato de Hierro,380,690
+Sílice Opalina,380,700
+Goethita,390,0
+Hematita,390,10
+Esmectita,390,20
+Sulfato de Hierro,390,30
+Yeso,390,40
+Yeso,390,50
+Goethita,390,60
+Sulfato de Hierro,390,70
+Jarosita,390,80
+Goethita,390,90
+Sílice Opalina,390,100
+Hematita,390,110
+Jarosita,390,120
+Sílice Opalina,390,130
+Jarosita,390,140
+Filosilicatos,390,150
+Jarosita,390,160
+Yeso,390,170
+Esmectita,390,180
+Goethita,390,190
+Esmectita,390,200
+Jarosita,390,210
+Goethita,390,220
+Yeso,390,230
+Filosilicatos,390,240
+Sulfato de Hierro,390,250
+Filosilicatos,390,260
+Goethita,390,270
+Sílice Opalina,390,280
+Carbonato,390,290
+Carbonato,390,300
+Filosilicatos,390,310
+Jarosita,390,320
+Sulfato de Hierro,390,330
+Filosilicatos,390,340
+Hematita,390,350
+Jarosita,390,360
+Esmectita,390,370
+Yeso,390,380
+Jarosita,390,390
+Sulfato de Hierro,390,400
+Filosilicatos,390,410
+Sulfato de Hierro,390,420
+Yeso,390,430
+Yeso,390,440
+Jarosita,390,450
+Filosilicatos,390,460
+Filosilicatos,390,470
+Sílice Opalina,390,480
+Jarosita,390,490
+Sílice Opalina,390,500
+Sílice Opalina,390,510
+Esmectita,390,520
+Hematita,390,530
+Yeso,390,540
+Esmectita,390,550
+Sulfato de Hierro,390,560
+Filosilicatos,390,570
+Esmectita,390,580
+Esmectita,390,590
+Hematita,390,600
+Esmectita,390,610
+Hematita,390,620
+Sílice Opalina,390,630
+Yeso,390,640
+Goethita,390,650
+Goethita,390,660
+Filosilicatos,390,670
+Goethita,390,680
+Jarosita,390,690
+Sulfato de Hierro,390,700
+Hematita,400,0
+Sulfato de Hierro,400,10
+Yeso,400,20
+Sílice Opalina,400,30
+Carbonato,400,40
+Jarosita,400,50
+Carbonato,400,60
+Sílice Opalina,400,70
+Goethita,400,80
+Goethita,400,90
+Carbonato,400,100
+Esmectita,400,110
+Sílice Opalina,400,120
+Sílice Opalina,400,130
+Jarosita,400,140
+Esmectita,400,150
+Filosilicatos,400,160
+Filosilicatos,400,170
+Goethita,400,180
+Yeso,400,190
+Esmectita,400,200
+Sílice Opalina,400,210
+Hematita,400,220
+Esmectita,400,230
+Sulfato de Hierro,400,240
+Esmectita,400,250
+Sílice Opalina,400,260
+Carbonato,400,270
+Hematita,400,280
+Yeso,400,290
+Goethita,400,300
+Filosilicatos,400,310
+Filosilicatos,400,320
+Yeso,400,330
+Goethita,400,340
+Sílice Opalina,400,350
+Filosilicatos,400,360
+Sílice Opalina,400,370
+Yeso,400,380
+Esmectita,400,390
+Hematita,400,400
+Esmectita,400,410
+Yeso,400,420
+Sulfato de Hierro,400,430
+Sílice Opalina,400,440
+Goethita,400,450
+Carbonato,400,460
+Goethita,400,470
+Goethita,400,480
+Goethita,400,490
+Jarosita,400,500
+Sulfato de Hierro,400,510
+Yeso,400,520
+Carbonato,400,530
+Sílice Opalina,400,540
+Esmectita,400,550
+Yeso,400,560
+Sulfato de Hierro,400,570
+Esmectita,400,580
+Goethita,400,590
+Sulfato de Hierro,400,600
+Esmectita,400,610
+Sílice Opalina,400,620
+Esmectita,400,630
+Filosilicatos,400,640
+Esmectita,400,650
+Esmectita,400,660
+Carbonato,400,670
+Esmectita,400,680
+Carbonato,400,690
+Hematita,400,700
+Sulfato de Hierro,410,0
+Sulfato de Hierro,410,10
+Carbonato,410,20
+Esmectita,410,30
+Esmectita,410,40
+Sulfato de Hierro,410,50
+Sílice Opalina,410,60
+Sulfato de Hierro,410,70
+Hematita,410,80
+Goethita,410,90
+Sílice Opalina,410,100
+Goethita,410,110
+Sulfato de Hierro,410,120
+Jarosita,410,130
+Goethita,410,140
+Yeso,410,150
+Sulfato de Hierro,410,160
+Esmectita,410,170
+Filosilicatos,410,180
+Jarosita,410,190
+Sílice Opalina,410,200
+Carbonato,410,210
+Goethita,410,220
+Filosilicatos,410,230
+Sulfato de Hierro,410,240
+Esmectita,410,250
+Hematita,410,260
+Goethita,410,270
+Hematita,410,280
+Goethita,410,290
+Sulfato de Hierro,410,300
+Goethita,410,310
+Jarosita,410,320
+Esmectita,410,330
+Jarosita,410,340
+Goethita,410,350
+Jarosita,410,360
+Yeso,410,370
+Sulfato de Hierro,410,380
+Yeso,410,390
+Sulfato de Hierro,410,400
+Yeso,410,410
+Sílice Opalina,410,420
+Carbonato,410,430
+Carbonato,410,440
+Sílice Opalina,410,450
+Filosilicatos,410,460
+Sulfato de Hierro,410,470
+Hematita,410,480
+Carbonato,410,490
+Hematita,410,500
+Hematita,410,510
+Sílice Opalina,410,520
+Sulfato de Hierro,410,530
+Sulfato de Hierro,410,540
+Carbonato,410,550
+Hematita,410,560
+Sílice Opalina,410,570
+Carbonato,410,580
+Yeso,410,590
+Esmectita,410,600
+Filosilicatos,410,610
+Sílice Opalina,410,620
+Sílice Opalina,410,630
+Sílice Opalina,410,640
+Filosilicatos,410,650
+Filosilicatos,410,660
+Esmectita,410,670
+Esmectita,410,680
+Jarosita,410,690
+Carbonato,410,700
+Goethita,420,0
+Sulfato de Hierro,420,10
+Sílice Opalina,420,20
+Jarosita,420,30
+Goethita,420,40
+Goethita,420,50
+Carbonato,420,60
+Carbonato,420,70
+Sílice Opalina,420,80
+Sulfato de Hierro,420,90
+Esmectita,420,100
+Hematita,420,110
+Esmectita,420,120
+Carbonato,420,130
+Jarosita,420,140
+Sulfato de Hierro,420,150
+Filosilicatos,420,160
+Sílice Opalina,420,170
+Sulfato de Hierro,420,180
+Jarosita,420,190
+Carbonato,420,200
+Esmectita,420,210
+Sulfato de Hierro,420,220
+Sulfato de Hierro,420,230
+Sulfato de Hierro,420,240
+Sílice Opalina,420,250
+Sílice Opalina,420,260
+Yeso,420,270
+Carbonato,420,280
+Carbonato,420,290
+Yeso,420,300
+Jarosita,420,310
+Filosilicatos,420,320
+Yeso,420,330
+Carbonato,420,340
+Goethita,420,350
+Sulfato de Hierro,420,360
+Jarosita,420,370
+Esmectita,420,380
+Jarosita,420,390
+Goethita,420,400
+Jarosita,420,410
+Yeso,420,420
+Goethita,420,430
+Filosilicatos,420,440
+Sílice Opalina,420,450
+Sulfato de Hierro,420,460
+Goethita,420,470
+Sulfato de Hierro,420,480
+Filosilicatos,420,490
+Sulfato de Hierro,420,500
+Yeso,420,510
+Hematita,420,520
+Hematita,420,530
+Sílice Opalina,420,540
+Sulfato de Hierro,420,550
+Filosilicatos,420,560
+Jarosita,420,570
+Goethita,420,580
+Yeso,420,590
+Carbonato,420,600
+Yeso,420,610
+Sílice Opalina,420,620
+Yeso,420,630
+Goethita,420,640
+Jarosita,420,650
+Yeso,420,660
+Jarosita,420,670
+Yeso,420,680
+Sulfato de Hierro,420,690
+Carbonato,420,700
+Jarosita,430,0
+Goethita,430,10
+Sulfato de Hierro,430,20
+Sulfato de Hierro,430,30
+Hematita,430,40
+Esmectita,430,50
+Sílice Opalina,430,60
+Carbonato,430,70
+Filosilicatos,430,80
+Carbonato,430,90
+Filosilicatos,430,100
+Sílice Opalina,430,110
+Jarosita,430,120
+Filosilicatos,430,130
+Jarosita,430,140
+Esmectita,430,150
+Yeso,430,160
+Goethita,430,170
+Sulfato de Hierro,430,180
+Carbonato,430,190
+Esmectita,430,200
+Sulfato de Hierro,430,210
+Filosilicatos,430,220
+Sulfato de Hierro,430,230
+Filosilicatos,430,240
+Carbonato,430,250
+Carbonato,430,260
+Sílice Opalina,430,270
+Goethita,430,280
+Goethita,430,290
+Carbonato,430,300
+Esmectita,430,310
+Sulfato de Hierro,430,320
+Yeso,430,330
+Sílice Opalina,430,340
+Sulfato de Hierro,430,350
+Filosilicatos,430,360
+Jarosita,430,370
+Filosilicatos,430,380
+Jarosita,430,390
+Goethita,430,400
+Sílice Opalina,430,410
+Filosilicatos,430,420
+Yeso,430,430
+Carbonato,430,440
+Goethita,430,450
+Carbonato,430,460
+Carbonato,430,470
+Sulfato de Hierro,430,480
+Jarosita,430,490
+Filosilicatos,430,500
+Filosilicatos,430,510
+Yeso,430,520
+Carbonato,430,530
+Goethita,430,540
+Filosilicatos,430,550
+Jarosita,430,560
+Yeso,430,570
+Sílice Opalina,430,580
+Goethita,430,590
+Esmectita,430,600
+Carbonato,430,610
+Yeso,430,620
+Jarosita,430,630
+Filosilicatos,430,640
+Yeso,430,650
+Carbonato,430,660
+Filosilicatos,430,670
+Goethita,430,680
+Sílice Opalina,430,690
+Filosilicatos,430,700
+Sílice Opalina,440,0
+Esmectita,440,10
+Goethita,440,20
+Yeso,440,30
+Sulfato de Hierro,440,40
+Jarosita,440,50
+Jarosita,440,60
+Hematita,440,70
+Hematita,440,80
+Hematita,440,90
+Esmectita,440,100
+Goethita,440,110
+Esmectita,440,120
+Esmectita,440,130
+Esmectita,440,140
+Yeso,440,150
+Yeso,440,160
+Yeso,440,170
+Filosilicatos,440,180
+Sulfato de Hierro,440,190
+Hematita,440,200
+Sulfato de Hierro,440,210
+Hematita,440,220
+Yeso,440,230
+Yeso,440,240
+Esmectita,440,250
+Carbonato,440,260
+Jarosita,440,270
+Jarosita,440,280
+Carbonato,440,290
+Carbonato,440,300
+Goethita,440,310
+Yeso,440,320
+Esmectita,440,330
+Sulfato de Hierro,440,340
+Goethita,440,350
+Esmectita,440,360
+Yeso,440,370
+Yeso,440,380
+Hematita,440,390
+Filosilicatos,440,400
+Yeso,440,410
+Goethita,440,420
+Jarosita,440,430
+Yeso,440,440
+Yeso,440,450
+Esmectita,440,460
+Filosilicatos,440,470
+Esmectita,440,480
+Carbonato,440,490
+Carbonato,440,500
+Hematita,440,510
+Yeso,440,520
+Carbonato,440,530
+Jarosita,440,540
+Carbonato,440,550
+Yeso,440,560
+Esmectita,440,570
+Jarosita,440,580
+Jarosita,440,590
+Jarosita,440,600
+Yeso,440,610
+Yeso,440,620
+Sulfato de Hierro,440,630
+Yeso,440,640
+Esmectita,440,650
+Carbonato,440,660
+Hematita,440,670
+Yeso,440,680
+Sílice Opalina,440,690
+Esmectita,440,700
+Filosilicatos,450,0
+Goethita,450,10
+Hematita,450,20
+Filosilicatos,450,30
+Carbonato,450,40
+Jarosita,450,50
+Goethita,450,60
+Hematita,450,70
+Carbonato,450,80
+Sulfato de Hierro,450,90
+Esmectita,450,100
+Hematita,450,110
+Goethita,450,120
+Esmectita,450,130
+Esmectita,450,140
+Yeso,450,150
+Goethita,450,160
+Hematita,450,170
+Sulfato de Hierro,450,180
+Esmectita,450,190
+Yeso,450,200
+Esmectita,450,210
+Sulfato de Hierro,450,220
+Sulfato de Hierro,450,230
+Jarosita,450,240
+Filosilicatos,450,250
+Sílice Opalina,450,260
+Goethita,450,270
+Esmectita,450,280
+Carbonato,450,290
+Goethita,450,300
+Hematita,450,310
+Jarosita,450,320
+Hematita,450,330
+Carbonato,450,340
+Carbonato,450,350
+Filosilicatos,450,360
+Goethita,450,370
+Sulfato de Hierro,450,380
+Jarosita,450,390
+Hematita,450,400
+Sulfato de Hierro,450,410
+Hematita,450,420
+Filosilicatos,450,430
+Filosilicatos,450,440
+Sílice Opalina,450,450
+Sílice Opalina,450,460
+Sulfato de Hierro,450,470
+Goethita,450,480
+Jarosita,450,490
+Sulfato de Hierro,450,500
+Goethita,450,510
+Yeso,450,520
+Sílice Opalina,450,530
+Jarosita,450,540
+Jarosita,450,550
+Carbonato,450,560
+Filosilicatos,450,570
+Esmectita,450,580
+Filosilicatos,450,590
+Esmectita,450,600
+Hematita,450,610
+Esmectita,450,620
+Carbonato,450,630
+Sulfato de Hierro,450,640
+Goethita,450,650
+Filosilicatos,450,660
+Goethita,450,670
+Jarosita,450,680
+Yeso,450,690
+Sulfato de Hierro,450,700
+Filosilicatos,460,0
+Hematita,460,10
+Sulfato de Hierro,460,20
+Goethita,460,30
+Yeso,460,40
+Sílice Opalina,460,50
+Hematita,460,60
+Jarosita,460,70
+Goethita,460,80
+Sílice Opalina,460,90
+Filosilicatos,460,100
+Sulfato de Hierro,460,110
+Carbonato,460,120
+Jarosita,460,130
+Carbonato,460,140
+Esmectita,460,150
+Hematita,460,160
+Jarosita,460,170
+Esmectita,460,180
+Filosilicatos,460,190
+Hematita,460,200
+Goethita,460,210
+Goethita,460,220
+Jarosita,460,230
+Filosilicatos,460,240
+Hematita,460,250
+Carbonato,460,260
+Sulfato de Hierro,460,270
+Jarosita,460,280
+Yeso,460,290
+Sulfato de Hierro,460,300
+Esmectita,460,310
+Filosilicatos,460,320
+Hematita,460,330
+Jarosita,460,340
+Carbonato,460,350
+Hematita,460,360
+Hematita,460,370
+Goethita,460,380
+Jarosita,460,390
+Carbonato,460,400
+Filosilicatos,460,410
+Jarosita,460,420
+Hematita,460,430
+Yeso,460,440
+Filosilicatos,460,450
+Hematita,460,460
+Esmectita,460,470
+Goethita,460,480
+Jarosita,460,490
+Goethita,460,500
+Yeso,460,510
+Sílice Opalina,460,520
+Sílice Opalina,460,530
+Goethita,460,540
+Carbonato,460,550
+Filosilicatos,460,560
+Sulfato de Hierro,460,570
+Filosilicatos,460,580
+Jarosita,460,590
+Esmectita,460,600
+Carbonato,460,610
+Hematita,460,620
+Carbonato,460,630
+Filosilicatos,460,640
+Carbonato,460,650
+Esmectita,460,660
+Filosilicatos,460,670
+Sílice Opalina,460,680
+Esmectita,460,690
+Filosilicatos,460,700
+Filosilicatos,470,0
+Sulfato de Hierro,470,10
+Carbonato,470,20
+Sulfato de Hierro,470,30
+Sulfato de Hierro,470,40
+Goethita,470,50
+Sulfato de Hierro,470,60
+Jarosita,470,70
+Filosilicatos,470,80
+Yeso,470,90
+Carbonato,470,100
+Hematita,470,110
+Carbonato,470,120
+Goethita,470,130
+Goethita,470,140
+Filosilicatos,470,150
+Yeso,470,160
+Esmectita,470,170
+Esmectita,470,180
+Carbonato,470,190
+Goethita,470,200
+Jarosita,470,210
+Goethita,470,220
+Carbonato,470,230
+Hematita,470,240
+Sulfato de Hierro,470,250
+Goethita,470,260
+Sílice Opalina,470,270
+Sulfato de Hierro,470,280
+Carbonato,470,290
+Carbonato,470,300
+Sulfato de Hierro,470,310
+Hematita,470,320
+Jarosita,470,330
+Sulfato de Hierro,470,340
+Hematita,470,350
+Filosilicatos,470,360
+Yeso,470,370
+Yeso,470,380
+Hematita,470,390
+Carbonato,470,400
+Sílice Opalina,470,410
+Esmectita,470,420
+Filosilicatos,470,430
+Goethita,470,440
+Filosilicatos,470,450
+Sulfato de Hierro,470,460
+Sulfato de Hierro,470,470
+Sulfato de Hierro,470,480
+Carbonato,470,490
+Esmectita,470,500
+Yeso,470,510
+Jarosita,470,520
+Goethita,470,530
+Jarosita,470,540
+Sílice Opalina,470,550
+Sílice Opalina,470,560
+Goethita,470,570
+Yeso,470,580
+Sílice Opalina,470,590
+Carbonato,470,600
+Hematita,470,610
+Sulfato de Hierro,470,620
+Sílice Opalina,470,630
+Carbonato,470,640
+Sulfato de Hierro,470,650
+Hematita,470,660
+Filosilicatos,470,670
+Sílice Opalina,470,680
+Sulfato de Hierro,470,690
+Goethita,470,700
+Goethita,480,0
+Goethita,480,10
+Hematita,480,20
+Esmectita,480,30
+Carbonato,480,40
+Esmectita,480,50
+Filosilicatos,480,60
+Sílice Opalina,480,70
+Sulfato de Hierro,480,80
+Carbonato,480,90
+Sílice Opalina,480,100
+Jarosita,480,110
+Esmectita,480,120
+Goethita,480,130
+Jarosita,480,140
+Esmectita,480,150
+Yeso,480,160
+Filosilicatos,480,170
+Goethita,480,180
+Yeso,480,190
+Sulfato de Hierro,480,200
+Yeso,480,210
+Jarosita,480,220
+Filosilicatos,480,230
+Sílice Opalina,480,240
+Jarosita,480,250
+Sulfato de Hierro,480,260
+Carbonato,480,270
+Sílice Opalina,480,280
+Carbonato,480,290
+Sílice Opalina,480,300
+Hematita,480,310
+Goethita,480,320
+Carbonato,480,330
+Filosilicatos,480,340
+Sílice Opalina,480,350
+Sulfato de Hierro,480,360
+Jarosita,480,370
+Esmectita,480,380
+Hematita,480,390
+Filosilicatos,480,400
+Sulfato de Hierro,480,410
+Hematita,480,420
+Esmectita,480,430
+Esmectita,480,440
+Goethita,480,450
+Jarosita,480,460
+Goethita,480,470
+Hematita,480,480
+Yeso,480,490
+Filosilicatos,480,500
+Sulfato de Hierro,480,510
+Goethita,480,520
+Yeso,480,530
+Carbonato,480,540
+Esmectita,480,550
+Esmectita,480,560
+Carbonato,480,570
+Goethita,480,580
+Esmectita,480,590
+Jarosita,480,600
+Esmectita,480,610
+Filosilicatos,480,620
+Sílice Opalina,480,630
+Sulfato de Hierro,480,640
+Sílice Opalina,480,650
+Jarosita,480,660
+Esmectita,480,670
+Filosilicatos,480,680
+Carbonato,480,690
+Sulfato de Hierro,480,700
+Yeso,490,0
+Esmectita,490,10
+Carbonato,490,20
+Filosilicatos,490,30
+Filosilicatos,490,40
+Esmectita,490,50
+Yeso,490,60
+Goethita,490,70
+Goethita,490,80
+Hematita,490,90
+Goethita,490,100
+Sílice Opalina,490,110
+Sílice Opalina,490,120
+Sulfato de Hierro,490,130
+Goethita,490,140
+Jarosita,490,150
+Esmectita,490,160
+Hematita,490,170
+Carbonato,490,180
+Yeso,490,190
+Hematita,490,200
+Goethita,490,210
+Goethita,490,220
+Jarosita,490,230
+Esmectita,490,240
+Esmectita,490,250
+Jarosita,490,260
+Esmectita,490,270
+Jarosita,490,280
+Hematita,490,290
+Filosilicatos,490,300
+Goethita,490,310
+Carbonato,490,320
+Sílice Opalina,490,330
+Goethita,490,340
+Hematita,490,350
+Goethita,490,360
+Esmectita,490,370
+Sílice Opalina,490,380
+Sulfato de Hierro,490,390
+Jarosita,490,400
+Goethita,490,410
+Filosilicatos,490,420
+Yeso,490,430
+Sílice Opalina,490,440
+Sulfato de Hierro,490,450
+Esmectita,490,460
+Sílice Opalina,490,470
+Sulfato de Hierro,490,480
+Jarosita,490,490
+Sulfato de Hierro,490,500
+Filosilicatos,490,510
+Goethita,490,520
+Filosilicatos,490,530
+Esmectita,490,540
+Filosilicatos,490,550
+Yeso,490,560
+Carbonato,490,570
+Jarosita,490,580
+Filosilicatos,490,590
+Hematita,490,600
+Esmectita,490,610
+Yeso,490,620
+Carbonato,490,630
+Carbonato,490,640
+Carbonato,490,650
+Sílice Opalina,490,660
+Esmectita,490,670
+Sulfato de Hierro,490,680
+Sílice Opalina,490,690
+Sílice Opalina,490,700
+Sílice Opalina,500,0
+Filosilicatos,500,10
+Goethita,500,20
+Esmectita,500,30
+Sílice Opalina,500,40
+Yeso,500,50
+Filosilicatos,500,60
+Jarosita,500,70
+Hematita,500,80
+Hematita,500,90
+Esmectita,500,100
+Filosilicatos,500,110
+Sílice Opalina,500,120
+Carbonato,500,130
+Sílice Opalina,500,140
+Jarosita,500,150
+Carbonato,500,160
+Esmectita,500,170
+Hematita,500,180
+Goethita,500,190
+Carbonato,500,200
+Sílice Opalina,500,210
+Sulfato de Hierro,500,220
+Hematita,500,230
+Jarosita,500,240
+Yeso,500,250
+Filosilicatos,500,260
+Esmectita,500,270
+Filosilicatos,500,280
+Jarosita,500,290
+Goethita,500,300
+Sílice Opalina,500,310
+Filosilicatos,500,320
+Sulfato de Hierro,500,330
+Sílice Opalina,500,340
+Yeso,500,350
+Sílice Opalina,500,360
+Carbonato,500,370
+Esmectita,500,380
+Hematita,500,390
+Sulfato de Hierro,500,400
+Goethita,500,410
+Sulfato de Hierro,500,420
+Jarosita,500,430
+Yeso,500,440
+Esmectita,500,450
+Hematita,500,460
+Sílice Opalina,500,470
+Jarosita,500,480
+Sílice Opalina,500,490
+Esmectita,500,500
+Sulfato de Hierro,500,510
+Hematita,500,520
+Jarosita,500,530
+Carbonato,500,540
+Goethita,500,550
+Filosilicatos,500,560
+Goethita,500,570
+Hematita,500,580
+Yeso,500,590
+Jarosita,500,600
+Sulfato de Hierro,500,610
+Goethita,500,620
+Carbonato,500,630
+Goethita,500,640
+Sulfato de Hierro,500,650
+Esmectita,500,660
+Hematita,500,670
+Hematita,500,680
+Goethita,500,690
+Jarosita,500,700
+Hematita,510,0
+Hematita,510,10
+Filosilicatos,510,20
+Sulfato de Hierro,510,30
+Sulfato de Hierro,510,40
+Carbonato,510,50
+Yeso,510,60
+Goethita,510,70
+Sulfato de Hierro,510,80
+Carbonato,510,90
+Jarosita,510,100
+Sílice Opalina,510,110
+Goethita,510,120
+Hematita,510,130
+Sulfato de Hierro,510,140
+Filosilicatos,510,150
+Jarosita,510,160
+Jarosita,510,170
+Esmectita,510,180
+Filosilicatos,510,190
+Carbonato,510,200
+Hematita,510,210
+Goethita,510,220
+Jarosita,510,230
+Jarosita,510,240
+Carbonato,510,250
+Jarosita,510,260
+Yeso,510,270
+Sílice Opalina,510,280
+Carbonato,510,290
+Jarosita,510,300
+Jarosita,510,310
+Yeso,510,320
+Goethita,510,330
+Filosilicatos,510,340
+Hematita,510,350
+Sulfato de Hierro,510,360
+Carbonato,510,370
+Hematita,510,380
+Esmectita,510,390
+Sulfato de Hierro,510,400
+Carbonato,510,410
+Sulfato de Hierro,510,420
+Filosilicatos,510,430
+Sulfato de Hierro,510,440
+Sulfato de Hierro,510,450
+Filosilicatos,510,460
+Carbonato,510,470
+Sulfato de Hierro,510,480
+Sulfato de Hierro,510,490
+Jarosita,510,500
+Sílice Opalina,510,510
+Filosilicatos,510,520
+Goethita,510,530
+Jarosita,510,540
+Jarosita,510,550
+Goethita,510,560
+Sílice Opalina,510,570
+Sílice Opalina,510,580
+Yeso,510,590
+Esmectita,510,600
+Hematita,510,610
+Sulfato de Hierro,510,620
+Yeso,510,630
+Carbonato,510,640
+Filosilicatos,510,650
+Jarosita,510,660
+Yeso,510,670
+Esmectita,510,680
+Sulfato de Hierro,510,690
+Yeso,510,700
+Sílice Opalina,520,0
+Filosilicatos,520,10
+Yeso,520,20
+Sílice Opalina,520,30
+Yeso,520,40
+Goethita,520,50
+Goethita,520,60
+Goethita,520,70
+Sulfato de Hierro,520,80
+Carbonato,520,90
+Carbonato,520,100
+Sílice Opalina,520,110
+Filosilicatos,520,120
+Carbonato,520,130
+Jarosita,520,140
+Sulfato de Hierro,520,150
+Carbonato,520,160
+Filosilicatos,520,170
+Hematita,520,180
+Yeso,520,190
+Esmectita,520,200
+Goethita,520,210
+Hematita,520,220
+Sílice Opalina,520,230
+Jarosita,520,240
+Jarosita,520,250
+Goethita,520,260
+Sílice Opalina,520,270
+Carbonato,520,280
+Filosilicatos,520,290
+Sílice Opalina,520,300
+Jarosita,520,310
+Esmectita,520,320
+Filosilicatos,520,330
+Yeso,520,340
+Hematita,520,350
+Yeso,520,360
+Yeso,520,370
+Goethita,520,380
+Carbonato,520,390
+Yeso,520,400
+Sílice Opalina,520,410
+Goethita,520,420
+Esmectita,520,430
+Sulfato de Hierro,520,440
+Yeso,520,450
+Sulfato de Hierro,520,460
+Sílice Opalina,520,470
+Filosilicatos,520,480
+Filosilicatos,520,490
+Goethita,520,500
+Filosilicatos,520,510
+Filosilicatos,520,520
+Goethita,520,530
+Sílice Opalina,520,540
+Esmectita,520,550
+Sílice Opalina,520,560
+Sulfato de Hierro,520,570
+Hematita,520,580
+Yeso,520,590
+Sulfato de Hierro,520,600
+Carbonato,520,610
+Esmectita,520,620
+Yeso,520,630
+Carbonato,520,640
+Jarosita,520,650
+Carbonato,520,660
+Esmectita,520,670
+Esmectita,520,680
+Sulfato de Hierro,520,690
+Sílice Opalina,520,700
+Esmectita,530,0
+Goethita,530,10
+Sílice Opalina,530,20
+Hematita,530,30
+Carbonato,530,40
+Filosilicatos,530,50
+Sílice Opalina,530,60
+Filosilicatos,530,70
+Filosilicatos,530,80
+Sílice Opalina,530,90
+Jarosita,530,100
+Carbonato,530,110
+Filosilicatos,530,120
+Yeso,530,130
+Yeso,530,140
+Jarosita,530,150
+Yeso,530,160
+Goethita,530,170
+Yeso,530,180
+Carbonato,530,190
+Sílice Opalina,530,200
+Carbonato,530,210
+Jarosita,530,220
+Yeso,530,230
+Goethita,530,240
+Carbonato,530,250
+Hematita,530,260
+Sulfato de Hierro,530,270
+Hematita,530,280
+Sulfato de Hierro,530,290
+Carbonato,530,300
+Sílice Opalina,530,310
+Yeso,530,320
+Sílice Opalina,530,330
+Goethita,530,340
+Hematita,530,350
+Sílice Opalina,530,360
+Goethita,530,370
+Sílice Opalina,530,380
+Sílice Opalina,530,390
+Hematita,530,400
+Jarosita,530,410
+Esmectita,530,420
+Sulfato de Hierro,530,430
+Filosilicatos,530,440
+Esmectita,530,450
+Goethita,530,460
+Yeso,530,470
+Sulfato de Hierro,530,480
+Esmectita,530,490
+Jarosita,530,500
+Sulfato de Hierro,530,510
+Goethita,530,520
+Sulfato de Hierro,530,530
+Filosilicatos,530,540
+Carbonato,530,550
+Jarosita,530,560
+Sílice Opalina,530,570
+Jarosita,530,580
+Hematita,530,590
+Sílice Opalina,530,600
+Goethita,530,610
+Hematita,530,620
+Hematita,530,630
+Yeso,530,640
+Sulfato de Hierro,530,650
+Esmectita,530,660
+Jarosita,530,670
+Hematita,530,680
+Sílice Opalina,530,690
+Yeso,530,700
+Esmectita,540,0
+Yeso,540,10
+Filosilicatos,540,20
+Hematita,540,30
+Filosilicatos,540,40
+Carbonato,540,50
+Yeso,540,60
+Sílice Opalina,540,70
+Carbonato,540,80
+Sílice Opalina,540,90
+Carbonato,540,100
+Sílice Opalina,540,110
+Sulfato de Hierro,540,120
+Carbonato,540,130
+Carbonato,540,140
+Goethita,540,150
+Hematita,540,160
+Sílice Opalina,540,170
+Carbonato,540,180
+Sulfato de Hierro,540,190
+Sulfato de Hierro,540,200
+Yeso,540,210
+Filosilicatos,540,220
+Yeso,540,230
+Esmectita,540,240
+Jarosita,540,250
+Jarosita,540,260
+Esmectita,540,270
+Carbonato,540,280
+Sulfato de Hierro,540,290
+Hematita,540,300
+Filosilicatos,540,310
+Esmectita,540,320
+Goethita,540,330
+Yeso,540,340
+Yeso,540,350
+Goethita,540,360
+Yeso,540,370
+Esmectita,540,380
+Sílice Opalina,540,390
+Carbonato,540,400
+Goethita,540,410
+Yeso,540,420
+Esmectita,540,430
+Esmectita,540,440
+Carbonato,540,450
+Filosilicatos,540,460
+Hematita,540,470
+Sulfato de Hierro,540,480
+Filosilicatos,540,490
+Carbonato,540,500
+Carbonato,540,510
+Jarosita,540,520
+Carbonato,540,530
+Jarosita,540,540
+Yeso,540,550
+Goethita,540,560
+Filosilicatos,540,570
+Sulfato de Hierro,540,580
+Jarosita,540,590
+Sílice Opalina,540,600
+Carbonato,540,610
+Sílice Opalina,540,620
+Jarosita,540,630
+Sulfato de Hierro,540,640
+Carbonato,540,650
+Sulfato de Hierro,540,660
+Jarosita,540,670
+Jarosita,540,680
+Jarosita,540,690
+Goethita,540,700
+Esmectita,550,0
+Carbonato,550,10
+Sílice Opalina,550,20
+Filosilicatos,550,30
+Sílice Opalina,550,40
+Goethita,550,50
+Filosilicatos,550,60
+Filosilicatos,550,70
+Filosilicatos,550,80
+Carbonato,550,90
+Yeso,550,100
+Jarosita,550,110
+Yeso,550,120
+Jarosita,550,130
+Carbonato,550,140
+Hematita,550,150
+Hematita,550,160
+Esmectita,550,170
+Goethita,550,180
+Jarosita,550,190
+Jarosita,550,200
+Jarosita,550,210
+Carbonato,550,220
+Carbonato,550,230
+Carbonato,550,240
+Esmectita,550,250
+Hematita,550,260
+Yeso,550,270
+Yeso,550,280
+Filosilicatos,550,290
+Filosilicatos,550,300
+Filosilicatos,550,310
+Jarosita,550,320
+Esmectita,550,330
+Esmectita,550,340
+Carbonato,550,350
+Sulfato de Hierro,550,360
+Yeso,550,370
+Yeso,550,380
+Sulfato de Hierro,550,390
+Hematita,550,400
+Esmectita,550,410
+Esmectita,550,420
+Jarosita,550,430
+Filosilicatos,550,440
+Hematita,550,450
+Filosilicatos,550,460
+Sílice Opalina,550,470
+Hematita,550,480
+Goethita,550,490
+Sílice Opalina,550,500
+Esmectita,550,510
+Carbonato,550,520
+Filosilicatos,550,530
+Goethita,550,540
+Sulfato de Hierro,550,550
+Filosilicatos,550,560
+Carbonato,550,570
+Hematita,550,580
+Goethita,550,590
+Sílice Opalina,550,600
+Filosilicatos,550,610
+Hematita,550,620
+Esmectita,550,630
+Sílice Opalina,550,640
+Sulfato de Hierro,550,650
+Sulfato de Hierro,550,660
+Jarosita,550,670
+Yeso,550,680
+Carbonato,550,690
+Goethita,550,700
+Sulfato de Hierro,560,0
+Hematita,560,10
+Carbonato,560,20
+Filosilicatos,560,30
+Jarosita,560,40
+Esmectita,560,50
+Carbonato,560,60
+Esmectita,560,70
+Jarosita,560,80
+Hematita,560,90
+Filosilicatos,560,100
+Carbonato,560,110
+Goethita,560,120
+Carbonato,560,130
+Hematita,560,140
+Yeso,560,150
+Esmectita,560,160
+Sílice Opalina,560,170
+Yeso,560,180
+Sulfato de Hierro,560,190
+Carbonato,560,200
+Jarosita,560,210
+Sílice Opalina,560,220
+Hematita,560,230
+Hematita,560,240
+Hematita,560,250
+Filosilicatos,560,260
+Sulfato de Hierro,560,270
+Filosilicatos,560,280
+Jarosita,560,290
+Sílice Opalina,560,300
+Filosilicatos,560,310
+Sulfato de Hierro,560,320
+Jarosita,560,330
+Hematita,560,340
+Esmectita,560,350
+Esmectita,560,360
+Jarosita,560,370
+Carbonato,560,380
+Carbonato,560,390
+Carbonato,560,400
+Yeso,560,410
+Filosilicatos,560,420
+Sílice Opalina,560,430
+Yeso,560,440
+Hematita,560,450
+Filosilicatos,560,460
+Goethita,560,470
+Sulfato de Hierro,560,480
+Jarosita,560,490
+Filosilicatos,560,500
+Jarosita,560,510
+Esmectita,560,520
+Hematita,560,530
+Goethita,560,540
+Esmectita,560,550
+Filosilicatos,560,560
+Hematita,560,570
+Jarosita,560,580
+Filosilicatos,560,590
+Sílice Opalina,560,600
+Yeso,560,610
+Hematita,560,620
+Esmectita,560,630
+Sílice Opalina,560,640
+Sílice Opalina,560,650
+Filosilicatos,560,660
+Hematita,560,670
+Sílice Opalina,560,680
+Sulfato de Hierro,560,690
+Esmectita,560,700
+Sulfato de Hierro,570,0
+Carbonato,570,10
+Goethita,570,20
+Carbonato,570,30
+Jarosita,570,40
+Esmectita,570,50
+Sílice Opalina,570,60
+Esmectita,570,70
+Yeso,570,80
+Sílice Opalina,570,90
+Sílice Opalina,570,100
+Filosilicatos,570,110
+Carbonato,570,120
+Hematita,570,130
+Goethita,570,140
+Sílice Opalina,570,150
+Goethita,570,160
+Jarosita,570,170
+Sílice Opalina,570,180
+Yeso,570,190
+Sulfato de Hierro,570,200
+Sílice Opalina,570,210
+Esmectita,570,220
+Goethita,570,230
+Sulfato de Hierro,570,240
+Yeso,570,250
+Sulfato de Hierro,570,260
+Filosilicatos,570,270
+Jarosita,570,280
+Yeso,570,290
+Yeso,570,300
+Hematita,570,310
+Esmectita,570,320
+Carbonato,570,330
+Filosilicatos,570,340
+Yeso,570,350
+Sílice Opalina,570,360
+Hematita,570,370
+Jarosita,570,380
+Yeso,570,390
+Esmectita,570,400
+Esmectita,570,410
+Esmectita,570,420
+Filosilicatos,570,430
+Sulfato de Hierro,570,440
+Sulfato de Hierro,570,450
+Yeso,570,460
+Sílice Opalina,570,470
+Yeso,570,480
+Goethita,570,490
+Carbonato,570,500
+Sílice Opalina,570,510
+Jarosita,570,520
+Yeso,570,530
+Carbonato,570,540
+Hematita,570,550
+Sílice Opalina,570,560
+Hematita,570,570
+Goethita,570,580
+Yeso,570,590
+Sílice Opalina,570,600
+Sílice Opalina,570,610
+Esmectita,570,620
+Goethita,570,630
+Filosilicatos,570,640
+Filosilicatos,570,650
+Goethita,570,660
+Filosilicatos,570,670
+Yeso,570,680
+Esmectita,570,690
+Esmectita,570,700
+Sulfato de Hierro,580,0
+Jarosita,580,10
+Yeso,580,20
+Carbonato,580,30
+Jarosita,580,40
+Sílice Opalina,580,50
+Sulfato de Hierro,580,60
+Esmectita,580,70
+Carbonato,580,80
+Filosilicatos,580,90
+Carbonato,580,100
+Hematita,580,110
+Sulfato de Hierro,580,120
+Filosilicatos,580,130
+Hematita,580,140
+Yeso,580,150
+Sílice Opalina,580,160
+Filosilicatos,580,170
+Sulfato de Hierro,580,180
+Hematita,580,190
+Sulfato de Hierro,580,200
+Yeso,580,210
+Filosilicatos,580,220
+Sulfato de Hierro,580,230
+Hematita,580,240
+Sílice Opalina,580,250
+Sulfato de Hierro,580,260
+Carbonato,580,270
+Filosilicatos,580,280
+Jarosita,580,290
+Sulfato de Hierro,580,300
+Sílice Opalina,580,310
+Sulfato de Hierro,580,320
+Yeso,580,330
+Esmectita,580,340
+Filosilicatos,580,350
+Sulfato de Hierro,580,360
+Esmectita,580,370
+Carbonato,580,380
+Jarosita,580,390
+Hematita,580,400
+Sílice Opalina,580,410
+Esmectita,580,420
+Carbonato,580,430
+Esmectita,580,440
+Yeso,580,450
+Goethita,580,460
+Yeso,580,470
+Goethita,580,480
+Carbonato,580,490
+Goethita,580,500
+Sulfato de Hierro,580,510
+Filosilicatos,580,520
+Sulfato de Hierro,580,530
+Jarosita,580,540
+Carbonato,580,550
+Yeso,580,560
+Goethita,580,570
+Filosilicatos,580,580
+Sulfato de Hierro,580,590
+Jarosita,580,600
+Esmectita,580,610
+Filosilicatos,580,620
+Yeso,580,630
+Hematita,580,640
+Hematita,580,650
+Sulfato de Hierro,580,660
+Jarosita,580,670
+Filosilicatos,580,680
+Sulfato de Hierro,580,690
+Carbonato,580,700
+Carbonato,590,0
+Esmectita,590,10
+Jarosita,590,20
+Filosilicatos,590,30
+Esmectita,590,40
+Carbonato,590,50
+Filosilicatos,590,60
+Sulfato de Hierro,590,70
+Jarosita,590,80
+Sílice Opalina,590,90
+Goethita,590,100
+Filosilicatos,590,110
+Sulfato de Hierro,590,120
+Sílice Opalina,590,130
+Goethita,590,140
+Esmectita,590,150
+Jarosita,590,160
+Goethita,590,170
+Sulfato de Hierro,590,180
+Filosilicatos,590,190
+Sílice Opalina,590,200
+Filosilicatos,590,210
+Goethita,590,220
+Yeso,590,230
+Filosilicatos,590,240
+Filosilicatos,590,250
+Filosilicatos,590,260
+Goethita,590,270
+Filosilicatos,590,280
+Sílice Opalina,590,290
+Yeso,590,300
+Filosilicatos,590,310
+Sulfato de Hierro,590,320
+Carbonato,590,330
+Esmectita,590,340
+Jarosita,590,350
+Filosilicatos,590,360
+Carbonato,590,370
+Goethita,590,380
+Sílice Opalina,590,390
+Sulfato de Hierro,590,400
+Sulfato de Hierro,590,410
+Esmectita,590,420
+Esmectita,590,430
+Sulfato de Hierro,590,440
+Hematita,590,450
+Sílice Opalina,590,460
+Goethita,590,470
+Jarosita,590,480
+Hematita,590,490
+Yeso,590,500
+Carbonato,590,510
+Filosilicatos,590,520
+Filosilicatos,590,530
+Filosilicatos,590,540
+Yeso,590,550
+Sílice Opalina,590,560
+Yeso,590,570
+Goethita,590,580
+Esmectita,590,590
+Esmectita,590,600
+Esmectita,590,610
+Esmectita,590,620
+Jarosita,590,630
+Sulfato de Hierro,590,640
+Esmectita,590,650
+Yeso,590,660
+Yeso,590,670
+Hematita,590,680
+Goethita,590,690
+Sílice Opalina,590,700
+Hematita,600,0
+Sílice Opalina,600,10
+Yeso,600,20
+Hematita,600,30
+Hematita,600,40
+Sílice Opalina,600,50
+Filosilicatos,600,60
+Jarosita,600,70
+Filosilicatos,600,80
+Hematita,600,90
+Hematita,600,100
+Yeso,600,110
+Jarosita,600,120
+Carbonato,600,130
+Yeso,600,140
+Filosilicatos,600,150
+Esmectita,600,160
+Esmectita,600,170
+Hematita,600,180
+Jarosita,600,190
+Hematita,600,200
+Carbonato,600,210
+Hematita,600,220
+Filosilicatos,600,230
+Esmectita,600,240
+Hematita,600,250
+Sulfato de Hierro,600,260
+Filosilicatos,600,270
+Sílice Opalina,600,280
+Sílice Opalina,600,290
+Jarosita,600,300
+Hematita,600,310
+Carbonato,600,320
+Filosilicatos,600,330
+Esmectita,600,340
+Esmectita,600,350
+Sulfato de Hierro,600,360
+Goethita,600,370
+Goethita,600,380
+Filosilicatos,600,390
+Carbonato,600,400
+Yeso,600,410
+Filosilicatos,600,420
+Goethita,600,430
+Filosilicatos,600,440
+Carbonato,600,450
+Jarosita,600,460
+Esmectita,600,470
+Hematita,600,480
+Hematita,600,490
+Sílice Opalina,600,500
+Hematita,600,510
+Jarosita,600,520
+Filosilicatos,600,530
+Jarosita,600,540
+Goethita,600,550
+Sílice Opalina,600,560
+Goethita,600,570
+Goethita,600,580
+Sulfato de Hierro,600,590
+Carbonato,600,600
+Sulfato de Hierro,600,610
+Filosilicatos,600,620
+Jarosita,600,630
+Yeso,600,640
+Carbonato,600,650
+Goethita,600,660
+Hematita,600,670
+Yeso,600,680
+Yeso,600,690
+Sílice Opalina,600,700
+Esmectita,610,0
+Filosilicatos,610,10
+Esmectita,610,20
+Filosilicatos,610,30
+Goethita,610,40
+Filosilicatos,610,50
+Carbonato,610,60
+Hematita,610,70
+Sulfato de Hierro,610,80
+Hematita,610,90
+Sulfato de Hierro,610,100
+Hematita,610,110
+Jarosita,610,120
+Yeso,610,130
+Yeso,610,140
+Hematita,610,150
+Yeso,610,160
+Carbonato,610,170
+Yeso,610,180
+Goethita,610,190
+Yeso,610,200
+Goethita,610,210
+Carbonato,610,220
+Hematita,610,230
+Yeso,610,240
+Esmectita,610,250
+Sulfato de Hierro,610,260
+Jarosita,610,270
+Goethita,610,280
+Goethita,610,290
+Goethita,610,300
+Sílice Opalina,610,310
+Sulfato de Hierro,610,320
+Goethita,610,330
+Yeso,610,340
+Carbonato,610,350
+Yeso,610,360
+Sílice Opalina,610,370
+Sílice Opalina,610,380
+Hematita,610,390
+Carbonato,610,400
+Sílice Opalina,610,410
+Jarosita,610,420
+Esmectita,610,430
+Goethita,610,440
+Sílice Opalina,610,450
+Sulfato de Hierro,610,460
+Esmectita,610,470
+Sílice Opalina,610,480
+Carbonato,610,490
+Carbonato,610,500
+Yeso,610,510
+Hematita,610,520
+Esmectita,610,530
+Sílice Opalina,610,540
+Hematita,610,550
+Sílice Opalina,610,560
+Hematita,610,570
+Hematita,610,580
+Carbonato,610,590
+Carbonato,610,600
+Jarosita,610,610
+Hematita,610,620
+Goethita,610,630
+Sílice Opalina,610,640
+Carbonato,610,650
+Sulfato de Hierro,610,660
+Sílice Opalina,610,670
+Carbonato,610,680
+Sulfato de Hierro,610,690
+Sulfato de Hierro,610,700
+Carbonato,620,0
+Esmectita,620,10
+Jarosita,620,20
+Yeso,620,30
+Hematita,620,40
+Yeso,620,50
+Sulfato de Hierro,620,60
+Yeso,620,70
+Jarosita,620,80
+Jarosita,620,90
+Sílice Opalina,620,100
+Jarosita,620,110
+Esmectita,620,120
+Sílice Opalina,620,130
+Goethita,620,140
+Jarosita,620,150
+Carbonato,620,160
+Goethita,620,170
+Sulfato de Hierro,620,180
+Yeso,620,190
+Carbonato,620,200
+Goethita,620,210
+Jarosita,620,220
+Goethita,620,230
+Filosilicatos,620,240
+Goethita,620,250
+Yeso,620,260
+Hematita,620,270
+Hematita,620,280
+Jarosita,620,290
+Filosilicatos,620,300
+Yeso,620,310
+Carbonato,620,320
+Jarosita,620,330
+Jarosita,620,340
+Sulfato de Hierro,620,350
+Yeso,620,360
+Sulfato de Hierro,620,370
+Carbonato,620,380
+Goethita,620,390
+Carbonato,620,400
+Yeso,620,410
+Esmectita,620,420
+Esmectita,620,430
+Jarosita,620,440
+Hematita,620,450
+Filosilicatos,620,460
+Hematita,620,470
+Sulfato de Hierro,620,480
+Jarosita,620,490
+Jarosita,620,500
+Jarosita,620,510
+Sílice Opalina,620,520
+Yeso,620,530
+Filosilicatos,620,540
+Sulfato de Hierro,620,550
+Jarosita,620,560
+Carbonato,620,570
+Sulfato de Hierro,620,580
+Sílice Opalina,620,590
+Hematita,620,600
+Filosilicatos,620,610
+Goethita,620,620
+Sílice Opalina,620,630
+Filosilicatos,620,640
+Filosilicatos,620,650
+Hematita,620,660
+Jarosita,620,670
+Carbonato,620,680
+Sílice Opalina,620,690
+Sílice Opalina,620,700
+Hematita,630,0
+Carbonato,630,10
+Esmectita,630,20
+Esmectita,630,30
+Sulfato de Hierro,630,40
+Goethita,630,50
+Sílice Opalina,630,60
+Sulfato de Hierro,630,70
+Sílice Opalina,630,80
+Yeso,630,90
+Filosilicatos,630,100
+Jarosita,630,110
+Sulfato de Hierro,630,120
+Goethita,630,130
+Goethita,630,140
+Sulfato de Hierro,630,150
+Jarosita,630,160
+Jarosita,630,170
+Esmectita,630,180
+Hematita,630,190
+Carbonato,630,200
+Yeso,630,210
+Goethita,630,220
+Hematita,630,230
+Sílice Opalina,630,240
+Hematita,630,250
+Sulfato de Hierro,630,260
+Carbonato,630,270
+Carbonato,630,280
+Goethita,630,290
+Goethita,630,300
+Goethita,630,310
+Hematita,630,320
+Yeso,630,330
+Hematita,630,340
+Goethita,630,350
+Carbonato,630,360
+Sílice Opalina,630,370
+Jarosita,630,380
+Jarosita,630,390
+Filosilicatos,630,400
+Filosilicatos,630,410
+Filosilicatos,630,420
+Carbonato,630,430
+Sulfato de Hierro,630,440
+Sulfato de Hierro,630,450
+Hematita,630,460
+Yeso,630,470
+Esmectita,630,480
+Sulfato de Hierro,630,490
+Carbonato,630,500
+Carbonato,630,510
+Esmectita,630,520
+Hematita,630,530
+Hematita,630,540
+Carbonato,630,550
+Sílice Opalina,630,560
+Sílice Opalina,630,570
+Carbonato,630,580
+Sílice Opalina,630,590
+Sílice Opalina,630,600
+Hematita,630,610
+Carbonato,630,620
+Jarosita,630,630
+Carbonato,630,640
+Hematita,630,650
+Esmectita,630,660
+Sulfato de Hierro,630,670
+Filosilicatos,630,680
+Goethita,630,690
+Sílice Opalina,630,700
+Yeso,640,0
+Yeso,640,10
+Jarosita,640,20
+Sílice Opalina,640,30
+Esmectita,640,40
+Jarosita,640,50
+Jarosita,640,60
+Goethita,640,70
+Filosilicatos,640,80
+Esmectita,640,90
+Hematita,640,100
+Goethita,640,110
+Carbonato,640,120
+Goethita,640,130
+Yeso,640,140
+Sílice Opalina,640,150
+Sílice Opalina,640,160
+Carbonato,640,170
+Carbonato,640,180
+Yeso,640,190
+Jarosita,640,200
+Sulfato de Hierro,640,210
+Yeso,640,220
+Hematita,640,230
+Hematita,640,240
+Yeso,640,250
+Goethita,640,260
+Filosilicatos,640,270
+Goethita,640,280
+Esmectita,640,290
+Esmectita,640,300
+Sílice Opalina,640,310
+Esmectita,640,320
+Yeso,640,330
+Carbonato,640,340
+Esmectita,640,350
+Goethita,640,360
+Esmectita,640,370
+Goethita,640,380
+Esmectita,640,390
+Carbonato,640,400
+Esmectita,640,410
+Hematita,640,420
+Esmectita,640,430
+Filosilicatos,640,440
+Carbonato,640,450
+Filosilicatos,640,460
+Sulfato de Hierro,640,470
+Hematita,640,480
+Sílice Opalina,640,490
+Hematita,640,500
+Jarosita,640,510
+Yeso,640,520
+Carbonato,640,530
+Goethita,640,540
+Carbonato,640,550
+Hematita,640,560
+Jarosita,640,570
+Sulfato de Hierro,640,580
+Sulfato de Hierro,640,590
+Yeso,640,600
+Sulfato de Hierro,640,610
+Jarosita,640,620
+Sílice Opalina,640,630
+Goethita,640,640
+Goethita,640,650
+Yeso,640,660
+Esmectita,640,670
+Filosilicatos,640,680
+Sulfato de Hierro,640,690
+Jarosita,640,700
+Hematita,650,0
+Jarosita,650,10
+Esmectita,650,20
+Jarosita,650,30
+Sulfato de Hierro,650,40
+Goethita,650,50
+Jarosita,650,60
+Filosilicatos,650,70
+Hematita,650,80
+Jarosita,650,90
+Yeso,650,100
+Goethita,650,110
+Hematita,650,120
+Filosilicatos,650,130
+Yeso,650,140
+Carbonato,650,150
+Sílice Opalina,650,160
+Sulfato de Hierro,650,170
+Filosilicatos,650,180
+Sulfato de Hierro,650,190
+Jarosita,650,200
+Jarosita,650,210
+Carbonato,650,220
+Yeso,650,230
+Esmectita,650,240
+Goethita,650,250
+Goethita,650,260
+Hematita,650,270
+Carbonato,650,280
+Sílice Opalina,650,290
+Goethita,650,300
+Hematita,650,310
+Jarosita,650,320
+Yeso,650,330
+Jarosita,650,340
+Yeso,650,350
+Hematita,650,360
+Filosilicatos,650,370
+Carbonato,650,380
+Yeso,650,390
+Sulfato de Hierro,650,400
+Sulfato de Hierro,650,410
+Sílice Opalina,650,420
+Yeso,650,430
+Yeso,650,440
+Jarosita,650,450
+Yeso,650,460
+Esmectita,650,470
+Filosilicatos,650,480
+Jarosita,650,490
+Sílice Opalina,650,500
+Carbonato,650,510
+Filosilicatos,650,520
+Carbonato,650,530
+Yeso,650,540
+Esmectita,650,550
+Filosilicatos,650,560
+Hematita,650,570
+Sulfato de Hierro,650,580
+Esmectita,650,590
+Jarosita,650,600
+Sulfato de Hierro,650,610
+Jarosita,650,620
+Esmectita,650,630
+Filosilicatos,650,640
+Sílice Opalina,650,650
+Hematita,650,660
+Goethita,650,670
+Carbonato,650,680
+Sulfato de Hierro,650,690
+Goethita,650,700
+Esmectita,660,0
+Esmectita,660,10
+Esmectita,660,20
+Jarosita,660,30
+Goethita,660,40
+Jarosita,660,50
+Hematita,660,60
+Esmectita,660,70
+Carbonato,660,80
+Jarosita,660,90
+Hematita,660,100
+Sulfato de Hierro,660,110
+Yeso,660,120
+Carbonato,660,130
+Sulfato de Hierro,660,140
+Hematita,660,150
+Esmectita,660,160
+Goethita,660,170
+Jarosita,660,180
+Goethita,660,190
+Jarosita,660,200
+Yeso,660,210
+Goethita,660,220
+Yeso,660,230
+Jarosita,660,240
+Sílice Opalina,660,250
+Yeso,660,260
+Carbonato,660,270
+Sílice Opalina,660,280
+Goethita,660,290
+Filosilicatos,660,300
+Jarosita,660,310
+Jarosita,660,320
+Carbonato,660,330
+Sílice Opalina,660,340
+Esmectita,660,350
+Filosilicatos,660,360
+Hematita,660,370
+Sulfato de Hierro,660,380
+Sulfato de Hierro,660,390
+Goethita,660,400
+Carbonato,660,410
+Goethita,660,420
+Jarosita,660,430
+Filosilicatos,660,440
+Sílice Opalina,660,450
+Goethita,660,460
+Esmectita,660,470
+Esmectita,660,480
+Carbonato,660,490
+Filosilicatos,660,500
+Sílice Opalina,660,510
+Sílice Opalina,660,520
+Filosilicatos,660,530
+Sílice Opalina,660,540
+Filosilicatos,660,550
+Sulfato de Hierro,660,560
+Goethita,660,570
+Esmectita,660,580
+Sulfato de Hierro,660,590
+Sílice Opalina,660,600
+Filosilicatos,660,610
+Carbonato,660,620
+Goethita,660,630
+Jarosita,660,640
+Carbonato,660,650
+Sulfato de Hierro,660,660
+Yeso,660,670
+Yeso,660,680
+Sílice Opalina,660,690
+Filosilicatos,660,700
+Sulfato de Hierro,670,0
+Sulfato de Hierro,670,10
+Goethita,670,20
+Carbonato,670,30
+Yeso,670,40
+Filosilicatos,670,50
+Carbonato,670,60
+Filosilicatos,670,70
+Goethita,670,80
+Filosilicatos,670,90
+Goethita,670,100
+Jarosita,670,110
+Goethita,670,120
+Sulfato de Hierro,670,130
+Sulfato de Hierro,670,140
+Filosilicatos,670,150
+Goethita,670,160
+Goethita,670,170
+Esmectita,670,180
+Carbonato,670,190
+Filosilicatos,670,200
+Carbonato,670,210
+Hematita,670,220
+Jarosita,670,230
+Jarosita,670,240
+Carbonato,670,250
+Filosilicatos,670,260
+Sulfato de Hierro,670,270
+Jarosita,670,280
+Esmectita,670,290
+Jarosita,670,300
+Carbonato,670,310
+Hematita,670,320
+Hematita,670,330
+Yeso,670,340
+Yeso,670,350
+Filosilicatos,670,360
+Sílice Opalina,670,370
+Yeso,670,380
+Yeso,670,390
+Jarosita,670,400
+Yeso,670,410
+Carbonato,670,420
+Esmectita,670,430
+Carbonato,670,440
+Sílice Opalina,670,450
+Yeso,670,460
+Carbonato,670,470
+Filosilicatos,670,480
+Hematita,670,490
+Sílice Opalina,670,500
+Filosilicatos,670,510
+Sulfato de Hierro,670,520
+Sulfato de Hierro,670,530
+Yeso,670,540
+Sulfato de Hierro,670,550
+Sílice Opalina,670,560
+Esmectita,670,570
+Yeso,670,580
+Yeso,670,590
+Sílice Opalina,670,600
+Carbonato,670,610
+Filosilicatos,670,620
+Filosilicatos,670,630
+Goethita,670,640
+Carbonato,670,650
+Yeso,670,660
+Hematita,670,670
+Hematita,670,680
+Hematita,670,690
+Jarosita,670,700
+Jarosita,680,0
+Jarosita,680,10
+Hematita,680,20
+Esmectita,680,30
+Filosilicatos,680,40
+Yeso,680,50
+Hematita,680,60
+Sulfato de Hierro,680,70
+Jarosita,680,80
+Goethita,680,90
+Yeso,680,100
+Jarosita,680,110
+Carbonato,680,120
+Jarosita,680,130
+Sílice Opalina,680,140
+Goethita,680,150
+Goethita,680,160
+Sílice Opalina,680,170
+Yeso,680,180
+Esmectita,680,190
+Hematita,680,200
+Filosilicatos,680,210
+Yeso,680,220
+Sulfato de Hierro,680,230
+Sulfato de Hierro,680,240
+Yeso,680,250
+Yeso,680,260
+Jarosita,680,270
+Yeso,680,280
+Carbonato,680,290
+Hematita,680,300
+Esmectita,680,310
+Hematita,680,320
+Sulfato de Hierro,680,330
+Carbonato,680,340
+Esmectita,680,350
+Yeso,680,360
+Yeso,680,370
+Yeso,680,380
+Sílice Opalina,680,390
+Jarosita,680,400
+Hematita,680,410
+Esmectita,680,420
+Filosilicatos,680,430
+Sílice Opalina,680,440
+Yeso,680,450
+Sulfato de Hierro,680,460
+Esmectita,680,470
+Esmectita,680,480
+Sílice Opalina,680,490
+Hematita,680,500
+Filosilicatos,680,510
+Carbonato,680,520
+Carbonato,680,530
+Sulfato de Hierro,680,540
+Sílice Opalina,680,550
+Goethita,680,560
+Hematita,680,570
+Hematita,680,580
+Sulfato de Hierro,680,590
+Sulfato de Hierro,680,600
+Filosilicatos,680,610
+Yeso,680,620
+Goethita,680,630
+Goethita,680,640
+Sulfato de Hierro,680,650
+Yeso,680,660
+Jarosita,680,670
+Carbonato,680,680
+Esmectita,680,690
+Yeso,680,700
+Filosilicatos,690,0
+Carbonato,690,10
+Sílice Opalina,690,20
+Esmectita,690,30
+Hematita,690,40
+Filosilicatos,690,50
+Esmectita,690,60
+Sulfato de Hierro,690,70
+Sílice Opalina,690,80
+Goethita,690,90
+Hematita,690,100
+Esmectita,690,110
+Esmectita,690,120
+Esmectita,690,130
+Hematita,690,140
+Sulfato de Hierro,690,150
+Esmectita,690,160
+Filosilicatos,690,170
+Filosilicatos,690,180
+Goethita,690,190
+Esmectita,690,200
+Sulfato de Hierro,690,210
+Sulfato de Hierro,690,220
+Hematita,690,230
+Hematita,690,240
+Sílice Opalina,690,250
+Hematita,690,260
+Sulfato de Hierro,690,270
+Sulfato de Hierro,690,280
+Carbonato,690,290
+Sulfato de Hierro,690,300
+Yeso,690,310
+Jarosita,690,320
+Sílice Opalina,690,330
+Hematita,690,340
+Filosilicatos,690,350
+Goethita,690,360
+Hematita,690,370
+Carbonato,690,380
+Sílice Opalina,690,390
+Jarosita,690,400
+Yeso,690,410
+Esmectita,690,420
+Hematita,690,430
+Hematita,690,440
+Jarosita,690,450
+Filosilicatos,690,460
+Sulfato de Hierro,690,470
+Sílice Opalina,690,480
+Hematita,690,490
+Carbonato,690,500
+Filosilicatos,690,510
+Goethita,690,520
+Goethita,690,530
+Sulfato de Hierro,690,540
+Jarosita,690,550
+Carbonato,690,560
+Yeso,690,570
+Yeso,690,580
+Hematita,690,590
+Carbonato,690,600
+Jarosita,690,610
+Jarosita,690,620
+Filosilicatos,690,630
+Hematita,690,640
+Filosilicatos,690,650
+Yeso,690,660
+Jarosita,690,670
+Esmectita,690,680
+Sílice Opalina,690,690
+Sílice Opalina,690,700
+Sulfato de Hierro,700,0
+Sílice Opalina,700,10
+Goethita,700,20
+Carbonato,700,30
+Esmectita,700,40
+Jarosita,700,50
+Goethita,700,60
+Goethita,700,70
+Hematita,700,80
+Hematita,700,90
+Jarosita,700,100
+Sílice Opalina,700,110
+Yeso,700,120
+Yeso,700,130
+Sílice Opalina,700,140
+Hematita,700,150
+Esmectita,700,160
+Carbonato,700,170
+Goethita,700,180
+Yeso,700,190
+Esmectita,700,200
+Filosilicatos,700,210
+Carbonato,700,220
+Yeso,700,230
+Filosilicatos,700,240
+Yeso,700,250
+Hematita,700,260
+Hematita,700,270
+Yeso,700,280
+Esmectita,700,290
+Sulfato de Hierro,700,300
+Yeso,700,310
+Hematita,700,320
+Filosilicatos,700,330
+Sulfato de Hierro,700,340
+Sílice Opalina,700,350
+Sulfato de Hierro,700,360
+Carbonato,700,370
+Hematita,700,380
+Sulfato de Hierro,700,390
+Hematita,700,400
+Sílice Opalina,700,410
+Esmectita,700,420
+Esmectita,700,430
+Yeso,700,440
+Esmectita,700,450
+Filosilicatos,700,460
+Hematita,700,470
+Jarosita,700,480
+Carbonato,700,490
+Sílice Opalina,700,500
+Sílice Opalina,700,510
+Sílice Opalina,700,520
+Carbonato,700,530
+Carbonato,700,540
+Sílice Opalina,700,550
+Jarosita,700,560
+Yeso,700,570
+Esmectita,700,580
+Carbonato,700,590
+Goethita,700,600
+Yeso,700,610
+Jarosita,700,620
+Esmectita,700,630
+Sulfato de Hierro,700,640
+Jarosita,700,650
+Hematita,700,660
+Goethita,700,670
+Sílice Opalina,700,680
+Sulfato de Hierro,700,690
+Yeso,700,700
+Sulfato de Hierro,710,0
+Sulfato de Hierro,710,10
+Goethita,710,20
+Esmectita,710,30
+Hematita,710,40
+Filosilicatos,710,50
+Carbonato,710,60
+Hematita,710,70
+Sílice Opalina,710,80
+Filosilicatos,710,90
+Sulfato de Hierro,710,100
+Yeso,710,110
+Esmectita,710,120
+Sulfato de Hierro,710,130
+Carbonato,710,140
+Filosilicatos,710,150
+Hematita,710,160
+Jarosita,710,170
+Jarosita,710,180
+Hematita,710,190
+Sulfato de Hierro,710,200
+Esmectita,710,210
+Jarosita,710,220
+Esmectita,710,230
+Goethita,710,240
+Yeso,710,250
+Yeso,710,260
+Goethita,710,270
+Jarosita,710,280
+Sulfato de Hierro,710,290
+Hematita,710,300
+Esmectita,710,310
+Goethita,710,320
+Goethita,710,330
+Yeso,710,340
+Yeso,710,350
+Sulfato de Hierro,710,360
+Goethita,710,370
+Esmectita,710,380
+Yeso,710,390
+Esmectita,710,400
+Sílice Opalina,710,410
+Goethita,710,420
+Filosilicatos,710,430
+Yeso,710,440
+Carbonato,710,450
+Hematita,710,460
+Filosilicatos,710,470
+Filosilicatos,710,480
+Esmectita,710,490
+Hematita,710,500
+Sulfato de Hierro,710,510
+Sulfato de Hierro,710,520
+Filosilicatos,710,530
+Esmectita,710,540
+Carbonato,710,550
+Yeso,710,560
+Esmectita,710,570
+Carbonato,710,580
+Goethita,710,590
+Hematita,710,600
+Carbonato,710,610
+Jarosita,710,620
+Hematita,710,630
+Filosilicatos,710,640
+Sílice Opalina,710,650
+Carbonato,710,660
+Jarosita,710,670
+Yeso,710,680
+Hematita,710,690
+Sílice Opalina,710,700
+Esmectita,720,0
+Jarosita,720,10
+Goethita,720,20
+Yeso,720,30
+Jarosita,720,40
+Jarosita,720,50
+Filosilicatos,720,60
+Jarosita,720,70
+Yeso,720,80
+Jarosita,720,90
+Yeso,720,100
+Sílice Opalina,720,110
+Hematita,720,120
+Hematita,720,130
+Jarosita,720,140
+Hematita,720,150
+Jarosita,720,160
+Carbonato,720,170
+Sílice Opalina,720,180
+Yeso,720,190
+Goethita,720,200
+Yeso,720,210
+Esmectita,720,220
+Sulfato de Hierro,720,230
+Sulfato de Hierro,720,240
+Sulfato de Hierro,720,250
+Carbonato,720,260
+Esmectita,720,270
+Sílice Opalina,720,280
+Yeso,720,290
+Goethita,720,300
+Sulfato de Hierro,720,310
+Carbonato,720,320
+Sulfato de Hierro,720,330
+Goethita,720,340
+Sulfato de Hierro,720,350
+Sulfato de Hierro,720,360
+Hematita,720,370
+Filosilicatos,720,380
+Sulfato de Hierro,720,390
+Goethita,720,400
+Sílice Opalina,720,410
+Hematita,720,420
+Sulfato de Hierro,720,430
+Esmectita,720,440
+Filosilicatos,720,450
+Carbonato,720,460
+Sulfato de Hierro,720,470
+Goethita,720,480
+Yeso,720,490
+Jarosita,720,500
+Goethita,720,510
+Sulfato de Hierro,720,520
+Filosilicatos,720,530
+Jarosita,720,540
+Sílice Opalina,720,550
+Sílice Opalina,720,560
+Carbonato,720,570
+Sílice Opalina,720,580
+Hematita,720,590
+Yeso,720,600
+Yeso,720,610
+Yeso,720,620
+Esmectita,720,630
+Sílice Opalina,720,640
+Filosilicatos,720,650
+Carbonato,720,660
+Filosilicatos,720,670
+Carbonato,720,680
+Carbonato,720,690
+Yeso,720,700
+Esmectita,730,0
+Esmectita,730,10
+Yeso,730,20
+Esmectita,730,30
+Jarosita,730,40
+Goethita,730,50
+Carbonato,730,60
+Sílice Opalina,730,70
+Sulfato de Hierro,730,80
+Filosilicatos,730,90
+Sílice Opalina,730,100
+Jarosita,730,110
+Jarosita,730,120
+Yeso,730,130
+Esmectita,730,140
+Filosilicatos,730,150
+Hematita,730,160
+Esmectita,730,170
+Esmectita,730,180
+Yeso,730,190
+Yeso,730,200
+Sílice Opalina,730,210
+Yeso,730,220
+Hematita,730,230
+Hematita,730,240
+Sulfato de Hierro,730,250
+Sílice Opalina,730,260
+Sílice Opalina,730,270
+Hematita,730,280
+Yeso,730,290
+Sílice Opalina,730,300
+Hematita,730,310
+Goethita,730,320
+Sulfato de Hierro,730,330
+Sílice Opalina,730,340
+Hematita,730,350
+Sulfato de Hierro,730,360
+Esmectita,730,370
+Jarosita,730,380
+Sulfato de Hierro,730,390
+Goethita,730,400
+Goethita,730,410
+Sílice Opalina,730,420
+Sulfato de Hierro,730,430
+Jarosita,730,440
+Filosilicatos,730,450
+Hematita,730,460
+Hematita,730,470
+Hematita,730,480
+Hematita,730,490
+Jarosita,730,500
+Sílice Opalina,730,510
+Filosilicatos,730,520
+Esmectita,730,530
+Esmectita,730,540
+Hematita,730,550
+Yeso,730,560
+Hematita,730,570
+Sulfato de Hierro,730,580
+Esmectita,730,590
+Filosilicatos,730,600
+Filosilicatos,730,610
+Esmectita,730,620
+Goethita,730,630
+Yeso,730,640
+Esmectita,730,650
+Carbonato,730,660
+Goethita,730,670
+Hematita,730,680
+Filosilicatos,730,690
+Jarosita,730,700
+Carbonato,740,0
+Carbonato,740,10
+Yeso,740,20
+Filosilicatos,740,30
+Yeso,740,40
+Filosilicatos,740,50
+Carbonato,740,60
+Sílice Opalina,740,70
+Jarosita,740,80
+Goethita,740,90
+Carbonato,740,100
+Esmectita,740,110
+Hematita,740,120
+Carbonato,740,130
+Yeso,740,140
+Yeso,740,150
+Sílice Opalina,740,160
+Filosilicatos,740,170
+Hematita,740,180
+Esmectita,740,190
+Carbonato,740,200
+Carbonato,740,210
+Sulfato de Hierro,740,220
+Goethita,740,230
+Yeso,740,240
+Sulfato de Hierro,740,250
+Carbonato,740,260
+Jarosita,740,270
+Jarosita,740,280
+Goethita,740,290
+Goethita,740,300
+Yeso,740,310
+Sílice Opalina,740,320
+Jarosita,740,330
+Filosilicatos,740,340
+Filosilicatos,740,350
+Sílice Opalina,740,360
+Esmectita,740,370
+Filosilicatos,740,380
+Yeso,740,390
+Yeso,740,400
+Sulfato de Hierro,740,410
+Yeso,740,420
+Sulfato de Hierro,740,430
+Yeso,740,440
+Goethita,740,450
+Goethita,740,460
+Sulfato de Hierro,740,470
+Sílice Opalina,740,480
+Goethita,740,490
+Jarosita,740,500
+Jarosita,740,510
+Filosilicatos,740,520
+Yeso,740,530
+Filosilicatos,740,540
+Esmectita,740,550
+Sulfato de Hierro,740,560
+Jarosita,740,570
+Sulfato de Hierro,740,580
+Sulfato de Hierro,740,590
+Filosilicatos,740,600
+Jarosita,740,610
+Esmectita,740,620
+Sulfato de Hierro,740,630
+Sulfato de Hierro,740,640
+Hematita,740,650
+Sulfato de Hierro,740,660
+Sulfato de Hierro,740,670
+Goethita,740,680
+Yeso,740,690
+Jarosita,740,700
+Filosilicatos,750,0
+Carbonato,750,10
+Esmectita,750,20
+Carbonato,750,30
+Sílice Opalina,750,40
+Jarosita,750,50
+Jarosita,750,60
+Sulfato de Hierro,750,70
+Hematita,750,80
+Goethita,750,90
+Filosilicatos,750,100
+Esmectita,750,110
+Jarosita,750,120
+Jarosita,750,130
+Sílice Opalina,750,140
+Goethita,750,150
+Esmectita,750,160
+Esmectita,750,170
+Sílice Opalina,750,180
+Carbonato,750,190
+Esmectita,750,200
+Goethita,750,210
+Jarosita,750,220
+Filosilicatos,750,230
+Esmectita,750,240
+Carbonato,750,250
+Hematita,750,260
+Jarosita,750,270
+Yeso,750,280
+Goethita,750,290
+Yeso,750,300
+Goethita,750,310
+Jarosita,750,320
+Sulfato de Hierro,750,330
+Carbonato,750,340
+Filosilicatos,750,350
+Hematita,750,360
+Esmectita,750,370
+Esmectita,750,380
+Goethita,750,390
+Sulfato de Hierro,750,400
+Jarosita,750,410
+Carbonato,750,420
+Jarosita,750,430
+Hematita,750,440
+Filosilicatos,750,450
+Carbonato,750,460
+Goethita,750,470
+Hematita,750,480
+Jarosita,750,490
+Esmectita,750,500
+Jarosita,750,510
+Goethita,750,520
+Jarosita,750,530
+Carbonato,750,540
+Yeso,750,550
+Goethita,750,560
+Hematita,750,570
+Hematita,750,580
+Esmectita,750,590
+Carbonato,750,600
+Sílice Opalina,750,610
+Hematita,750,620
+Jarosita,750,630
+Jarosita,750,640
+Hematita,750,650
+Filosilicatos,750,660
+Hematita,750,670
+Yeso,750,680
+Filosilicatos,750,690
+Yeso,750,700
+Hematita,760,0
+Carbonato,760,10
+Sulfato de Hierro,760,20
+Jarosita,760,30
+Hematita,760,40
+Carbonato,760,50
+Filosilicatos,760,60
+Hematita,760,70
+Sulfato de Hierro,760,80
+Yeso,760,90
+Filosilicatos,760,100
+Jarosita,760,110
+Carbonato,760,120
+Hematita,760,130
+Yeso,760,140
+Filosilicatos,760,150
+Yeso,760,160
+Goethita,760,170
+Goethita,760,180
+Filosilicatos,760,190
+Jarosita,760,200
+Hematita,760,210
+Goethita,760,220
+Hematita,760,230
+Yeso,760,240
+Carbonato,760,250
+Sulfato de Hierro,760,260
+Carbonato,760,270
+Sulfato de Hierro,760,280
+Hematita,760,290
+Esmectita,760,300
+Hematita,760,310
+Esmectita,760,320
+Filosilicatos,760,330
+Goethita,760,340
+Sílice Opalina,760,350
+Filosilicatos,760,360
+Sulfato de Hierro,760,370
+Goethita,760,380
+Filosilicatos,760,390
+Sílice Opalina,760,400
+Goethita,760,410
+Sílice Opalina,760,420
+Hematita,760,430
+Filosilicatos,760,440
+Carbonato,760,450
+Sulfato de Hierro,760,460
+Goethita,760,470
+Goethita,760,480
+Filosilicatos,760,490
+Carbonato,760,500
+Hematita,760,510
+Goethita,760,520
+Yeso,760,530
+Carbonato,760,540
+Carbonato,760,550
+Carbonato,760,560
+Goethita,760,570
+Carbonato,760,580
+Esmectita,760,590
+Hematita,760,600
+Jarosita,760,610
+Sílice Opalina,760,620
+Jarosita,760,630
+Sílice Opalina,760,640
+Sílice Opalina,760,650
+Sulfato de Hierro,760,660
+Yeso,760,670
+Goethita,760,680
+Carbonato,760,690
+Sulfato de Hierro,760,700
+Filosilicatos,770,0
+Jarosita,770,10
+Esmectita,770,20
+Sulfato de Hierro,770,30
+Hematita,770,40
+Sílice Opalina,770,50
+Hematita,770,60
+Goethita,770,70
+Jarosita,770,80
+Sílice Opalina,770,90
+Filosilicatos,770,100
+Filosilicatos,770,110
+Hematita,770,120
+Goethita,770,130
+Goethita,770,140
+Esmectita,770,150
+Esmectita,770,160
+Sílice Opalina,770,170
+Esmectita,770,180
+Sulfato de Hierro,770,190
+Goethita,770,200
+Sílice Opalina,770,210
+Goethita,770,220
+Esmectita,770,230
+Goethita,770,240
+Jarosita,770,250
+Sílice Opalina,770,260
+Yeso,770,270
+Yeso,770,280
+Jarosita,770,290
+Goethita,770,300
+Sílice Opalina,770,310
+Yeso,770,320
+Esmectita,770,330
+Jarosita,770,340
+Filosilicatos,770,350
+Jarosita,770,360
+Goethita,770,370
+Hematita,770,380
+Carbonato,770,390
+Carbonato,770,400
+Hematita,770,410
+Esmectita,770,420
+Hematita,770,430
+Goethita,770,440
+Hematita,770,450
+Carbonato,770,460
+Yeso,770,470
+Esmectita,770,480
+Carbonato,770,490
+Sílice Opalina,770,500
+Sulfato de Hierro,770,510
+Sulfato de Hierro,770,520
+Jarosita,770,530
+Sílice Opalina,770,540
+Filosilicatos,770,550
+Hematita,770,560
+Jarosita,770,570
+Yeso,770,580
+Sílice Opalina,770,590
+Sílice Opalina,770,600
+Goethita,770,610
+Filosilicatos,770,620
+Hematita,770,630
+Goethita,770,640
+Carbonato,770,650
+Hematita,770,660
+Yeso,770,670
+Carbonato,770,680
+Filosilicatos,770,690
+Esmectita,770,700
+Esmectita,780,0
+Jarosita,780,10
+Hematita,780,20
+Hematita,780,30
+Esmectita,780,40
+Jarosita,780,50
+Esmectita,780,60
+Goethita,780,70
+Esmectita,780,80
+Jarosita,780,90
+Jarosita,780,100
+Filosilicatos,780,110
+Esmectita,780,120
+Goethita,780,130
+Carbonato,780,140
+Hematita,780,150
+Sulfato de Hierro,780,160
+Goethita,780,170
+Sulfato de Hierro,780,180
+Hematita,780,190
+Hematita,780,200
+Hematita,780,210
+Jarosita,780,220
+Goethita,780,230
+Sulfato de Hierro,780,240
+Filosilicatos,780,250
+Carbonato,780,260
+Jarosita,780,270
+Hematita,780,280
+Sílice Opalina,780,290
+Carbonato,780,300
+Carbonato,780,310
+Jarosita,780,320
+Jarosita,780,330
+Hematita,780,340
+Sulfato de Hierro,780,350
+Goethita,780,360
+Sulfato de Hierro,780,370
+Carbonato,780,380
+Carbonato,780,390
+Filosilicatos,780,400
+Goethita,780,410
+Hematita,780,420
+Jarosita,780,430
+Filosilicatos,780,440
+Filosilicatos,780,450
+Esmectita,780,460
+Jarosita,780,470
+Goethita,780,480
+Hematita,780,490
+Yeso,780,500
+Hematita,780,510
+Carbonato,780,520
+Esmectita,780,530
+Jarosita,780,540
+Carbonato,780,550
+Hematita,780,560
+Goethita,780,570
+Sulfato de Hierro,780,580
+Yeso,780,590
+Sulfato de Hierro,780,600
+Sílice Opalina,780,610
+Filosilicatos,780,620
+Sulfato de Hierro,780,630
+Jarosita,780,640
+Sílice Opalina,780,650
+Carbonato,780,660
+Sílice Opalina,780,670
+Yeso,780,680
+Esmectita,780,690
+Esmectita,780,700
+Hematita,790,0
+Carbonato,790,10
+Sílice Opalina,790,20
+Hematita,790,30
+Sílice Opalina,790,40
+Sílice Opalina,790,50
+Sulfato de Hierro,790,60
+Yeso,790,70
+Hematita,790,80
+Hematita,790,90
+Filosilicatos,790,100
+Carbonato,790,110
+Sílice Opalina,790,120
+Yeso,790,130
+Hematita,790,140
+Jarosita,790,150
+Hematita,790,160
+Esmectita,790,170
+Hematita,790,180
+Carbonato,790,190
+Sílice Opalina,790,200
+Esmectita,790,210
+Carbonato,790,220
+Jarosita,790,230
+Carbonato,790,240
+Yeso,790,250
+Goethita,790,260
+Jarosita,790,270
+Sílice Opalina,790,280
+Esmectita,790,290
+Sílice Opalina,790,300
+Sílice Opalina,790,310
+Yeso,790,320
+Sulfato de Hierro,790,330
+Hematita,790,340
+Esmectita,790,350
+Sílice Opalina,790,360
+Yeso,790,370
+Esmectita,790,380
+Sílice Opalina,790,390
+Sílice Opalina,790,400
+Goethita,790,410
+Sílice Opalina,790,420
+Yeso,790,430
+Goethita,790,440
+Filosilicatos,790,450
+Jarosita,790,460
+Goethita,790,470
+Yeso,790,480
+Sulfato de Hierro,790,490
+Hematita,790,500
+Filosilicatos,790,510
+Filosilicatos,790,520
+Sulfato de Hierro,790,530
+Carbonato,790,540
+Filosilicatos,790,550
+Yeso,790,560
+Carbonato,790,570
+Sílice Opalina,790,580
+Goethita,790,590
+Sulfato de Hierro,790,600
+Hematita,790,610
+Sulfato de Hierro,790,620
+Yeso,790,630
+Filosilicatos,790,640
+Carbonato,790,650
+Yeso,790,660
+Hematita,790,670
+Goethita,790,680
+Filosilicatos,790,690
+Carbonato,790,700
+Esmectita,800,0
+Goethita,800,10
+Carbonato,800,20
+Carbonato,800,30
+Esmectita,800,40
+Sílice Opalina,800,50
+Carbonato,800,60
+Sílice Opalina,800,70
+Filosilicatos,800,80
+Esmectita,800,90
+Jarosita,800,100
+Sílice Opalina,800,110
+Goethita,800,120
+Hematita,800,130
+Sulfato de Hierro,800,140
+Hematita,800,150
+Sílice Opalina,800,160
+Carbonato,800,170
+Goethita,800,180
+Goethita,800,190
+Jarosita,800,200
+Hematita,800,210
+Jarosita,800,220
+Jarosita,800,230
+Yeso,800,240
+Goethita,800,250
+Filosilicatos,800,260
+Jarosita,800,270
+Hematita,800,280
+Carbonato,800,290
+Goethita,800,300
+Carbonato,800,310
+Esmectita,800,320
+Jarosita,800,330
+Sulfato de Hierro,800,340
+Goethita,800,350
+Esmectita,800,360
+Filosilicatos,800,370
+Jarosita,800,380
+Sílice Opalina,800,390
+Carbonato,800,400
+Sulfato de Hierro,800,410
+Esmectita,800,420
+Yeso,800,430
+Hematita,800,440
+Sílice Opalina,800,450
+Esmectita,800,460
+Hematita,800,470
+Hematita,800,480
+Sílice Opalina,800,490
+Sulfato de Hierro,800,500
+Carbonato,800,510
+Filosilicatos,800,520
+Sulfato de Hierro,800,530
+Sulfato de Hierro,800,540
+Goethita,800,550
+Yeso,800,560
+Yeso,800,570
+Esmectita,800,580
+Goethita,800,590
+Hematita,800,600
+Filosilicatos,800,610
+Hematita,800,620
+Esmectita,800,630
+Yeso,800,640
+Filosilicatos,800,650
+Carbonato,800,660
+Filosilicatos,800,670
+Carbonato,800,680
+Hematita,800,690
+Sílice Opalina,800,700
+Filosilicatos,810,0
+Hematita,810,10
+Carbonato,810,20
+Jarosita,810,30
+Carbonato,810,40
+Carbonato,810,50
+Hematita,810,60
+Sulfato de Hierro,810,70
+Esmectita,810,80
+Hematita,810,90
+Hematita,810,100
+Sulfato de Hierro,810,110
+Hematita,810,120
+Esmectita,810,130
+Hematita,810,140
+Sulfato de Hierro,810,150
+Jarosita,810,160
+Sulfato de Hierro,810,170
+Sulfato de Hierro,810,180
+Jarosita,810,190
+Sílice Opalina,810,200
+Esmectita,810,210
+Yeso,810,220
+Goethita,810,230
+Carbonato,810,240
+Sílice Opalina,810,250
+Jarosita,810,260
+Sílice Opalina,810,270
+Sílice Opalina,810,280
+Jarosita,810,290
+Esmectita,810,300
+Carbonato,810,310
+Esmectita,810,320
+Esmectita,810,330
+Jarosita,810,340
+Sílice Opalina,810,350
+Jarosita,810,360
+Goethita,810,370
+Yeso,810,380
+Esmectita,810,390
+Yeso,810,400
+Sílice Opalina,810,410
+Yeso,810,420
+Yeso,810,430
+Goethita,810,440
+Sílice Opalina,810,450
+Sílice Opalina,810,460
+Sílice Opalina,810,470
+Hematita,810,480
+Hematita,810,490
+Sílice Opalina,810,500
+Filosilicatos,810,510
+Filosilicatos,810,520
+Yeso,810,530
+Esmectita,810,540
+Yeso,810,550
+Filosilicatos,810,560
+Sílice Opalina,810,570
+Sílice Opalina,810,580
+Goethita,810,590
+Sulfato de Hierro,810,600
+Carbonato,810,610
+Sílice Opalina,810,620
+Yeso,810,630
+Hematita,810,640
+Sílice Opalina,810,650
+Sílice Opalina,810,660
+Sulfato de Hierro,810,670
+Jarosita,810,680
+Hematita,810,690
+Sulfato de Hierro,810,700
+Jarosita,820,0
+Yeso,820,10
+Filosilicatos,820,20
+Filosilicatos,820,30
+Esmectita,820,40
+Carbonato,820,50
+Yeso,820,60
+Jarosita,820,70
+Goethita,820,80
+Carbonato,820,90
+Sulfato de Hierro,820,100
+Jarosita,820,110
+Goethita,820,120
+Goethita,820,130
+Yeso,820,140
+Filosilicatos,820,150
+Carbonato,820,160
+Hematita,820,170
+Esmectita,820,180
+Filosilicatos,820,190
+Yeso,820,200
+Sílice Opalina,820,210
+Sulfato de Hierro,820,220
+Carbonato,820,230
+Yeso,820,240
+Sulfato de Hierro,820,250
+Sílice Opalina,820,260
+Sulfato de Hierro,820,270
+Esmectita,820,280
+Yeso,820,290
+Esmectita,820,300
+Goethita,820,310
+Sulfato de Hierro,820,320
+Sulfato de Hierro,820,330
+Carbonato,820,340
+Sílice Opalina,820,350
+Hematita,820,360
+Filosilicatos,820,370
+Esmectita,820,380
+Goethita,820,390
+Yeso,820,400
+Hematita,820,410
+Goethita,820,420
+Sílice Opalina,820,430
+Jarosita,820,440
+Yeso,820,450
+Sílice Opalina,820,460
+Sulfato de Hierro,820,470
+Jarosita,820,480
+Hematita,820,490
+Esmectita,820,500
+Hematita,820,510
+Goethita,820,520
+Yeso,820,530
+Goethita,820,540
+Sulfato de Hierro,820,550
+Sílice Opalina,820,560
+Jarosita,820,570
+Jarosita,820,580
+Jarosita,820,590
+Esmectita,820,600
+Goethita,820,610
+Sulfato de Hierro,820,620
+Jarosita,820,630
+Hematita,820,640
+Filosilicatos,820,650
+Jarosita,820,660
+Hematita,820,670
+Jarosita,820,680
+Esmectita,820,690
+Goethita,820,700
+Yeso,830,0
+Hematita,830,10
+Hematita,830,20
+Sulfato de Hierro,830,30
+Sílice Opalina,830,40
+Goethita,830,50
+Goethita,830,60
+Filosilicatos,830,70
+Yeso,830,80
+Hematita,830,90
+Carbonato,830,100
+Goethita,830,110
+Esmectita,830,120
+Filosilicatos,830,130
+Hematita,830,140
+Esmectita,830,150
+Yeso,830,160
+Sulfato de Hierro,830,170
+Goethita,830,180
+Yeso,830,190
+Hematita,830,200
+Sulfato de Hierro,830,210
+Goethita,830,220
+Goethita,830,230
+Esmectita,830,240
+Filosilicatos,830,250
+Sílice Opalina,830,260
+Sulfato de Hierro,830,270
+Yeso,830,280
+Esmectita,830,290
+Yeso,830,300
+Sulfato de Hierro,830,310
+Esmectita,830,320
+Carbonato,830,330
+Esmectita,830,340
+Hematita,830,350
+Carbonato,830,360
+Filosilicatos,830,370
+Sulfato de Hierro,830,380
+Esmectita,830,390
+Carbonato,830,400
+Hematita,830,410
+Filosilicatos,830,420
+Yeso,830,430
+Sulfato de Hierro,830,440
+Jarosita,830,450
+Jarosita,830,460
+Esmectita,830,470
+Yeso,830,480
+Carbonato,830,490
+Jarosita,830,500
+Esmectita,830,510
+Hematita,830,520
+Esmectita,830,530
+Hematita,830,540
+Sílice Opalina,830,550
+Jarosita,830,560
+Filosilicatos,830,570
+Yeso,830,580
+Jarosita,830,590
+Sulfato de Hierro,830,600
+Goethita,830,610
+Jarosita,830,620
+Sulfato de Hierro,830,630
+Filosilicatos,830,640
+Carbonato,830,650
+Carbonato,830,660
+Filosilicatos,830,670
+Sílice Opalina,830,680
+Filosilicatos,830,690
+Hematita,830,700
+Sulfato de Hierro,840,0
+Filosilicatos,840,10
+Jarosita,840,20
+Jarosita,840,30
+Carbonato,840,40
+Goethita,840,50
+Filosilicatos,840,60
+Hematita,840,70
+Sulfato de Hierro,840,80
+Carbonato,840,90
+Sulfato de Hierro,840,100
+Sílice Opalina,840,110
+Filosilicatos,840,120
+Yeso,840,130
+Yeso,840,140
+Filosilicatos,840,150
+Filosilicatos,840,160
+Esmectita,840,170
+Jarosita,840,180
+Esmectita,840,190
+Jarosita,840,200
+Sulfato de Hierro,840,210
+Sílice Opalina,840,220
+Carbonato,840,230
+Carbonato,840,240
+Hematita,840,250
+Yeso,840,260
+Jarosita,840,270
+Filosilicatos,840,280
+Hematita,840,290
+Goethita,840,300
+Filosilicatos,840,310
+Sílice Opalina,840,320
+Filosilicatos,840,330
+Jarosita,840,340
+Hematita,840,350
+Hematita,840,360
+Carbonato,840,370
+Jarosita,840,380
+Yeso,840,390
+Yeso,840,400
+Goethita,840,410
+Jarosita,840,420
+Filosilicatos,840,430
+Esmectita,840,440
+Carbonato,840,450
+Hematita,840,460
+Sulfato de Hierro,840,470
+Sílice Opalina,840,480
+Jarosita,840,490
+Carbonato,840,500
+Goethita,840,510
+Hematita,840,520
+Hematita,840,530
+Yeso,840,540
+Hematita,840,550
+Esmectita,840,560
+Esmectita,840,570
+Sílice Opalina,840,580
+Jarosita,840,590
+Yeso,840,600
+Jarosita,840,610
+Sílice Opalina,840,620
+Filosilicatos,840,630
+Esmectita,840,640
+Esmectita,840,650
+Jarosita,840,660
+Sulfato de Hierro,840,670
+Sulfato de Hierro,840,680
+Hematita,840,690
+Goethita,840,700
+Yeso,850,0
+Carbonato,850,10
+Sílice Opalina,850,20
+Sulfato de Hierro,850,30
+Jarosita,850,40
+Yeso,850,50
+Filosilicatos,850,60
+Jarosita,850,70
+Hematita,850,80
+Goethita,850,90
+Yeso,850,100
+Yeso,850,110
+Goethita,850,120
+Sulfato de Hierro,850,130
+Carbonato,850,140
+Sílice Opalina,850,150
+Yeso,850,160
+Filosilicatos,850,170
+Goethita,850,180
+Sílice Opalina,850,190
+Goethita,850,200
+Carbonato,850,210
+Hematita,850,220
+Carbonato,850,230
+Esmectita,850,240
+Filosilicatos,850,250
+Filosilicatos,850,260
+Sílice Opalina,850,270
+Sílice Opalina,850,280
+Goethita,850,290
+Jarosita,850,300
+Yeso,850,310
+Sulfato de Hierro,850,320
+Goethita,850,330
+Sulfato de Hierro,850,340
+Yeso,850,350
+Sulfato de Hierro,850,360
+Yeso,850,370
+Sulfato de Hierro,850,380
+Yeso,850,390
+Yeso,850,400
+Filosilicatos,850,410
+Goethita,850,420
+Carbonato,850,430
+Goethita,850,440
+Esmectita,850,450
+Carbonato,850,460
+Jarosita,850,470
+Carbonato,850,480
+Hematita,850,490
+Filosilicatos,850,500
+Yeso,850,510
+Sulfato de Hierro,850,520
+Filosilicatos,850,530
+Filosilicatos,850,540
+Jarosita,850,550
+Jarosita,850,560
+Esmectita,850,570
+Sulfato de Hierro,850,580
+Carbonato,850,590
+Sulfato de Hierro,850,600
+Carbonato,850,610
+Esmectita,850,620
+Goethita,850,630
+Sulfato de Hierro,850,640
+Jarosita,850,650
+Jarosita,850,660
+Yeso,850,670
+Yeso,850,680
+Filosilicatos,850,690
+Sulfato de Hierro,850,700
+Sulfato de Hierro,860,0
+Goethita,860,10
+Hematita,860,20
+Sílice Opalina,860,30
+Sulfato de Hierro,860,40
+Hematita,860,50
+Jarosita,860,60
+Sílice Opalina,860,70
+Sílice Opalina,860,80
+Sílice Opalina,860,90
+Goethita,860,100
+Hematita,860,110
+Sílice Opalina,860,120
+Yeso,860,130
+Esmectita,860,140
+Sílice Opalina,860,150
+Carbonato,860,160
+Filosilicatos,860,170
+Jarosita,860,180
+Sulfato de Hierro,860,190
+Jarosita,860,200
+Esmectita,860,210
+Sílice Opalina,860,220
+Sulfato de Hierro,860,230
+Sílice Opalina,860,240
+Yeso,860,250
+Sulfato de Hierro,860,260
+Filosilicatos,860,270
+Hematita,860,280
+Carbonato,860,290
+Sulfato de Hierro,860,300
+Goethita,860,310
+Hematita,860,320
+Jarosita,860,330
+Sílice Opalina,860,340
+Carbonato,860,350
+Goethita,860,360
+Hematita,860,370
+Filosilicatos,860,380
+Hematita,860,390
+Filosilicatos,860,400
+Carbonato,860,410
+Esmectita,860,420
+Esmectita,860,430
+Jarosita,860,440
+Filosilicatos,860,450
+Jarosita,860,460
+Carbonato,860,470
+Goethita,860,480
+Yeso,860,490
+Hematita,860,500
+Goethita,860,510
+Sílice Opalina,860,520
+Hematita,860,530
+Sulfato de Hierro,860,540
+Yeso,860,550
+Esmectita,860,560
+Filosilicatos,860,570
+Sulfato de Hierro,860,580
+Sulfato de Hierro,860,590
+Yeso,860,600
+Filosilicatos,860,610
+Jarosita,860,620
+Filosilicatos,860,630
+Jarosita,860,640
+Carbonato,860,650
+Yeso,860,660
+Filosilicatos,860,670
+Yeso,860,680
+Goethita,860,690
+Sílice Opalina,860,700
+Carbonato,870,0
+Hematita,870,10
+Filosilicatos,870,20
+Sulfato de Hierro,870,30
+Filosilicatos,870,40
+Filosilicatos,870,50
+Sulfato de Hierro,870,60
+Hematita,870,70
+Sílice Opalina,870,80
+Yeso,870,90
+Carbonato,870,100
+Sulfato de Hierro,870,110
+Yeso,870,120
+Goethita,870,130
+Filosilicatos,870,140
+Carbonato,870,150
+Filosilicatos,870,160
+Esmectita,870,170
+Sílice Opalina,870,180
+Sílice Opalina,870,190
+Sulfato de Hierro,870,200
+Yeso,870,210
+Hematita,870,220
+Filosilicatos,870,230
+Sulfato de Hierro,870,240
+Sulfato de Hierro,870,250
+Hematita,870,260
+Hematita,870,270
+Carbonato,870,280
+Yeso,870,290
+Goethita,870,300
+Esmectita,870,310
+Jarosita,870,320
+Carbonato,870,330
+Hematita,870,340
+Sílice Opalina,870,350
+Goethita,870,360
+Carbonato,870,370
+Esmectita,870,380
+Jarosita,870,390
+Carbonato,870,400
+Filosilicatos,870,410
+Jarosita,870,420
+Carbonato,870,430
+Hematita,870,440
+Carbonato,870,450
+Goethita,870,460
+Esmectita,870,470
+Goethita,870,480
+Carbonato,870,490
+Esmectita,870,500
+Yeso,870,510
+Goethita,870,520
+Carbonato,870,530
+Sílice Opalina,870,540
+Sílice Opalina,870,550
+Esmectita,870,560
+Esmectita,870,570
+Sulfato de Hierro,870,580
+Esmectita,870,590
+Filosilicatos,870,600
+Goethita,870,610
+Filosilicatos,870,620
+Sílice Opalina,870,630
+Sulfato de Hierro,870,640
+Jarosita,870,650
+Esmectita,870,660
+Esmectita,870,670
+Goethita,870,680
+Hematita,870,690
+Sulfato de Hierro,870,700
+Yeso,880,0
+Filosilicatos,880,10
+Carbonato,880,20
+Esmectita,880,30
+Sulfato de Hierro,880,40
+Yeso,880,50
+Sulfato de Hierro,880,60
+Esmectita,880,70
+Esmectita,880,80
+Sulfato de Hierro,880,90
+Esmectita,880,100
+Sílice Opalina,880,110
+Sílice Opalina,880,120
+Filosilicatos,880,130
+Carbonato,880,140
+Filosilicatos,880,150
+Filosilicatos,880,160
+Carbonato,880,170
+Sílice Opalina,880,180
+Filosilicatos,880,190
+Yeso,880,200
+Hematita,880,210
+Hematita,880,220
+Filosilicatos,880,230
+Filosilicatos,880,240
+Hematita,880,250
+Carbonato,880,260
+Filosilicatos,880,270
+Sulfato de Hierro,880,280
+Sulfato de Hierro,880,290
+Esmectita,880,300
+Sulfato de Hierro,880,310
+Yeso,880,320
+Yeso,880,330
+Esmectita,880,340
+Sulfato de Hierro,880,350
+Sulfato de Hierro,880,360
+Hematita,880,370
+Filosilicatos,880,380
+Sulfato de Hierro,880,390
+Filosilicatos,880,400
+Sílice Opalina,880,410
+Esmectita,880,420
+Yeso,880,430
+Goethita,880,440
+Carbonato,880,450
+Yeso,880,460
+Carbonato,880,470
+Sulfato de Hierro,880,480
+Sílice Opalina,880,490
+Jarosita,880,500
+Jarosita,880,510
+Yeso,880,520
+Esmectita,880,530
+Goethita,880,540
+Filosilicatos,880,550
+Sulfato de Hierro,880,560
+Goethita,880,570
+Jarosita,880,580
+Hematita,880,590
+Carbonato,880,600
+Hematita,880,610
+Sulfato de Hierro,880,620
+Sílice Opalina,880,630
+Goethita,880,640
+Sílice Opalina,880,650
+Hematita,880,660
+Sulfato de Hierro,880,670
+Sílice Opalina,880,680
+Carbonato,880,690
+Esmectita,880,700
+Esmectita,890,0
+Hematita,890,10
+Hematita,890,20
+Goethita,890,30
+Yeso,890,40
+Yeso,890,50
+Sílice Opalina,890,60
+Esmectita,890,70
+Filosilicatos,890,80
+Sílice Opalina,890,90
+Yeso,890,100
+Esmectita,890,110
+Filosilicatos,890,120
+Sulfato de Hierro,890,130
+Carbonato,890,140
+Jarosita,890,150
+Sulfato de Hierro,890,160
+Filosilicatos,890,170
+Yeso,890,180
+Yeso,890,190
+Sílice Opalina,890,200
+Yeso,890,210
+Jarosita,890,220
+Filosilicatos,890,230
+Filosilicatos,890,240
+Yeso,890,250
+Filosilicatos,890,260
+Filosilicatos,890,270
+Goethita,890,280
+Goethita,890,290
+Hematita,890,300
+Sílice Opalina,890,310
+Hematita,890,320
+Sulfato de Hierro,890,330
+Carbonato,890,340
+Filosilicatos,890,350
+Hematita,890,360
+Yeso,890,370
+Filosilicatos,890,380
+Sílice Opalina,890,390
+Carbonato,890,400
+Hematita,890,410
+Yeso,890,420
+Jarosita,890,430
+Esmectita,890,440
+Esmectita,890,450
+Jarosita,890,460
+Goethita,890,470
+Sílice Opalina,890,480
+Jarosita,890,490
+Sílice Opalina,890,500
+Jarosita,890,510
+Goethita,890,520
+Sílice Opalina,890,530
+Sulfato de Hierro,890,540
+Sulfato de Hierro,890,550
+Filosilicatos,890,560
+Hematita,890,570
+Filosilicatos,890,580
+Esmectita,890,590
+Hematita,890,600
+Hematita,890,610
+Sulfato de Hierro,890,620
+Esmectita,890,630
+Sílice Opalina,890,640
+Jarosita,890,650
+Hematita,890,660
+Filosilicatos,890,670
+Sílice Opalina,890,680
+Sílice Opalina,890,690
+Sulfato de Hierro,890,700
+Carbonato,900,0
+Hematita,900,10
+Jarosita,900,20
+Yeso,900,30
+Goethita,900,40
+Sulfato de Hierro,900,50
+Sílice Opalina,900,60
+Jarosita,900,70
+Filosilicatos,900,80
+Yeso,900,90
+Goethita,900,100
+Filosilicatos,900,110
+Goethita,900,120
+Jarosita,900,130
+Yeso,900,140
+Esmectita,900,150
+Sílice Opalina,900,160
+Sílice Opalina,900,170
+Filosilicatos,900,180
+Filosilicatos,900,190
+Sílice Opalina,900,200
+Goethita,900,210
+Goethita,900,220
+Filosilicatos,900,230
+Sulfato de Hierro,900,240
+Jarosita,900,250
+Yeso,900,260
+Esmectita,900,270
+Hematita,900,280
+Sílice Opalina,900,290
+Hematita,900,300
+Carbonato,900,310
+Goethita,900,320
+Carbonato,900,330
+Esmectita,900,340
+Sílice Opalina,900,350
+Esmectita,900,360
+Jarosita,900,370
+Sulfato de Hierro,900,380
+Goethita,900,390
+Carbonato,900,400
+Esmectita,900,410
+Sílice Opalina,900,420
+Hematita,900,430
+Sílice Opalina,900,440
+Hematita,900,450
+Filosilicatos,900,460
+Yeso,900,470
+Hematita,900,480
+Filosilicatos,900,490
+Yeso,900,500
+Goethita,900,510
+Carbonato,900,520
+Filosilicatos,900,530
+Carbonato,900,540
+Carbonato,900,550
+Sulfato de Hierro,900,560
+Carbonato,900,570
+Sílice Opalina,900,580
+Yeso,900,590
+Jarosita,900,600
+Carbonato,900,610
+Sulfato de Hierro,900,620
+Filosilicatos,900,630
+Carbonato,900,640
+Sílice Opalina,900,650
+Hematita,900,660
+Filosilicatos,900,670
+Carbonato,900,680
+Sulfato de Hierro,900,690
+Esmectita,900,700
+Sílice Opalina,910,0
+Carbonato,910,10
+Goethita,910,20
+Esmectita,910,30
+Esmectita,910,40
+Sulfato de Hierro,910,50
+Sulfato de Hierro,910,60
+Sulfato de Hierro,910,70
+Esmectita,910,80
+Jarosita,910,90
+Esmectita,910,100
+Carbonato,910,110
+Filosilicatos,910,120
+Filosilicatos,910,130
+Sílice Opalina,910,140
+Filosilicatos,910,150
+Goethita,910,160
+Filosilicatos,910,170
+Hematita,910,180
+Sílice Opalina,910,190
+Filosilicatos,910,200
+Esmectita,910,210
+Sílice Opalina,910,220
+Sílice Opalina,910,230
+Jarosita,910,240
+Sulfato de Hierro,910,250
+Sulfato de Hierro,910,260
+Esmectita,910,270
+Filosilicatos,910,280
+Carbonato,910,290
+Goethita,910,300
+Yeso,910,310
+Goethita,910,320
+Sílice Opalina,910,330
+Filosilicatos,910,340
+Sulfato de Hierro,910,350
+Goethita,910,360
+Sílice Opalina,910,370
+Esmectita,910,380
+Sulfato de Hierro,910,390
+Jarosita,910,400
+Jarosita,910,410
+Sulfato de Hierro,910,420
+Carbonato,910,430
+Filosilicatos,910,440
+Filosilicatos,910,450
+Filosilicatos,910,460
+Jarosita,910,470
+Filosilicatos,910,480
+Esmectita,910,490
+Filosilicatos,910,500
+Goethita,910,510
+Carbonato,910,520
+Sulfato de Hierro,910,530
+Sulfato de Hierro,910,540
+Sílice Opalina,910,550
+Filosilicatos,910,560
+Jarosita,910,570
+Sulfato de Hierro,910,580
+Filosilicatos,910,590
+Sulfato de Hierro,910,600
+Goethita,910,610
+Sulfato de Hierro,910,620
+Sulfato de Hierro,910,630
+Goethita,910,640
+Filosilicatos,910,650
+Carbonato,910,660
+Yeso,910,670
+Sulfato de Hierro,910,680
+Esmectita,910,690
+Sulfato de Hierro,910,700
+Esmectita,920,0
+Jarosita,920,10
+Sílice Opalina,920,20
+Filosilicatos,920,30
+Esmectita,920,40
+Esmectita,920,50
+Sulfato de Hierro,920,60
+Carbonato,920,70
+Esmectita,920,80
+Filosilicatos,920,90
+Sílice Opalina,920,100
+Esmectita,920,110
+Goethita,920,120
+Sílice Opalina,920,130
+Sílice Opalina,920,140
+Esmectita,920,150
+Esmectita,920,160
+Hematita,920,170
+Hematita,920,180
+Yeso,920,190
+Filosilicatos,920,200
+Filosilicatos,920,210
+Esmectita,920,220
+Yeso,920,230
+Filosilicatos,920,240
+Hematita,920,250
+Jarosita,920,260
+Hematita,920,270
+Hematita,920,280
+Sílice Opalina,920,290
+Jarosita,920,300
+Carbonato,920,310
+Carbonato,920,320
+Sílice Opalina,920,330
+Goethita,920,340
+Sílice Opalina,920,350
+Filosilicatos,920,360
+Jarosita,920,370
+Hematita,920,380
+Esmectita,920,390
+Yeso,920,400
+Jarosita,920,410
+Goethita,920,420
+Carbonato,920,430
+Filosilicatos,920,440
+Goethita,920,450
+Carbonato,920,460
+Goethita,920,470
+Goethita,920,480
+Jarosita,920,490
+Goethita,920,500
+Sulfato de Hierro,920,510
+Yeso,920,520
+Goethita,920,530
+Esmectita,920,540
+Yeso,920,550
+Goethita,920,560
+Sílice Opalina,920,570
+Filosilicatos,920,580
+Sílice Opalina,920,590
+Hematita,920,600
+Sílice Opalina,920,610
+Carbonato,920,620
+Goethita,920,630
+Jarosita,920,640
+Hematita,920,650
+Yeso,920,660
+Sulfato de Hierro,920,670
+Sílice Opalina,920,680
+Goethita,920,690
+Yeso,920,700
+Hematita,930,0
+Hematita,930,10
+Yeso,930,20
+Jarosita,930,30
+Carbonato,930,40
+Goethita,930,50
+Jarosita,930,60
+Sílice Opalina,930,70
+Yeso,930,80
+Filosilicatos,930,90
+Esmectita,930,100
+Jarosita,930,110
+Sulfato de Hierro,930,120
+Esmectita,930,130
+Goethita,930,140
+Hematita,930,150
+Esmectita,930,160
+Jarosita,930,170
+Jarosita,930,180
+Yeso,930,190
+Filosilicatos,930,200
+Filosilicatos,930,210
+Hematita,930,220
+Carbonato,930,230
+Yeso,930,240
+Carbonato,930,250
+Carbonato,930,260
+Goethita,930,270
+Esmectita,930,280
+Hematita,930,290
+Esmectita,930,300
+Goethita,930,310
+Sulfato de Hierro,930,320
+Esmectita,930,330
+Sulfato de Hierro,930,340
+Yeso,930,350
+Yeso,930,360
+Esmectita,930,370
+Goethita,930,380
+Carbonato,930,390
+Hematita,930,400
+Jarosita,930,410
+Sílice Opalina,930,420
+Esmectita,930,430
+Hematita,930,440
+Carbonato,930,450
+Goethita,930,460
+Jarosita,930,470
+Sulfato de Hierro,930,480
+Esmectita,930,490
+Sílice Opalina,930,500
+Carbonato,930,510
+Jarosita,930,520
+Sulfato de Hierro,930,530
+Carbonato,930,540
+Jarosita,930,550
+Carbonato,930,560
+Jarosita,930,570
+Sulfato de Hierro,930,580
+Carbonato,930,590
+Sulfato de Hierro,930,600
+Carbonato,930,610
+Carbonato,930,620
+Jarosita,930,630
+Jarosita,930,640
+Goethita,930,650
+Filosilicatos,930,660
+Hematita,930,670
+Carbonato,930,680
+Jarosita,930,690
+Yeso,930,700
+Jarosita,940,0
+Jarosita,940,10
+Sulfato de Hierro,940,20
+Goethita,940,30
+Sulfato de Hierro,940,40
+Hematita,940,50
+Carbonato,940,60
+Sulfato de Hierro,940,70
+Goethita,940,80
+Filosilicatos,940,90
+Filosilicatos,940,100
+Sílice Opalina,940,110
+Sulfato de Hierro,940,120
+Carbonato,940,130
+Goethita,940,140
+Sulfato de Hierro,940,150
+Sílice Opalina,940,160
+Yeso,940,170
+Filosilicatos,940,180
+Esmectita,940,190
+Sílice Opalina,940,200
+Esmectita,940,210
+Goethita,940,220
+Carbonato,940,230
+Jarosita,940,240
+Esmectita,940,250
+Sulfato de Hierro,940,260
+Sulfato de Hierro,940,270
+Carbonato,940,280
+Carbonato,940,290
+Sulfato de Hierro,940,300
+Jarosita,940,310
+Goethita,940,320
+Hematita,940,330
+Hematita,940,340
+Sulfato de Hierro,940,350
+Sulfato de Hierro,940,360
+Sílice Opalina,940,370
+Sílice Opalina,940,380
+Carbonato,940,390
+Filosilicatos,940,400
+Carbonato,940,410
+Jarosita,940,420
+Sulfato de Hierro,940,430
+Sulfato de Hierro,940,440
+Goethita,940,450
+Sulfato de Hierro,940,460
+Sulfato de Hierro,940,470
+Jarosita,940,480
+Sílice Opalina,940,490
+Yeso,940,500
+Sílice Opalina,940,510
+Carbonato,940,520
+Hematita,940,530
+Sulfato de Hierro,940,540
+Goethita,940,550
+Goethita,940,560
+Filosilicatos,940,570
+Sulfato de Hierro,940,580
+Jarosita,940,590
+Sílice Opalina,940,600
+Jarosita,940,610
+Esmectita,940,620
+Carbonato,940,630
+Filosilicatos,940,640
+Yeso,940,650
+Carbonato,940,660
+Goethita,940,670
+Carbonato,940,680
+Yeso,940,690
+Filosilicatos,940,700
+Sulfato de Hierro,950,0
+Goethita,950,10
+Yeso,950,20
+Hematita,950,30
+Filosilicatos,950,40
+Goethita,950,50
+Sílice Opalina,950,60
+Filosilicatos,950,70
+Sulfato de Hierro,950,80
+Sílice Opalina,950,90
+Sulfato de Hierro,950,100
+Carbonato,950,110
+Filosilicatos,950,120
+Hematita,950,130
+Jarosita,950,140
+Filosilicatos,950,150
+Yeso,950,160
+Filosilicatos,950,170
+Carbonato,950,180
+Hematita,950,190
+Filosilicatos,950,200
+Sulfato de Hierro,950,210
+Yeso,950,220
+Hematita,950,230
+Hematita,950,240
+Jarosita,950,250
+Sílice Opalina,950,260
+Filosilicatos,950,270
+Esmectita,950,280
+Jarosita,950,290
+Carbonato,950,300
+Goethita,950,310
+Goethita,950,320
+Jarosita,950,330
+Filosilicatos,950,340
+Sulfato de Hierro,950,350
+Goethita,950,360
+Esmectita,950,370
+Sílice Opalina,950,380
+Goethita,950,390
+Esmectita,950,400
+Esmectita,950,410
+Carbonato,950,420
+Esmectita,950,430
+Sílice Opalina,950,440
+Goethita,950,450
+Filosilicatos,950,460
+Filosilicatos,950,470
+Filosilicatos,950,480
+Goethita,950,490
+Yeso,950,500
+Filosilicatos,950,510
+Yeso,950,520
+Hematita,950,530
+Sílice Opalina,950,540
+Goethita,950,550
+Carbonato,950,560
+Jarosita,950,570
+Yeso,950,580
+Yeso,950,590
+Hematita,950,600
+Hematita,950,610
+Hematita,950,620
+Sílice Opalina,950,630
+Jarosita,950,640
+Esmectita,950,650
+Sulfato de Hierro,950,660
+Esmectita,950,670
+Esmectita,950,680
+Yeso,950,690
+Jarosita,950,700
+Goethita,960,0
+Yeso,960,10
+Goethita,960,20
+Filosilicatos,960,30
+Carbonato,960,40
+Hematita,960,50
+Hematita,960,60
+Yeso,960,70
+Jarosita,960,80
+Goethita,960,90
+Hematita,960,100
+Sulfato de Hierro,960,110
+Yeso,960,120
+Filosilicatos,960,130
+Sulfato de Hierro,960,140
+Jarosita,960,150
+Esmectita,960,160
+Sulfato de Hierro,960,170
+Esmectita,960,180
+Esmectita,960,190
+Esmectita,960,200
+Hematita,960,210
+Goethita,960,220
+Esmectita,960,230
+Sulfato de Hierro,960,240
+Hematita,960,250
+Jarosita,960,260
+Sulfato de Hierro,960,270
+Sulfato de Hierro,960,280
+Hematita,960,290
+Carbonato,960,300
+Filosilicatos,960,310
+Carbonato,960,320
+Sílice Opalina,960,330
+Sílice Opalina,960,340
+Filosilicatos,960,350
+Carbonato,960,360
+Goethita,960,370
+Hematita,960,380
+Hematita,960,390
+Carbonato,960,400
+Goethita,960,410
+Sílice Opalina,960,420
+Esmectita,960,430
+Esmectita,960,440
+Hematita,960,450
+Sulfato de Hierro,960,460
+Sulfato de Hierro,960,470
+Hematita,960,480
+Sulfato de Hierro,960,490
+Filosilicatos,960,500
+Esmectita,960,510
+Filosilicatos,960,520
+Goethita,960,530
+Yeso,960,540
+Hematita,960,550
+Carbonato,960,560
+Filosilicatos,960,570
+Esmectita,960,580
+Sulfato de Hierro,960,590
+Sulfato de Hierro,960,600
+Filosilicatos,960,610
+Goethita,960,620
+Filosilicatos,960,630
+Carbonato,960,640
+Jarosita,960,650
+Goethita,960,660
+Jarosita,960,670
+Yeso,960,680
+Jarosita,960,690
+Sílice Opalina,960,700
+Goethita,970,0
+Sílice Opalina,970,10
+Carbonato,970,20
+Sílice Opalina,970,30
+Jarosita,970,40
+Hematita,970,50
+Sílice Opalina,970,60
+Hematita,970,70
+Filosilicatos,970,80
+Hematita,970,90
+Filosilicatos,970,100
+Jarosita,970,110
+Filosilicatos,970,120
+Carbonato,970,130
+Esmectita,970,140
+Yeso,970,150
+Hematita,970,160
+Esmectita,970,170
+Yeso,970,180
+Carbonato,970,190
+Goethita,970,200
+Jarosita,970,210
+Filosilicatos,970,220
+Hematita,970,230
+Yeso,970,240
+Jarosita,970,250
+Hematita,970,260
+Filosilicatos,970,270
+Sulfato de Hierro,970,280
+Filosilicatos,970,290
+Sílice Opalina,970,300
+Hematita,970,310
+Esmectita,970,320
+Jarosita,970,330
+Yeso,970,340
+Hematita,970,350
+Jarosita,970,360
+Sílice Opalina,970,370
+Esmectita,970,380
+Sílice Opalina,970,390
+Sílice Opalina,970,400
+Sulfato de Hierro,970,410
+Filosilicatos,970,420
+Jarosita,970,430
+Goethita,970,440
+Jarosita,970,450
+Esmectita,970,460
+Goethita,970,470
+Filosilicatos,970,480
+Yeso,970,490
+Hematita,970,500
+Esmectita,970,510
+Carbonato,970,520
+Goethita,970,530
+Sulfato de Hierro,970,540
+Carbonato,970,550
+Esmectita,970,560
+Yeso,970,570
+Carbonato,970,580
+Hematita,970,590
+Jarosita,970,600
+Carbonato,970,610
+Sulfato de Hierro,970,620
+Sulfato de Hierro,970,630
+Carbonato,970,640
+Jarosita,970,650
+Sílice Opalina,970,660
+Carbonato,970,670
+Carbonato,970,680
+Esmectita,970,690
+Hematita,970,700
+Esmectita,980,0
+Hematita,980,10
+Esmectita,980,20
+Yeso,980,30
+Jarosita,980,40
+Filosilicatos,980,50
+Jarosita,980,60
+Carbonato,980,70
+Jarosita,980,80
+Sílice Opalina,980,90
+Yeso,980,100
+Goethita,980,110
+Carbonato,980,120
+Sulfato de Hierro,980,130
+Filosilicatos,980,140
+Yeso,980,150
+Jarosita,980,160
+Sílice Opalina,980,170
+Hematita,980,180
+Jarosita,980,190
+Goethita,980,200
+Esmectita,980,210
+Filosilicatos,980,220
+Jarosita,980,230
+Carbonato,980,240
+Goethita,980,250
+Sulfato de Hierro,980,260
+Sulfato de Hierro,980,270
+Hematita,980,280
+Goethita,980,290
+Sulfato de Hierro,980,300
+Jarosita,980,310
+Filosilicatos,980,320
+Filosilicatos,980,330
+Filosilicatos,980,340
+Hematita,980,350
+Jarosita,980,360
+Jarosita,980,370
+Sílice Opalina,980,380
+Hematita,980,390
+Jarosita,980,400
+Carbonato,980,410
+Sílice Opalina,980,420
+Jarosita,980,430
+Carbonato,980,440
+Hematita,980,450
+Esmectita,980,460
+Carbonato,980,470
+Jarosita,980,480
+Yeso,980,490
+Esmectita,980,500
+Esmectita,980,510
+Filosilicatos,980,520
+Jarosita,980,530
+Hematita,980,540
+Sílice Opalina,980,550
+Hematita,980,560
+Sílice Opalina,980,570
+Sílice Opalina,980,580
+Sílice Opalina,980,590
+Esmectita,980,600
+Sílice Opalina,980,610
+Jarosita,980,620
+Sílice Opalina,980,630
+Filosilicatos,980,640
+Esmectita,980,650
+Filosilicatos,980,660
+Sílice Opalina,980,670
+Hematita,980,680
+Jarosita,980,690
+Esmectita,980,700
+Filosilicatos,990,0
+Jarosita,990,10
+Sílice Opalina,990,20
+Esmectita,990,30
+Sulfato de Hierro,990,40
+Goethita,990,50
+Jarosita,990,60
+Sulfato de Hierro,990,70
+Goethita,990,80
+Sílice Opalina,990,90
+Esmectita,990,100
+Jarosita,990,110
+Sílice Opalina,990,120
+Esmectita,990,130
+Sulfato de Hierro,990,140
+Sílice Opalina,990,150
+Esmectita,990,160
+Sulfato de Hierro,990,170
+Jarosita,990,180
+Sílice Opalina,990,190
+Goethita,990,200
+Sílice Opalina,990,210
+Jarosita,990,220
+Hematita,990,230
+Carbonato,990,240
+Goethita,990,250
+Goethita,990,260
+Hematita,990,270
+Filosilicatos,990,280
+Goethita,990,290
+Hematita,990,300
+Filosilicatos,990,310
+Sílice Opalina,990,320
+Sílice Opalina,990,330
+Sílice Opalina,990,340
+Sulfato de Hierro,990,350
+Carbonato,990,360
+Sulfato de Hierro,990,370
+Hematita,990,380
+Sílice Opalina,990,390
+Yeso,990,400
+Goethita,990,410
+Yeso,990,420
+Yeso,990,430
+Yeso,990,440
+Sulfato de Hierro,990,450
+Jarosita,990,460
+Goethita,990,470
+Sílice Opalina,990,480
+Filosilicatos,990,490
+Hematita,990,500
+Goethita,990,510
+Esmectita,990,520
+Sílice Opalina,990,530
+Esmectita,990,540
+Jarosita,990,550
+Sílice Opalina,990,560
+Yeso,990,570
+Yeso,990,580
+Carbonato,990,590
+Hematita,990,600
+Yeso,990,610
+Yeso,990,620
+Yeso,990,630
+Carbonato,990,640
+Carbonato,990,650
+Hematita,990,660
+Filosilicatos,990,670
+Esmectita,990,680
+Sílice Opalina,990,690
+Filosilicatos,990,700
+Goethita,1000,0
+Sulfato de Hierro,1000,10
+Hematita,1000,20
+Carbonato,1000,30
+Carbonato,1000,40
+Sulfato de Hierro,1000,50
+Hematita,1000,60
+Carbonato,1000,70
+Esmectita,1000,80
+Hematita,1000,90
+Sulfato de Hierro,1000,100
+Yeso,1000,110
+Jarosita,1000,120
+Sulfato de Hierro,1000,130
+Carbonato,1000,140
+Carbonato,1000,150
+Filosilicatos,1000,160
+Yeso,1000,170
+Goethita,1000,180
+Esmectita,1000,190
+Filosilicatos,1000,200
+Goethita,1000,210
+Yeso,1000,220
+Sílice Opalina,1000,230
+Sílice Opalina,1000,240
+Goethita,1000,250
+Filosilicatos,1000,260
+Yeso,1000,270
+Sulfato de Hierro,1000,280
+Yeso,1000,290
+Goethita,1000,300
+Sílice Opalina,1000,310
+Jarosita,1000,320
+Filosilicatos,1000,330
+Hematita,1000,340
+Carbonato,1000,350
+Carbonato,1000,360
+Sílice Opalina,1000,370
+Goethita,1000,380
+Sílice Opalina,1000,390
+Goethita,1000,400
+Yeso,1000,410
+Goethita,1000,420
+Esmectita,1000,430
+Sulfato de Hierro,1000,440
+Esmectita,1000,450
+Goethita,1000,460
+Esmectita,1000,470
+Carbonato,1000,480
+Esmectita,1000,490
+Esmectita,1000,500
+Hematita,1000,510
+Hematita,1000,520
+Carbonato,1000,530
+Hematita,1000,540
+Carbonato,1000,550
+Sulfato de Hierro,1000,560
+Carbonato,1000,570
+Hematita,1000,580
+Esmectita,1000,590
+Filosilicatos,1000,600
+Jarosita,1000,610
+Goethita,1000,620
+Sílice Opalina,1000,630
+Hematita,1000,640
+Yeso,1000,650
+Sulfato de Hierro,1000,660
+Sulfato de Hierro,1000,670
+Esmectita,1000,680
+Sílice Opalina,1000,690
+Sulfato de Hierro,1000,700
+Filosilicatos,1010,0
+Esmectita,1010,10
+Jarosita,1010,20
+Goethita,1010,30
+Esmectita,1010,40
+Goethita,1010,50
+Jarosita,1010,60
+Goethita,1010,70
+Esmectita,1010,80
+Goethita,1010,90
+Goethita,1010,100
+Esmectita,1010,110
+Filosilicatos,1010,120
+Filosilicatos,1010,130
+Goethita,1010,140
+Goethita,1010,150
+Jarosita,1010,160
+Filosilicatos,1010,170
+Goethita,1010,180
+Filosilicatos,1010,190
+Esmectita,1010,200
+Jarosita,1010,210
+Carbonato,1010,220
+Sulfato de Hierro,1010,230
+Jarosita,1010,240
+Jarosita,1010,250
+Goethita,1010,260
+Sílice Opalina,1010,270
+Carbonato,1010,280
+Hematita,1010,290
+Sulfato de Hierro,1010,300
+Jarosita,1010,310
+Sílice Opalina,1010,320
+Sulfato de Hierro,1010,330
+Sulfato de Hierro,1010,340
+Sílice Opalina,1010,350
+Yeso,1010,360
+Esmectita,1010,370
+Goethita,1010,380
+Sílice Opalina,1010,390
+Sílice Opalina,1010,400
+Goethita,1010,410
+Sílice Opalina,1010,420
+Jarosita,1010,430
+Goethita,1010,440
+Sílice Opalina,1010,450
+Jarosita,1010,460
+Yeso,1010,470
+Sílice Opalina,1010,480
+Carbonato,1010,490
+Sílice Opalina,1010,500
+Esmectita,1010,510
+Jarosita,1010,520
+Hematita,1010,530
+Jarosita,1010,540
+Jarosita,1010,550
+Filosilicatos,1010,560
+Jarosita,1010,570
+Filosilicatos,1010,580
+Sulfato de Hierro,1010,590
+Yeso,1010,600
+Esmectita,1010,610
+Carbonato,1010,620
+Yeso,1010,630
+Jarosita,1010,640
+Esmectita,1010,650
+Esmectita,1010,660
+Goethita,1010,670
+Goethita,1010,680
+Esmectita,1010,690
+Yeso,1010,700
+Sílice Opalina,1020,0
+Carbonato,1020,10
+Sulfato de Hierro,1020,20
+Esmectita,1020,30
+Jarosita,1020,40
+Jarosita,1020,50
+Hematita,1020,60
+Yeso,1020,70
+Sulfato de Hierro,1020,80
+Carbonato,1020,90
+Yeso,1020,100
+Jarosita,1020,110
+Carbonato,1020,120
+Yeso,1020,130
+Sulfato de Hierro,1020,140
+Esmectita,1020,150
+Sílice Opalina,1020,160
+Jarosita,1020,170
+Hematita,1020,180
+Sílice Opalina,1020,190
+Sulfato de Hierro,1020,200
+Hematita,1020,210
+Yeso,1020,220
+Sílice Opalina,1020,230
+Sulfato de Hierro,1020,240
+Yeso,1020,250
+Filosilicatos,1020,260
+Esmectita,1020,270
+Sulfato de Hierro,1020,280
+Carbonato,1020,290
+Sílice Opalina,1020,300
+Goethita,1020,310
+Carbonato,1020,320
+Filosilicatos,1020,330
+Sulfato de Hierro,1020,340
+Sílice Opalina,1020,350
+Sílice Opalina,1020,360
+Filosilicatos,1020,370
+Carbonato,1020,380
+Carbonato,1020,390
+Hematita,1020,400
+Yeso,1020,410
+Carbonato,1020,420
+Carbonato,1020,430
+Filosilicatos,1020,440
+Carbonato,1020,450
+Sulfato de Hierro,1020,460
+Jarosita,1020,470
+Esmectita,1020,480
+Jarosita,1020,490
+Carbonato,1020,500
+Esmectita,1020,510
+Filosilicatos,1020,520
+Filosilicatos,1020,530
+Carbonato,1020,540
+Filosilicatos,1020,550
+Carbonato,1020,560
+Filosilicatos,1020,570
+Filosilicatos,1020,580
+Sulfato de Hierro,1020,590
+Esmectita,1020,600
+Hematita,1020,610
+Carbonato,1020,620
+Filosilicatos,1020,630
+Filosilicatos,1020,640
+Hematita,1020,650
+Esmectita,1020,660
+Filosilicatos,1020,670
+Sílice Opalina,1020,680
+Carbonato,1020,690
+Sílice Opalina,1020,700
+Sulfato de Hierro,1030,0
+Sílice Opalina,1030,10
+Esmectita,1030,20
+Carbonato,1030,30
+Yeso,1030,40
+Jarosita,1030,50
+Sílice Opalina,1030,60
+Goethita,1030,70
+Sulfato de Hierro,1030,80
+Esmectita,1030,90
+Sulfato de Hierro,1030,100
+Carbonato,1030,110
+Hematita,1030,120
+Sulfato de Hierro,1030,130
+Hematita,1030,140
+Esmectita,1030,150
+Yeso,1030,160
+Sulfato de Hierro,1030,170
+Goethita,1030,180
+Esmectita,1030,190
+Yeso,1030,200
+Filosilicatos,1030,210
+Carbonato,1030,220
+Sulfato de Hierro,1030,230
+Sílice Opalina,1030,240
+Yeso,1030,250
+Carbonato,1030,260
+Hematita,1030,270
+Yeso,1030,280
+Esmectita,1030,290
+Esmectita,1030,300
+Goethita,1030,310
+Yeso,1030,320
+Esmectita,1030,330
+Esmectita,1030,340
+Sílice Opalina,1030,350
+Hematita,1030,360
+Jarosita,1030,370
+Jarosita,1030,380
+Esmectita,1030,390
+Hematita,1030,400
+Yeso,1030,410
+Filosilicatos,1030,420
+Goethita,1030,430
+Sulfato de Hierro,1030,440
+Sulfato de Hierro,1030,450
+Sulfato de Hierro,1030,460
+Filosilicatos,1030,470
+Carbonato,1030,480
+Carbonato,1030,490
+Sílice Opalina,1030,500
+Esmectita,1030,510
+Sílice Opalina,1030,520
+Sílice Opalina,1030,530
+Goethita,1030,540
+Jarosita,1030,550
+Jarosita,1030,560
+Yeso,1030,570
+Filosilicatos,1030,580
+Yeso,1030,590
+Sulfato de Hierro,1030,600
+Yeso,1030,610
+Filosilicatos,1030,620
+Carbonato,1030,630
+Jarosita,1030,640
+Hematita,1030,650
+Jarosita,1030,660
+Hematita,1030,670
+Jarosita,1030,680
+Sulfato de Hierro,1030,690
+Hematita,1030,700
+Goethita,1040,0
+Esmectita,1040,10
+Yeso,1040,20
+Yeso,1040,30
+Sulfato de Hierro,1040,40
+Goethita,1040,50
+Goethita,1040,60
+Carbonato,1040,70
+Goethita,1040,80
+Goethita,1040,90
+Yeso,1040,100
+Esmectita,1040,110
+Esmectita,1040,120
+Carbonato,1040,130
+Hematita,1040,140
+Jarosita,1040,150
+Yeso,1040,160
+Jarosita,1040,170
+Hematita,1040,180
+Esmectita,1040,190
+Jarosita,1040,200
+Filosilicatos,1040,210
+Sulfato de Hierro,1040,220
+Jarosita,1040,230
+Goethita,1040,240
+Jarosita,1040,250
+Jarosita,1040,260
+Carbonato,1040,270
+Carbonato,1040,280
+Yeso,1040,290
+Carbonato,1040,300
+Jarosita,1040,310
+Sulfato de Hierro,1040,320
+Goethita,1040,330
+Jarosita,1040,340
+Sílice Opalina,1040,350
+Sílice Opalina,1040,360
+Goethita,1040,370
+Goethita,1040,380
+Sulfato de Hierro,1040,390
+Sílice Opalina,1040,400
+Yeso,1040,410
+Goethita,1040,420
+Filosilicatos,1040,430
+Hematita,1040,440
+Yeso,1040,450
+Sílice Opalina,1040,460
+Yeso,1040,470
+Esmectita,1040,480
+Yeso,1040,490
+Sílice Opalina,1040,500
+Jarosita,1040,510
+Jarosita,1040,520
+Carbonato,1040,530
+Filosilicatos,1040,540
+Sulfato de Hierro,1040,550
+Goethita,1040,560
+Sílice Opalina,1040,570
+Goethita,1040,580
+Sulfato de Hierro,1040,590
+Sílice Opalina,1040,600
+Esmectita,1040,610
+Esmectita,1040,620
+Esmectita,1040,630
+Hematita,1040,640
+Yeso,1040,650
+Carbonato,1040,660
+Goethita,1040,670
+Goethita,1040,680
+Filosilicatos,1040,690
+Sílice Opalina,1040,700
+Jarosita,1050,0
+Esmectita,1050,10
+Jarosita,1050,20
+Goethita,1050,30
+Goethita,1050,40
+Filosilicatos,1050,50
+Hematita,1050,60
+Carbonato,1050,70
+Jarosita,1050,80
+Sílice Opalina,1050,90
+Filosilicatos,1050,100
+Jarosita,1050,110
+Yeso,1050,120
+Goethita,1050,130
+Sulfato de Hierro,1050,140
+Carbonato,1050,150
+Hematita,1050,160
+Filosilicatos,1050,170
+Carbonato,1050,180
+Esmectita,1050,190
+Filosilicatos,1050,200
+Goethita,1050,210
+Goethita,1050,220
+Yeso,1050,230
+Sílice Opalina,1050,240
+Yeso,1050,250
+Hematita,1050,260
+Jarosita,1050,270
+Carbonato,1050,280
+Sílice Opalina,1050,290
+Yeso,1050,300
+Carbonato,1050,310
+Yeso,1050,320
+Esmectita,1050,330
+Carbonato,1050,340
+Sílice Opalina,1050,350
+Esmectita,1050,360
+Goethita,1050,370
+Sílice Opalina,1050,380
+Goethita,1050,390
+Goethita,1050,400
+Sílice Opalina,1050,410
+Esmectita,1050,420
+Esmectita,1050,430
+Goethita,1050,440
+Yeso,1050,450
+Carbonato,1050,460
+Sulfato de Hierro,1050,470
+Carbonato,1050,480
+Goethita,1050,490
+Jarosita,1050,500
+Goethita,1050,510
+Sílice Opalina,1050,520
+Jarosita,1050,530
+Sulfato de Hierro,1050,540
+Esmectita,1050,550
+Filosilicatos,1050,560
+Esmectita,1050,570
+Jarosita,1050,580
+Hematita,1050,590
+Sílice Opalina,1050,600
+Filosilicatos,1050,610
+Jarosita,1050,620
+Goethita,1050,630
+Goethita,1050,640
+Sulfato de Hierro,1050,650
+Sulfato de Hierro,1050,660
+Esmectita,1050,670
+Jarosita,1050,680
+Hematita,1050,690
+Jarosita,1050,700
+Carbonato,1060,0
+Sulfato de Hierro,1060,10
+Jarosita,1060,20
+Sílice Opalina,1060,30
+Hematita,1060,40
+Sílice Opalina,1060,50
+Goethita,1060,60
+Goethita,1060,70
+Esmectita,1060,80
+Sílice Opalina,1060,90
+Jarosita,1060,100
+Sulfato de Hierro,1060,110
+Jarosita,1060,120
+Goethita,1060,130
+Hematita,1060,140
+Jarosita,1060,150
+Esmectita,1060,160
+Sílice Opalina,1060,170
+Sílice Opalina,1060,180
+Sílice Opalina,1060,190
+Esmectita,1060,200
+Goethita,1060,210
+Yeso,1060,220
+Goethita,1060,230
+Yeso,1060,240
+Goethita,1060,250
+Yeso,1060,260
+Jarosita,1060,270
+Hematita,1060,280
+Sílice Opalina,1060,290
+Sulfato de Hierro,1060,300
+Esmectita,1060,310
+Jarosita,1060,320
+Filosilicatos,1060,330
+Carbonato,1060,340
+Goethita,1060,350
+Jarosita,1060,360
+Sulfato de Hierro,1060,370
+Goethita,1060,380
+Carbonato,1060,390
+Goethita,1060,400
+Jarosita,1060,410
+Yeso,1060,420
+Goethita,1060,430
+Carbonato,1060,440
+Filosilicatos,1060,450
+Carbonato,1060,460
+Filosilicatos,1060,470
+Goethita,1060,480
+Goethita,1060,490
+Carbonato,1060,500
+Jarosita,1060,510
+Jarosita,1060,520
+Carbonato,1060,530
+Goethita,1060,540
+Sulfato de Hierro,1060,550
+Filosilicatos,1060,560
+Goethita,1060,570
+Goethita,1060,580
+Carbonato,1060,590
+Sílice Opalina,1060,600
+Carbonato,1060,610
+Hematita,1060,620
+Jarosita,1060,630
+Filosilicatos,1060,640
+Sílice Opalina,1060,650
+Goethita,1060,660
+Filosilicatos,1060,670
+Filosilicatos,1060,680
+Yeso,1060,690
+Goethita,1060,700
+Goethita,1070,0
+Esmectita,1070,10
+Goethita,1070,20
+Yeso,1070,30
+Carbonato,1070,40
+Carbonato,1070,50
+Goethita,1070,60
+Sílice Opalina,1070,70
+Esmectita,1070,80
+Carbonato,1070,90
+Jarosita,1070,100
+Hematita,1070,110
+Hematita,1070,120
+Carbonato,1070,130
+Sílice Opalina,1070,140
+Filosilicatos,1070,150
+Sulfato de Hierro,1070,160
+Yeso,1070,170
+Carbonato,1070,180
+Hematita,1070,190
+Carbonato,1070,200
+Hematita,1070,210
+Sulfato de Hierro,1070,220
+Goethita,1070,230
+Yeso,1070,240
+Sílice Opalina,1070,250
+Jarosita,1070,260
+Hematita,1070,270
+Sílice Opalina,1070,280
+Yeso,1070,290
+Goethita,1070,300
+Yeso,1070,310
+Yeso,1070,320
+Carbonato,1070,330
+Carbonato,1070,340
+Yeso,1070,350
+Hematita,1070,360
+Goethita,1070,370
+Esmectita,1070,380
+Goethita,1070,390
+Esmectita,1070,400
+Yeso,1070,410
+Yeso,1070,420
+Yeso,1070,430
+Sílice Opalina,1070,440
+Hematita,1070,450
+Carbonato,1070,460
+Esmectita,1070,470
+Carbonato,1070,480
+Yeso,1070,490
+Goethita,1070,500
+Hematita,1070,510
+Yeso,1070,520
+Yeso,1070,530
+Esmectita,1070,540
+Carbonato,1070,550
+Sulfato de Hierro,1070,560
+Esmectita,1070,570
+Sulfato de Hierro,1070,580
+Jarosita,1070,590
+Goethita,1070,600
+Carbonato,1070,610
+Jarosita,1070,620
+Hematita,1070,630
+Esmectita,1070,640
+Esmectita,1070,650
+Sílice Opalina,1070,660
+Esmectita,1070,670
+Yeso,1070,680
+Yeso,1070,690
+Carbonato,1070,700
+Esmectita,1080,0
+Yeso,1080,10
+Esmectita,1080,20
+Esmectita,1080,30
+Hematita,1080,40
+Yeso,1080,50
+Goethita,1080,60
+Yeso,1080,70
+Jarosita,1080,80
+Carbonato,1080,90
+Hematita,1080,100
+Goethita,1080,110
+Carbonato,1080,120
+Sulfato de Hierro,1080,130
+Filosilicatos,1080,140
+Hematita,1080,150
+Hematita,1080,160
+Filosilicatos,1080,170
+Jarosita,1080,180
+Jarosita,1080,190
+Carbonato,1080,200
+Sulfato de Hierro,1080,210
+Goethita,1080,220
+Filosilicatos,1080,230
+Jarosita,1080,240
+Goethita,1080,250
+Hematita,1080,260
+Sulfato de Hierro,1080,270
+Carbonato,1080,280
+Sulfato de Hierro,1080,290
+Yeso,1080,300
+Esmectita,1080,310
+Yeso,1080,320
+Goethita,1080,330
+Carbonato,1080,340
+Sílice Opalina,1080,350
+Carbonato,1080,360
+Carbonato,1080,370
+Carbonato,1080,380
+Sílice Opalina,1080,390
+Yeso,1080,400
+Sulfato de Hierro,1080,410
+Sílice Opalina,1080,420
+Filosilicatos,1080,430
+Yeso,1080,440
+Hematita,1080,450
+Yeso,1080,460
+Goethita,1080,470
+Goethita,1080,480
+Sílice Opalina,1080,490
+Esmectita,1080,500
+Sílice Opalina,1080,510
+Carbonato,1080,520
+Filosilicatos,1080,530
+Yeso,1080,540
+Yeso,1080,550
+Jarosita,1080,560
+Sulfato de Hierro,1080,570
+Yeso,1080,580
+Sulfato de Hierro,1080,590
+Goethita,1080,600
+Carbonato,1080,610
+Esmectita,1080,620
+Yeso,1080,630
+Goethita,1080,640
+Sulfato de Hierro,1080,650
+Jarosita,1080,660
+Sílice Opalina,1080,670
+Jarosita,1080,680
+Goethita,1080,690
+Jarosita,1080,700
+Jarosita,1090,0
+Carbonato,1090,10
+Jarosita,1090,20
+Goethita,1090,30
+Sílice Opalina,1090,40
+Jarosita,1090,50
+Jarosita,1090,60
+Jarosita,1090,70
+Carbonato,1090,80
+Yeso,1090,90
+Jarosita,1090,100
+Yeso,1090,110
+Yeso,1090,120
+Goethita,1090,130
+Goethita,1090,140
+Hematita,1090,150
+Carbonato,1090,160
+Yeso,1090,170
+Yeso,1090,180
+Sulfato de Hierro,1090,190
+Carbonato,1090,200
+Filosilicatos,1090,210
+Filosilicatos,1090,220
+Esmectita,1090,230
+Sílice Opalina,1090,240
+Esmectita,1090,250
+Esmectita,1090,260
+Yeso,1090,270
+Carbonato,1090,280
+Yeso,1090,290
+Yeso,1090,300
+Hematita,1090,310
+Yeso,1090,320
+Sulfato de Hierro,1090,330
+Goethita,1090,340
+Yeso,1090,350
+Filosilicatos,1090,360
+Esmectita,1090,370
+Goethita,1090,380
+Sílice Opalina,1090,390
+Hematita,1090,400
+Sílice Opalina,1090,410
+Hematita,1090,420
+Filosilicatos,1090,430
+Sulfato de Hierro,1090,440
+Goethita,1090,450
+Esmectita,1090,460
+Carbonato,1090,470
+Sulfato de Hierro,1090,480
+Hematita,1090,490
+Yeso,1090,500
+Filosilicatos,1090,510
+Goethita,1090,520
+Sulfato de Hierro,1090,530
+Esmectita,1090,540
+Carbonato,1090,550
+Jarosita,1090,560
+Esmectita,1090,570
+Goethita,1090,580
+Esmectita,1090,590
+Goethita,1090,600
+Esmectita,1090,610
+Hematita,1090,620
+Sílice Opalina,1090,630
+Sílice Opalina,1090,640
+Sílice Opalina,1090,650
+Yeso,1090,660
+Esmectita,1090,670
+Jarosita,1090,680
+Yeso,1090,690
+Yeso,1090,700
+Filosilicatos,1100,0
+Esmectita,1100,10
+Esmectita,1100,20
+Yeso,1100,30
+Goethita,1100,40
+Sílice Opalina,1100,50
+Jarosita,1100,60
+Hematita,1100,70
+Carbonato,1100,80
+Hematita,1100,90
+Filosilicatos,1100,100
+Goethita,1100,110
+Sílice Opalina,1100,120
+Esmectita,1100,130
+Carbonato,1100,140
+Filosilicatos,1100,150
+Sulfato de Hierro,1100,160
+Sílice Opalina,1100,170
+Filosilicatos,1100,180
+Carbonato,1100,190
+Esmectita,1100,200
+Goethita,1100,210
+Esmectita,1100,220
+Goethita,1100,230
+Carbonato,1100,240
+Jarosita,1100,250
+Yeso,1100,260
+Jarosita,1100,270
+Esmectita,1100,280
+Jarosita,1100,290
+Filosilicatos,1100,300
+Jarosita,1100,310
+Filosilicatos,1100,320
+Sílice Opalina,1100,330
+Hematita,1100,340
+Hematita,1100,350
+Hematita,1100,360
+Hematita,1100,370
+Esmectita,1100,380
+Jarosita,1100,390
+Filosilicatos,1100,400
+Hematita,1100,410
+Sulfato de Hierro,1100,420
+Goethita,1100,430
+Hematita,1100,440
+Sílice Opalina,1100,450
+Goethita,1100,460
+Sílice Opalina,1100,470
+Sulfato de Hierro,1100,480
+Sílice Opalina,1100,490
+Yeso,1100,500
+Sulfato de Hierro,1100,510
+Filosilicatos,1100,520
+Goethita,1100,530
+Yeso,1100,540
+Hematita,1100,550
+Goethita,1100,560
+Hematita,1100,570
+Jarosita,1100,580
+Esmectita,1100,590
+Jarosita,1100,600
+Carbonato,1100,610
+Goethita,1100,620
+Sílice Opalina,1100,630
+Jarosita,1100,640
+Carbonato,1100,650
+Sulfato de Hierro,1100,660
+Sílice Opalina,1100,670
+Carbonato,1100,680
+Goethita,1100,690
+Filosilicatos,1100,700
