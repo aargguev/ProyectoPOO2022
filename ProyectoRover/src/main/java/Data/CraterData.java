@@ -43,12 +43,5 @@ public class CraterData {
         }
         return crater;
     }
-
-    public static void main(String[] args) {
-            ArrayList<Crater> crateres = cargarCrater();
-            System.out.println(crateres);
-
-
-    }
     
 }

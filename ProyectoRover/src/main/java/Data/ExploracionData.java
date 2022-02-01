@@ -4,6 +4,7 @@
  */
 package Data;
 
+import com.mycompany.proyectopoo.App;
 import modelo.Crater;
 import modelo.ExpReporte;
 //import ClasesModelo.ExploracionReporte;
