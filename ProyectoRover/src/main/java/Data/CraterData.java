@@ -19,11 +19,11 @@ import java.util.ArrayList;
  * @author Kevin APR
  */
 public class CraterData {
-    private static String FILE_PATH =  Paths.get("src/recursos/crateres_info.txt").toString();
+    private static String FILE_PATH =  Paths.get(App.ruta+"crateres_info.txt").toString();
     
     public static ArrayList<Crater> cargarCrater() {
         ArrayList<Crater> crater = new ArrayList<>();
-        try (BufferedReader bf = new BufferedReader(new FileReader("src\\main\\java\\recursos/crateres_info.txt"))) {
+        try (BufferedReader bf = new BufferedReader(new FileReader(App.ruta+"crateres_info.txt"))) {
             String linea;
             while ((linea = bf.readLine()) != null) {
                 String c[] = linea.split(",");
