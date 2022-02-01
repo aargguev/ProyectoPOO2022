@@ -4,5 +4,7 @@ module ec.edu.espol.proyectorover {
     requires java.base;
 
     opens ec.edu.espol.proyectorover to javafx.fxml;
+    opens controlador to javafx.fxml;
     exports ec.edu.espol.proyectorover;
+    exports controlador;
 }
