@@ -21,11 +21,14 @@ import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.ButtonType;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import static modelo.Crater.ultiUbi;
+
 /**
+ * FXML Controller class
  *
  * @author Hollouss
  */
-public class Rover implements RoverI {
+public  class Rover implements RoverI {
 
     private ImageView rover;
     private Mineral minEnco;
@@ -44,9 +47,12 @@ public class Rover implements RoverI {
             rover = new ImageView(rov);
             rover.setFitHeight(40);
             rover.setFitWidth(40);
+            rover.setLayoutX(ubi.getLatitud());
+            rover.setLayoutY(ubi.getLongitud());
             nombre= name;
             ubicacion=ubi;
             this.tipo=tipo;
+            ultiUbi=ubicacion;
         } catch (FileNotFoundException ex) {
             ex.printStackTrace();
         }
@@ -253,6 +259,18 @@ el mensaje “despliegue de molinos”
      */
     public void setMinEnco(Mineral minEnco) {
         this.minEnco = minEnco;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    public Coordenada getUbicacion() {
+        return ubicacion;
     }
 
     @Override
