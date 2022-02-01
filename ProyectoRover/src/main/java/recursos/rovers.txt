@@ -1,0 +1,2 @@
+wallie,0,0,solar
+chapie,50,50,eolico
