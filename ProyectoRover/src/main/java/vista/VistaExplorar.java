@@ -14,7 +14,7 @@ import Data.CraterData;
 import static Data.EstadoCrater.EXPLORADO;
 import Data.ExploracionData;
 import Data.MineralesData;
-import com.mycompany.proyectopoo.App;
+import ec.edu.espol.proyectorover.App;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -50,12 +50,14 @@ public class VistaExplorar {
     private BorderPane raiz;
     private Pane exZone;
     private VBox commands;
-    private ArrayList<Rover> rovers= new ArrayList<>();
+    private ArrayList<Rover> rovers = new ArrayList<>();
     private Rover rover;
     private ImageView mars;
     private Label detalle;
     private ArrayList<Crater> tudoCrater;
-    private ComboBox<Rover> combo= new ComboBox<>();
+    private Crater craterSensored;
+    private ComboBox<Rover> combo = new ComboBox<>();
+    private ArrayList<Circle> circles = new ArrayList<>();
 
     /**
      * Contructor de clase que inicializa los nodos a implementar en la vista de
@@ -65,7 +67,7 @@ public class VistaExplorar {
         try {
             raiz = new BorderPane();
             tudoCrater = CraterData.cargarCrater();
-            fillComboBox();        
+            fillComboBox();
             expMarte();
             comandos();
         } catch (Exception ex) {
@@ -84,8 +86,8 @@ public class VistaExplorar {
             Image marte = new Image(fi);
             mars = new ImageView(marte);
             mars.setFitHeight(660);
-            mars.setFitWidth(1150);     
-            rover= combo.getValue();
+            mars.setFitWidth(1150);
+            rover = combo.getValue();
             exZone = new Pane(mars, rover.getRover());
             drawCrat();
             raiz.setCenter(exZone);
@@ -100,17 +102,17 @@ public class VistaExplorar {
             Rover r;
             while ((linea = bf.readLine()) != null) {
                 String c[] = linea.split(",");
-                Coordenada ubi= new Coordenada(Double.parseDouble(c[1]), Double.parseDouble(c[2]));
-                r= new Rover(c[0],ubi,c[3]);
+                Coordenada ubi = new Coordenada(Double.parseDouble(c[1]), Double.parseDouble(c[2]));
+                r = new Rover(c[0], ubi, c[3]);
                 rovers.add(r);
             }
             combo.getItems().addAll(rovers);
             combo.getSelectionModel().selectFirst();
             combo.valueProperty().addListener((o) -> {
-                rover=combo.getValue();
+                rover = combo.getValue();
                 expMarte();
             });
-            
+
         } catch (FileNotFoundException ex) {
             ex.printStackTrace();
         } catch (IOException ex) {
@@ -164,7 +166,9 @@ public class VistaExplorar {
                         comandado.appendText(comand + "\n");
                     } else if (comand.equalsIgnoreCase("sensar")) {
                         try {
-                            sacaMin(inOrOut());
+                            Crater actual = inOrOut();
+                            sacaMin(actual);
+                            actCrat(actual);
                             comandado.appendText(comand + "\n");
                         } catch (IOException ex) {
                             ex.printStackTrace();
@@ -177,7 +181,7 @@ public class VistaExplorar {
                         double y = Double.valueOf(coord[1]);
                         rover.dirigirse(x, y);
                         comandado.appendText(comand + "\n");
-                    }else if (comand.contains("cargar")) {
+                    } else if (comand.contains("cargar")) {
                         rover.cargar();
                         comandado.appendText(comand + "\n");
                     }
@@ -269,23 +273,26 @@ public class VistaExplorar {
             circrat.setStroke(Color.BLACK);
             circrat.setStrokeWidth(3);
             exZone.getChildren().add(circrat);
-            ArrayList<Circle> circles = new ArrayList<>();
             circles.add(circrat);
             circrat.setOnMouseClicked(new EventHandler<MouseEvent>() {
                 @Override
                 public void handle(MouseEvent e) {
                     detalle.setText(c.toString());
-                    if (!detalle.getText().contains("NO_EXPLORADO")) {
-                        for (Circle cl : circles) {
-                            if (c.getRadio() == cl.getRadius()) {
-                                cl.setFill(Color.rgb(255, 0, 0, 0.5));
-                            }
-                        }
-                    }
                 }
             });
+
         }
 
+    }
+
+    public void actCrat(Crater c) {
+        if (c != null) {
+            for (Circle cl : circles) {
+                if (c.getRadio() == cl.getRadius()) {
+                    cl.setFill(Color.TRANSPARENT);
+                }
+            }
+        }
     }
 
     public Pane getRaiz() {
