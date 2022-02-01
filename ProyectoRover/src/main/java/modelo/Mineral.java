@@ -12,15 +12,20 @@ import java.io.Serializable;
  */
 
 public class Mineral implements Serializable {
+
     private String mineNombre;
     Coordenada ubiMineral;
-    
+
     public Mineral(String mineNombre, Coordenada ubiMineral) {
         this.mineNombre = mineNombre;
         this.ubiMineral = ubiMineral;
-        }
-    
-    
+    }
+
+    /**
+     * Devuelve el nombre del mineral
+     *     
+     * @return String
+     */
     public String getMineNombre() {
         return mineNombre;
     }

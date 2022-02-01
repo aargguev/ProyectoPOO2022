@@ -100,5 +100,6 @@ public class Coordenada implements Serializable {
         return true;
     }
 
+
 }
 

@@ -16,7 +16,7 @@ import javafx.beans.property.StringProperty;
  * @author Kevin APR
  */
 public class ExpReporte {
-    
+
     private final ObjectProperty<LocalDate> fechaExp;
     private final StringProperty nombreC;
     private final StringProperty minerales;
@@ -32,9 +32,13 @@ public class ExpReporte {
         this.nombreC = new SimpleStringProperty(this, "nombreC", nombreC);
         this.minerales = new SimpleStringProperty(this, "minerales", minerales);
     }
-    
-    
-    
+
+    //Getters y Setters de la clase 
+    /**
+     * Devuelve la fecha de la exploracion
+     *
+     * @return LocalDate
+     */
     public final LocalDate getFechaExp() {
         return this.fechaExp.get();
     }

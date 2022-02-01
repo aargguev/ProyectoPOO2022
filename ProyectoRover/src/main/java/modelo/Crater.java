@@ -14,7 +14,8 @@ import java.util.ArrayList;
  * en un arreglo generado por la clase CraterData
  * @author Adrian Lautaro
  */
-public class Crater {
+public class Crater implements Serializable{
+
     private String idCrater;
     private String nombreCrater;
     private double radio;
@@ -22,8 +23,8 @@ public class Crater {
     private EstadoCrater estadoCrater;
     private ArrayList<Mineral> minerales;
     private Visita estadoVisita;
-    public static Coordenada ultiUbi;
-    
+    public static Coordenada ultiUbi= new Coordenada(0, 0);
+
     public Crater(String idCrater, String nombreCrater, Coordenada ubicacion, double radio) {
         this.idCrater = idCrater;
         this.nombreCrater = nombreCrater;
@@ -31,7 +32,10 @@ public class Crater {
         this.radio = radio;
         minerales = new ArrayList<>();
         estadoCrater = NO_EXPLORADO;
+        estadoVisita= Visita.NO_VISITADO;
+       
     }
+
     public String getIdCrater() {
         return idCrater;
     }
@@ -99,8 +103,9 @@ public class Crater {
 
     @Override
     public String toString() {
-        return "IDCrater:" + idCrater + ", Nombre:" + nombreCrater + ", Ubicacion:" + ubicacion.toString() + ", Radio:" + radio + ", Estado:" + estadoCrater.toString();
+        return  nombreCrater + ", Ubicacion:" + ubicacion.toString() + ", Radio:" + radio + ", Estado:" + estadoCrater.toString();
     }
+    
     @Override
     public boolean equals(Object o) {
         if (o != null && o instanceof Crater) {
