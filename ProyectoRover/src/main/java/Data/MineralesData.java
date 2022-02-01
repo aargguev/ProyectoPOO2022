@@ -42,7 +42,7 @@ public class MineralesData {
     }
     
     public static void escribirMin() {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter("recursos/minerales.txt"))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(App.ruta+"minerales.txt"))) {
             int count = 0;
             String[] minerales = {"Carbonato", "Hematita", "Goethita", "Jarosita", "Yeso", "Filosilicatos", "Esmectita", "Sulfato de Hierro", "Sílice Opalina"};
             List<Integer> coordX = IntStream.rangeClosed(0, 1100).boxed().collect(Collectors.toList());
