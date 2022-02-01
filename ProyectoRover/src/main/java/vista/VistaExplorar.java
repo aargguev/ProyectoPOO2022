@@ -14,7 +14,7 @@ import Data.CraterData;
 import static Data.EstadoCrater.EXPLORADO;
 import Data.ExploracionData;
 import Data.MineralesData;
-import com.mycompany.proyectopoo.App;
+import ec.edu.espol.proyectorover.App;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

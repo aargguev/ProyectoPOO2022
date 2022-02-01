@@ -4,7 +4,7 @@
  */
 package Data;
 
-import com.mycompany.proyectopoo.App;
+import ec.edu.espol.proyectorover.App;
 import modelo.Coordenada;
 import modelo.Crater;
 import java.io.BufferedReader;
