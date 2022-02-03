@@ -84,6 +84,7 @@ public class App extends Application {
         }
     }
 
+    //Actualizar datos.
     public static void serializar() {
         try {
             FileOutputStream flujo = new FileOutputStream(ruta + "crateres.ser");
@@ -96,7 +97,8 @@ public class App extends Application {
             cargarCrater();
         }
     }
-
+    
+    //Leer los datos de los rovers.
     public static void leerRovers() {
         try (BufferedReader bf = new BufferedReader(new FileReader(App.ruta + "rovers.txt"))) {
             String linea;
@@ -114,7 +116,8 @@ public class App extends Application {
         }
 
     }
-
+    
+    //Actualizar datos.
     public static void guardarRovers() {
         try (BufferedWriter w = new BufferedWriter(new FileWriter(App.ruta + "rovers.txt"))) {
             for (Rover r : rovers) {

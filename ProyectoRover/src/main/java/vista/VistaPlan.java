@@ -6,37 +6,19 @@ package vista;
 
 import modelo.Coordenada;
 import modelo.Crater;
-import modelo.Rover;
-import Data.CraterData;
 import Data.Visita;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+import static ec.edu.espol.proyectorover.App.listaCrateres;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
-import java.util.List;
-import javafx.event.EventHandler;
-import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
-import javafx.scene.control.TableView;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
-import javafx.scene.image.Image;
-import javafx.scene.image.ImageView;
-import javafx.scene.input.KeyEvent;
-import javafx.scene.input.MouseEvent;
-import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.FlowPane;
-import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
-import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
-import javafx.scene.paint.Color;
-import javafx.scene.shape.Circle;
-
 /**
  *
  * @author Kevin APR
@@ -50,13 +32,17 @@ public class VistaPlan {
      
             raiz = new BorderPane();
             craterez = new ArrayList<>();
-            for (Crater c : CraterData.cargarCrater()) {
+            for (Crater c : listaCrateres) {
                 craterez.add(c.getNombreCrater());
             }
             Cuerpo();
       
     }
-    
+
+    /**
+     * Metodo que crea los nodos que recibe los crateres ingresados por el
+     * usuario
+     */
     public void Cuerpo() {
         HBox cajaCrat = new HBox();
         TextField txt1 = new TextField();
@@ -74,9 +60,12 @@ public class VistaPlan {
             if (tecla.equals("ENTER")) {
                 try {
                     ordenCrat.clear();
+                    System.out.println(crateres);
+                 
                     String[] cr = crateres.split(",");
                     ArrayList<String> crx = ordenarCrat(cr);
-                    for (int i = 0; i < cr.length; i++) {
+                    System.out.println(crx);
+                    for (int i = 0; i < crx.size(); i++) {
                         ordenCrat.appendText(String.valueOf(i + 1) + ". " + crx.get(i) + "\n");
                     }
                 } catch (IOException ex) {
@@ -85,35 +74,47 @@ public class VistaPlan {
             }
         });
     }
-    
-    
+
+    /**
+     * Metodo que ordena los crateres de acuerdo a la distancia que estan del
+     * rover en el momento de su ejecucion
+     *
+     * @param cratos: Lista de crateres ingresados
+     * @return ArrayList de objetos de tipo String
+     * @throws java.io.IOException
+     * 
+     */
     public ArrayList<String> ordenarCrat(String[] cratos) throws IOException {
-        HashSet<Crater> crateres = new HashSet<>();
-        ArrayList<Crater> cratRe = new ArrayList<>();
-        ArrayList<Crater> cratVis = new ArrayList<>();
+        ArrayList<Crater> crateres = new ArrayList<>();
+        ArrayList<Double> distancias= new ArrayList<>();
         for (int i = 0; i < cratos.length; i++) {
-            if (craterez.contains(cratos[i])) {
-                crateres.add(CraterData.cargarCrater().get(craterez.indexOf(cratos[i])));
+            if (craterez.contains(cratos[i]) ) {
+                Crater c= listaCrateres.get(craterez.indexOf(cratos[i]));
+                if(!crateres.contains(c)){
+                    crateres.add(c);
+                    Coordenada actual= Crater.getUltiUbi();
+                    Coordenada pas= c.getUbicacion();
+                    double dis = Coordenada.calcularDistanciaDospuntos(actual, pas);
+                    distancias.add(dis);
+                }
+
             }
         }
-        cratRe.addAll(crateres);
+        //Ordenar la lista de crateres.
         ArrayList<String> craterex = new ArrayList<>();
-        int index = 0;
-        double minDis = Double.MAX_VALUE;
-        while (craterex.size() < crateres.size()) {
-            for (Crater c : cratRe) {
-                if (String.valueOf(c.getEstadoVisita()).equals("NO_VISITADO")) {
-                    double disDef = Coordenada.calcularDistanciaDospuntos(Crater.getUltiUbi(), c.getUbicacion());
-                    if (disDef < minDis) {
-                        minDis = disDef;
-                        index = cratRe.indexOf(c);
-                    }
-                }
-            }
-            minDis = Double.MAX_VALUE;
-            Crater.setUltiUbi(cratRe.get(index).getUbicacion());
-            cratRe.get(index).setEstadoVisita(Visita.VISITADO);
-            craterex.add(cratRe.get(index).getNombreCrater());
+        int total= crateres.size();  
+        while (craterex.size() < total) {
+            Double minimum = Collections.min(distancias);
+            int minArg = distancias.indexOf(minimum);
+            Crater cactual= crateres.get(minArg);
+            craterex.add(cactual.getNombreCrater());
+            distancias.clear();
+            crateres.remove(minArg);
+            Crater.setUltiUbi(cactual.getUbicacion());
+            for (Crater c: crateres){    
+                 double dis = Coordenada.calcularDistanciaDospuntos(Crater.getUltiUbi(), c.getUbicacion());
+                 distancias.add(dis);
+            }   
         }
         return craterex;
     }
@@ -121,6 +122,4 @@ public class VistaPlan {
     public BorderPane getRaiz() {
         return raiz;
     }
-    
-    
 }

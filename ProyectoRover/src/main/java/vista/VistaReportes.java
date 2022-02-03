@@ -39,6 +39,7 @@ import javafx.util.StringConverter;
  * @author Adrian Lautaro
  */
 public class VistaReportes {
+
     private VBox seccionContenido;
     private BorderPane raiz;
     private GridPane gridPane;
@@ -46,8 +47,10 @@ public class VistaReportes {
     private ObservableList<ExpReporte> reportes;
     private ArrayList<ExpReporte> reportesNoVisibles;
     private FilteredList<ExpReporte> reporFiltra;
-    
-    //Constructor de la clase que inicializa los nodos a implementar
+
+    /**
+     * Constructor de la clase que inicializa los nodos a implementar
+     */
     public VistaReportes() {
 
             //Objetos que se agregan en la clase reporte se los obtendra del archivo
@@ -63,6 +66,11 @@ public class VistaReportes {
             generarTabla();
      
     }
+
+    /**
+     * Metodo que agrega la interfaz de interaccion para que el usuario ingrese
+     * los criterios de busqueda
+     */
     public void seccionBusqueda() {
         gridPane = new GridPane();
 
@@ -198,5 +206,5 @@ public class VistaReportes {
     public BorderPane getRaiz() {
         return raiz;
     }
-    
+
 }

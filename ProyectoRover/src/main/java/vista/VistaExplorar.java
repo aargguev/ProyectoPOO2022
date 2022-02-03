@@ -11,10 +11,15 @@ import modelo.ExpReporte;
 import modelo.Mineral;
 import modelo.Rover;
 import Data.CraterData;
+import Data.EstadoCrater;
 import static Data.EstadoCrater.EXPLORADO;
 import Data.ExploracionData;
+import Data.InavlidCommand;
 import Data.MineralesData;
+import Data.Visita;
 import ec.edu.espol.proyectorover.App;
+import static ec.edu.espol.proyectorover.App.listaCrateres;
+import static ec.edu.espol.proyectorover.App.rovers;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -27,6 +32,8 @@ import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
+import javafx.scene.control.Alert;
+import javafx.scene.control.ButtonType;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
@@ -50,26 +57,25 @@ public class VistaExplorar {
     private BorderPane raiz;
     private Pane exZone;
     private VBox commands;
-    private ArrayList<Rover> rovers = new ArrayList<>();
     private Rover rover;
     private ImageView mars;
     private Label detalle;
-    private ArrayList<Crater> tudoCrater;
+    
     private Crater craterSensored;
     private ComboBox<Rover> combo = new ComboBox<>();
     private ArrayList<Circle> circles = new ArrayList<>();
-
+    private ImageView img;
     /**
      * Contructor de clase que inicializa los nodos a implementar en la vista de
      * exploracion
      */
-    public VistaExplorar() {
+    public VistaExplorar() {    
         try {
             raiz = new BorderPane();
-            tudoCrater = CraterData.cargarCrater();
             fillComboBox();
             expMarte();
             comandos();
+            App.isActive= true;
         } catch (Exception ex) {
             ex.printStackTrace();
             Platform.exit();
@@ -88,7 +94,9 @@ public class VistaExplorar {
             mars.setFitHeight(660);
             mars.setFitWidth(1150);
             rover = combo.getValue();
-            exZone = new Pane(mars, rover.getRover());
+            img= rover.getRover();
+            exZone = new Pane(mars,img);
+            
             drawCrat();
             raiz.setCenter(exZone);
         } catch (FileNotFoundException ex) {
@@ -97,28 +105,12 @@ public class VistaExplorar {
     }
 
     private void fillComboBox() {
-        try (BufferedReader bf = new BufferedReader(new FileReader(App.ruta + "rovers.txt"))) {
-            String linea;
-            Rover r;
-            while ((linea = bf.readLine()) != null) {
-                String c[] = linea.split(",");
-                Coordenada ubi = new Coordenada(Double.parseDouble(c[1]), Double.parseDouble(c[2]));
-                r = new Rover(c[0], ubi, c[3]);
-                rovers.add(r);
-            }
             combo.getItems().addAll(rovers);
             combo.getSelectionModel().selectFirst();
             combo.valueProperty().addListener((o) -> {
-                rover = combo.getValue();
+                rover = combo.getValue();    
                 expMarte();
             });
-
-        } catch (FileNotFoundException ex) {
-            ex.printStackTrace();
-        } catch (IOException ex) {
-            ex.printStackTrace();
-        }
-
     }
 
     /**
@@ -146,12 +138,13 @@ public class VistaExplorar {
         AnchorPane.setLeftAnchor(detalle, 10.0);
         raiz.setBottom(detail);
 
-        comande.setOnKeyPressed(new EventHandler<KeyEvent>() {
+        comande.setOnKeyPressed(new EventHandler<KeyEvent>()  {
             @Override
             public void handle(KeyEvent ev) {
                 String tecla = ev.getCode().toString();
                 String comand = comande.getCharacters().toString();
                 if (tecla.equals("ENTER")) {
+                    try{
                     if (comand.equalsIgnoreCase("avanzar")) {
                         if (rover.avanzar() == true) {
                             rover.avanzar();
@@ -184,8 +177,13 @@ public class VistaExplorar {
                     } else if (comand.contains("cargar")) {
                         rover.cargar();
                         comandado.appendText(comand + "\n");
+                    }else{
+                        throw new InavlidCommand();
                     }
-                }
+                }catch (InavlidCommand ex){
+             Alert alert = new Alert(Alert.AlertType.ERROR, ex.toString(), ButtonType.OK);
+            alert.show();
+        }}
             }
         });
         mars.setOnMouseMoved(
@@ -205,7 +203,7 @@ public class VistaExplorar {
      */
     public Crater inOrOut() throws IOException {
         Coordenada ubiRov = new Coordenada(rover.getRover().getLayoutX(), rover.getRover().getLayoutY());
-        for (Crater c : tudoCrater) {
+        for (Crater c : listaCrateres) {
             if (Coordenada.calcularDistanciaDospuntos(ubiRov, c.getUbicacion()) <= c.getRadio()) {
                 return c;
             }
@@ -248,7 +246,7 @@ public class VistaExplorar {
                         lineMin += min + ",";
                     }
                 }
-                for (Crater cr : tudoCrater) {
+                for (Crater cr : listaCrateres) {
                     if (cr.getNombreCrater().equals(c.getNombreCrater())) {
                         for (Mineral m : minCrat) {
                             cr.getMinerales().add(m);
@@ -265,11 +263,13 @@ public class VistaExplorar {
     }
 
     public void drawCrat() {
-        for (Crater c : tudoCrater) {
+        for (Crater c : listaCrateres) {
             Circle circrat = new Circle(c.getRadio());
             circrat.setLayoutX(c.getUbicacion().getLatitud());
             circrat.setLayoutY(c.getUbicacion().getLongitud());
-            circrat.setFill(Color.rgb(102, 228, 48, 0.5));
+            if(c.getEstadoCrater().equals(EstadoCrater.NO_EXPLORADO))
+            circrat.setFill(Color.rgb(102, 228, 48, 0.5)); 
+            else circrat.setFill(Color.TRANSPARENT);
             circrat.setStroke(Color.BLACK);
             circrat.setStrokeWidth(3);
             exZone.getChildren().add(circrat);

@@ -101,6 +101,7 @@ public  class Rover implements RoverI {
      *
      * @param espacio Distancia a recorrer en double
      */
+    //Implementarlo en hilo.
     public void desplazar(double espacio) {
         double angle = rover.getRotate();
         double oldX = rover.getLayoutX();

@@ -19,10 +19,20 @@ import java.util.ArrayList;
  * @author Kevin APR
  */
 public class CraterData {
+
     private static String FILE_PATH =  Paths.get(App.ruta+"crateres_info.txt").toString();
-    
-    public static ArrayList<Crater> cargarCrater() {
-        ArrayList<Crater> crater = new ArrayList<>();
+
+    /**
+     * Esta funcion lee el archivo crateres_info.txt que se encuentra en el
+     * paquete recursos y retorna un ArrayList con la info de los crateres
+     * FORMATO ARCHIVO idCrater,nombre,distancia,latitud,longitud
+     *
+     * @return crater Arreglo que contiene todos los objeto de tipo crater
+     * encontrados en el archivo crateres_info.txt
+     * 
+     */
+    public static void cargarCrater() {
+        
         try (BufferedReader bf = new BufferedReader(new FileReader(App.ruta+"crateres_info.txt"))) {
             String linea;
             while ((linea = bf.readLine()) != null) {
@@ -33,15 +43,13 @@ public class CraterData {
                 double latitud = Double.valueOf(c[2].trim());
                 double longitud = Double.valueOf(c[3].trim());
                 double radio = Double.valueOf(c[4].trim());
-
-                crater.add(new Crater(idCrater, nombreCrater, new Coordenada(latitud, longitud), radio));
+                App.listaCrateres.add(new Crater(idCrater, nombreCrater, new Coordenada(latitud, longitud), radio));
             }
         } catch (FileNotFoundException ex) {
-            ex.printStackTrace();
+            System.out.println("No se pudo encontrar el archivo crateres ");
         } catch (IOException ex) {
             ex.printStackTrace();
         }
-        return crater;
     }
-    
+
 }
