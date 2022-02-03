@@ -72,7 +72,7 @@ public class App extends Application {
     }
 
     private static void deserializar() {
-        try (ObjectInputStream st = new ObjectInputStream(new FileInputStream(ruta + "crateres.ser"))) {
+        try (ObjectInputStream st = new ObjectInputStream(new FileInputStream("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/crateres.ser"))) {
             listaCrateres = (ArrayList<Crater>) st.readObject();
             System.out.println("Deserializando...");
         } catch (IOException e) {
@@ -87,7 +87,7 @@ public class App extends Application {
     //Actualizar datos.
     public static void serializar() {
         try {
-            FileOutputStream flujo = new FileOutputStream(ruta + "crateres.ser");
+            FileOutputStream flujo = new FileOutputStream("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/crateres.ser");
             ObjectOutputStream archivo = new ObjectOutputStream(flujo);
             archivo.writeObject(listaCrateres);
             archivo.close();

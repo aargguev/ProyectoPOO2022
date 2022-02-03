@@ -30,7 +30,7 @@ import java.util.Arrays;
  */
 public class ExploracionData {
     public static void escribirExploracion(ExpReporte e) throws IOException {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(App.ruta+"exploracion_Info.txt", true))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/exploracion_Info.txt", true))) {
             String fechaExplo = e.getFechaExp().format(DateTimeFormatter.ISO_DATE);
             String nomCrater = e.getNombreC();
             String mineNombres = e.getMinerales();
@@ -41,7 +41,7 @@ public class ExploracionData {
     
     public static ArrayList<ExpReporte> cargarExploracion(){
         ArrayList<ExpReporte> reportes = new ArrayList<>();
-        try (BufferedReader bf = new BufferedReader(new FileReader(App.ruta+"exploracion_Info.txt"))) {
+        try (BufferedReader bf = new BufferedReader(new FileReader("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/exploracion_Info.txt"))) {
             String linea;
             while ((linea = bf.readLine()) != null) {
                 String[] l = linea.trim().split(";");

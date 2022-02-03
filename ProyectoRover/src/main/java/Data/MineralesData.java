@@ -25,7 +25,7 @@ import java.util.stream.IntStream;
 public class MineralesData {
     public static ArrayList<Mineral> cargarMineral() throws IOException {
         ArrayList<Mineral> minerales = new ArrayList<>();
-        try (BufferedReader bf = new BufferedReader(new FileReader(App.ruta+"minerales.txt"))) {
+        try (BufferedReader bf = new BufferedReader(new FileReader("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/minerales.txt"))) {
             String linea;
             while ((linea = bf.readLine()) != null) {
                 String min[] = linea.split(",");
@@ -42,7 +42,7 @@ public class MineralesData {
     }
     
     public static void escribirMin() {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(App.ruta+"minerales.txt"))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/minerales.txt"))) {
             int count = 0;
             String[] minerales = {"Carbonato", "Hematita", "Goethita", "Jarosita", "Yeso", "Filosilicatos", "Esmectita", "Sulfato de Hierro", "Sílice Opalina"};
             List<Integer> coordX = IntStream.rangeClosed(0, 1100).boxed().collect(Collectors.toList());

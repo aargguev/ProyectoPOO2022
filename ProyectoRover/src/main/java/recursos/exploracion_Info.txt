@@ -23,3 +23,5 @@
 2022-01-31;Potanina;Yeso,Goethita,Carbonato,Hematita,Jarosita,Sulfato de Hierro,Esmectita,Sílice Opalina,Filosilicatos
 2022-02-03;Graham;Goethita,Yeso,Carbonato,Hematita,Jarosita,Sílice Opalina,Sulfato de Hierro,Esmectita,Filosilicatos
 2022-02-03;Graham;Goethita,Yeso,Carbonato,Hematita,Jarosita,Sílice Opalina,Sulfato de Hierro,Esmectita,Filosilicatos
+2022-02-03;Markham;Yeso,Goethita,Carbonato,Hematita,Jarosita,Sílice Opalina,Sulfato de Hierro,Esmectita,Filosilicatos
+2022-02-03;Kenny;Yeso,Goethita,Carbonato,Hematita,Jarosita,Sílice Opalina,Esmectita,Sulfato de Hierro,Filosilicatos

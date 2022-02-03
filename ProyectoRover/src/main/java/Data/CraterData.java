@@ -20,7 +20,7 @@ import java.util.ArrayList;
  */
 public class CraterData {
 
-    private static String FILE_PATH =  Paths.get(App.ruta+"crateres_info.txt").toString();
+    private static String FILE_PATH =  Paths.get("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/crateres_info.txt").toString();
 
     /**
      * Esta funcion lee el archivo crateres_info.txt que se encuentra en el
@@ -33,7 +33,7 @@ public class CraterData {
      */
     public static void cargarCrater() {
         
-        try (BufferedReader bf = new BufferedReader(new FileReader(App.ruta+"crateres_info.txt"))) {
+        try (BufferedReader bf = new BufferedReader(new FileReader("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/crateres_info.txt"))) {
             String linea;
             while ((linea = bf.readLine()) != null) {
                 String c[] = linea.split(",");

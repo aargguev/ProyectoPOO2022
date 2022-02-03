@@ -64,7 +64,7 @@ public class VistaExplorar {
     private Crater craterSensored;
     private ComboBox<Rover> combo = new ComboBox<>();
     private ArrayList<Circle> circles = new ArrayList<>();
-    private ImageView img;
+
     /**
      * Contructor de clase que inicializa los nodos a implementar en la vista de
      * exploracion
@@ -88,14 +88,13 @@ public class VistaExplorar {
      */
     public void expMarte() {
         try {
-            FileInputStream fi = new FileInputStream(App.ruta + "Marte.jpg");
+            FileInputStream fi = new FileInputStream("C:/Espol 2 - 2021/Programación Orientada a Objeto - P3/ProyectoP2/ProyectoPOO2022/ProyectoRover/src/main/java/recursos/Marte.jpg");
             Image marte = new Image(fi);
             mars = new ImageView(marte);
             mars.setFitHeight(660);
             mars.setFitWidth(1150);
             rover = combo.getValue();
-            img= rover.getRover();
-            exZone = new Pane(mars,img);
+            exZone = new Pane(mars,rover.getRover());
             
             drawCrat();
             raiz.setCenter(exZone);
