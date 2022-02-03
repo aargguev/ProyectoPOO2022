@@ -269,7 +269,7 @@ public class VistaExplorar {
             circrat.setLayoutY(c.getUbicacion().getLongitud());
             if(c.getEstadoCrater().equals(EstadoCrater.NO_EXPLORADO))
             circrat.setFill(Color.rgb(102, 228, 48, 0.5)); 
-            else circrat.setFill(Color.TRANSPARENT);
+            else circrat.setFill(Color.rgb(255, 0, 0, 0.5));
             circrat.setStroke(Color.BLACK);
             circrat.setStrokeWidth(3);
             exZone.getChildren().add(circrat);
@@ -289,7 +289,7 @@ public class VistaExplorar {
         if (c != null) {
             for (Circle cl : circles) {
                 if (c.getRadio() == cl.getRadius()) {
-                    cl.setFill(Color.TRANSPARENT);
+                    cl.setFill(Color.rgb(255, 0, 0, 0.5));
                 }
             }
         }
